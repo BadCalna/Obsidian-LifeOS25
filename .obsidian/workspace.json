@@ -18,6 +18,36 @@
             }
           }
         ]
+      },
+      {
+        "id": "825e506debb6d02f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e116ebd1dacab43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10. PKM/40. Archived/Know Github/00. Introduction to Github.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "00. Introduction to Github"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,8 +233,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,16 +254,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "23f34688a295cf49",
   "lastOpenFiles": [
-    "10. PKM/10. Projects/Know Github/10.1 Repository.md",
+    "10. PKM/40. Archived/Know Github/10.1 Repository.md",
     "00. System FILE/Template/Github_template.md",
-    "10. PKM/10. Projects/Know Github/00. Introduction to Github.md",
-    "10. PKM/10. Projects/Know Github/10.5 Merge pull request.md",
+    "10. PKM/40. Archived/Know Github/00. Introduction to Github.md",
+    "10. PKM/40. Archived/Know Github/10.5 Merge pull request.md",
     "10. PKM/10. Projects/Know Github/Github.md",
-    "10. PKM/10. Projects/Know Github/10.4 Pull Request.md",
-    "10. PKM/10. Projects/Know Github/10.3 Commit.md",
-    "10. PKM/10. Projects/Know Github/10.2 Branch.md",
+    "10. PKM/40. Archived/Know Github/10.4 Pull Request.md",
+    "10. PKM/40. Archived/Know Github/10.3 Commit.md",
+    "10. PKM/40. Archived/Know Github/10.2 Branch.md",
     "00. System FILE/95. attachment/Pasted image 20250220131817.png",
     "00. System File/95. attachment/Pasted image 20250220131817.png",
     "00. System FILE/95. attachment/Pasted image 20250220131656.png",
@@ -249,7 +278,7 @@
     "00. System File/95. attachment",
     "00. System FILE/Template/PKM_Note.md",
     "00. System FILE/Template/Item_card.md",
-    "10. PKM/10. Projects/Know Github",
+    "10. PKM/40. Archived/Know Github",
     "00. System FILE/Template/Google Data Analytics.md",
     "10. PKM/10. Projects/Google Data Analytics/70. Act｜Act.md",
     "00. System FILE/Template/TempNote(For Google Data Analytics).md",
