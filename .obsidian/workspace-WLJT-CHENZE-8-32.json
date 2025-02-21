@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "3011c4691e7ad037",
+    "type": "split",
+    "children": [
+      {
+        "id": "842f9c2ed66bfb1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7364936b97a96719",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40. Working/CTRM/TEST/采购入仓单.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "采购入仓单"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "822ec18dedd7af0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9ab4a599e85cf6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23f34688a295cf49",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "d900daafd723c73d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "3a0fc96ae786a8ac",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 385.5
+  },
+  "right": {
+    "id": "b81bc07e47d2e730",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b350ecda1afd87e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb0e1841ee9fd521",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "10. memo/电子签章基础数据对接.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "电子签章基础数据对接 的反向連結"
+            }
+          },
+          {
+            "id": "55c9fa7b242b84a9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "fe090a092a5383b5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "c035e6a422a4cffb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "40. Working/CTRM/TEST/采购入仓单.md"
+              },
+              "icon": "lucide-list",
+              "title": "采购入仓单 的大纲"
+            }
+          },
+          {
+            "id": "dc527997d51d17e3",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-kanban:创建新看板": false,
+      "templates:插入模板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "7364936b97a96719",
+  "lastOpenFiles": [
+    "20. PKM/G 文化、科学、教育、体育/G8 体育/未命名",
+    "20. PKM/G 文化、科学、教育、体育/G8 体育",
+    "20. PKM/G 文化、科学、教育、体育/未命名",
+    "20. PKM/G 文化、科学、教育、体育",
+    "20. PKM/未命名",
+    "40. Working/CTRM/TEST/采购到货量价调整单.md",
+    "40. Working/CTRM/CTRM_Map.md",
+    "40. Working/CTRM/TEST/采购入仓单.md",
+    "20. PKM/T 工业技术/TP 自动化技术、计算机技术/TP18 人工智能理论/Role List.md",
+    "20. PKM/T 工业技术/TP 自动化技术、计算机技术/TP18 人工智能理论/Role List-Jay的Mac mini.md",
+    "00. System File/90. Templater/Test_Report_Template.md",
+    "2024-12-05.md",
+    "2024-12-04.md",
+    "2024-12-03.md",
+    "00. System File/90. Templater/{{date}}-To-do-List.md",
+    "40. Working/CTRM/TEST/采购到货磅差确认单.md",
+    "20. PKM/00. PKM_Intro.md",
+    "30. TimeManagement/00. Intro.md",
+    "10. memo/磅差需修改点.md",
+    "10. memo/电子签章.md",
+    "10. memo/电子签章基础数据对接.md",
+    "10. memo/2024年管培汇报.md",
+    "10. memo/2024-11-24.md",
+    "50. Project",
+    "20. PKM/T 工业技术/TP 自动化技术、计算机技术/TP18 人工智能理论/Role List-Jay的Mac mini-21.md",
+    "20. PKM/T 工业技术/TP 自动化技术、计算机技术/TP18 人工智能理论/Role List 2.md",
+    "20. PKM/T 工业技术/TP 自动化技术、计算机技术/TP18 人工智能理论/Role List-Jay的Mac mini-20.md",
+    "20. PKM/T 工业技术/TP 自动化技术、计算机技术/TP18 人工智能理论/Role List-Jay的Mac mini-19.md",
+    "20. PKM/T 工业技术/TP 自动化技术、计算机技术/TP18 人工智能理论/Role List-Jay的Mac mini-18.md",
+    "20. PKM/T 工业技术/TP 自动化技术、计算机技术/TP18 人工智能理论/Role List-Jay的Mac mini-17.md",
+    "20. PKM/T 工业技术/TP 自动化技术、计算机技术/TP18 人工智能理论/Role List-Jay的Mac mini-16.md",
+    "20. PKM/T 工业技术/TP 自动化技术、计算机技术/TP3 计算机技术/TP31 编程语言/Dataview",
+    "20. PKM/T 工业技术/TP 自动化技术、计算机技术/TP3 计算机技术/TP31 编程语言",
+    "20. PKM/T 工业技术/TP 自动化技术、计算机技术/TP3 计算机技术",
+    "40. Working/CTRM/TEST",
+    "40. Working/CTRM"
+  ]
+}

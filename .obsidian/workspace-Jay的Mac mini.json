@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "3011c4691e7ad037",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f23ac214329d3ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32946e3efe91e812",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新分頁"
+            }
+          }
+        ]
+      },
+      {
+        "id": "fa64410826544cba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95ec6f0054fa99fe",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "關聯圖檢視"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "822ec18dedd7af0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9ab4a599e85cf6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23f34688a295cf49",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
+            }
+          },
+          {
+            "id": "d900daafd723c73d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3a0fc96ae786a8ac",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b81bc07e47d2e730",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b350ecda1afd87e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb0e1841ee9fd521",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "55c9fa7b242b84a9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "fe090a092a5383b5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c035e6a422a4cffb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false
+    }
+  },
+  "active": "23f34688a295cf49",
+  "lastOpenFiles": [
+    "00. System File/110. Hardware_layer.md",
+    "00. System File/11. Overall _Structure-Jay的Mac mini-3.md",
+    "00. System File/11. Overall _Structure-Jay的Mac mini-2.md",
+    "00. System File/11. Overall _Structure-Jay的Mac mini.md",
+    "00. System File/11. Overall _Structure 2.md",
+    "00. System File/11. Overall _Structure.md",
+    "11. Overall _Structure.md",
+    "00. System File/00. Intro.md",
+    "00. System File/10. LifeOS_MOC.md",
+    "10. LifeOS_MOC.md",
+    "10.LifeOS_MOC.md",
+    "00. Intro-Jay的Mac mini.md",
+    "00. Intro.md",
+    "00. System File",
+    "Welcome.md"
+  ]
+}

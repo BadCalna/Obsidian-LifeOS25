@@ -1,0 +1,13 @@
+{
+  "cssTheme": "Blue Topaz",
+  "theme": "moonstone",
+  "accentColor": "#ee2a29",
+  "textFontFamily": "Lucida Calligraphy,Cascadia Code",
+  "interfaceFontFamily": "Comic Sans MS,Bodoni MT",
+  "baseFontSize": 20,
+  "monospaceFontFamily": "AkayaTelivigala",
+  "nativeMenus": true,
+  "enabledCssSnippets": [],
+  "translucency": false,
+  "showRibbon": true
+}

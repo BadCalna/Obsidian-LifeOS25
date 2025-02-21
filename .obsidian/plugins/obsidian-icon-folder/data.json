@@ -1,0 +1,51 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiArchive",
+      "LiAreaChart",
+      "LiCoins",
+      "LiPlane",
+      "LiNotebookTabs"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "00. System File": "LiSettings",
+  "00. System File/99. Excalidraw": "LiPaintbrushVertical",
+  "00. System File/90. Templater": "LiLayoutTemplate",
+  "10. memo": "LiMemoryStick",
+  "20. PKM": "LiLibraryBig",
+  "30. TimeManagement": "LiTimer",
+  "40. Working": "LiWorkflow",
+  "00. System File/95. attachment": "LiFile",
+  "00. System FILE": "LiFileTerminal",
+  "10. PKM": "LiNotebookTabs",
+  "10. PKM/10. Projects": "LiPlane",
+  "10. PKM/20. Resources": "LiCoins",
+  "10. PKM/30. Areas": "LiAreaChart",
+  "10. PKM/40. Archived": "LiArchive"
+}

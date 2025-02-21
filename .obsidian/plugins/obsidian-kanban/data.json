@@ -1,0 +1,22 @@
+{
+  "show-checkboxes": true,
+  "date-colors": [
+    {
+      "isToday": false,
+      "distance": 1,
+      "unit": "days",
+      "direction": "after",
+      "backgroundColor": "rgba(252, 250, 250, 0)",
+      "color": "rgba(239, 0, 0, 1)"
+    }
+  ],
+  "tag-colors": [
+    {
+      "tagKey": "",
+      "color": "rgba(255, 255, 255, 1)",
+      "backgroundColor": "rgba(240, 20, 0, 0.1)"
+    }
+  ],
+  "move-dates": true,
+  "show-relative-date": true
+}
