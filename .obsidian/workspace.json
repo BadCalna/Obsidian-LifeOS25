@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. PKM/10. Projects/Google Data Analytics/400. TEMP.md",
+                "file": "10. PKM/10. Projects/Google Data Analytics/10.4.1 Data Fairness.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "400. TEMP"
+              "title": "10.4.1 Data Fairness"
             }
           }
         ]
@@ -96,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.5
+    "width": 385.5,
+    "collapsed": true
   },
   "right": {
     "id": "b81bc07e47d2e730",
@@ -174,8 +175,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -184,8 +185,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -213,12 +214,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,9 +239,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e116ebd1dacab43",
+  "active": "dc527997d51d17e3",
   "lastOpenFiles": [
     "10. PKM/40. Archived/Know Github/00. Introduction to Github.md",
+    "10. PKM/10. Projects/Google Data Analytics/10.4.1 Data Fairness.md",
+    "10. PKM/10. Projects/Google Data Analytics/400. TEMP.md",
     "10. PKM/40. Archived/Know Github/10.1 Repository.md",
     "00. System FILE/Template/Github_template.md",
     "10. PKM/40. Archived/Know Github/10.5 Merge pull request.md",
@@ -278,8 +280,6 @@
     "10. PKM/10. Projects/Google Data Analytics/10.1.11 Glossary Terms.md",
     "10. PKM/10. Projects/Google Data Analytics/10.1.10 Data-driven decision-making.md",
     "10. PKM/10. Projects/Google Data Analytics/10.1.9 CASE-WATER PUMPS DEFECT.md",
-    "10. PKM/10. Projects/Google Data Analytics/00. RoadMap.md",
-    "10. PKM/30. Areas/Scattered Knowledge/MosCow.md",
     "10. PKM/30. Areas/Obsidian Usage",
     "10. PKM/10. Projects/Stanford Machine Learning",
     "10. PKM/30. Areas/Scattered Knowledge",
