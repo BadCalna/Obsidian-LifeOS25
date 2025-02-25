@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. PKM/10. Projects/Google Data Analytics/10.4.1 Data Fairness.md",
+                "file": "10. PKM/10. Projects/Google Data Analytics/10. Foundations｜ Foundations.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "10.4.1 Data Fairness"
+              "title": "10. Foundations｜ Foundations"
             }
           }
         ]
@@ -96,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.5,
-    "collapsed": true
+    "width": 385.5
   },
   "right": {
     "id": "b81bc07e47d2e730",
@@ -239,18 +238,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc527997d51d17e3",
+  "active": "7e116ebd1dacab43",
   "lastOpenFiles": [
-    "10. PKM/40. Archived/Know Github/00. Introduction to Github.md",
+    "10. PKM/10. Projects/Google Data Analytics/10.1.4 Concept Clarification & Warning!.md",
+    "10. PKM/10. Projects/Google Data Analytics/10.1.5 Key data analyst skills.md",
+    "10. PKM/10. Projects/Google Data Analytics/10. Foundations｜ Foundations.md",
+    "10. PKM/10. Projects/Google Data Analytics/10.1.1 Six Phases of data analysis.md",
+    "10. PKM/10. Projects/Google Data Analytics/10.1.10 Data-driven decision-making.md",
+    "10. PKM/10. Projects/Google Data Analytics/10.1.11 Glossary Terms.md",
+    "10. PKM/10. Projects/Google Data Analytics/10.1.2 Data analytic process model.md",
+    "10. PKM/10. Projects/Google Data Analytics/10.1.9 CASE-WATER PUMPS DEFECT.md",
+    "10. PKM/10. Projects/Google Data Analytics/10.2.2 Phase of Data Analysis.md",
+    "10. PKM/10. Projects/Google Data Analytics/10.2.1 Data Life Cycle.md",
+    "10. PKM/10. Projects/Google Data Analytics/10.3.1 Master spreadsheets basics.md",
+    "10. PKM/10. Projects/Google Data Analytics/10.3.4 Glossary Terms.md",
+    "10. PKM/10. Projects/Google Data Analytics/10.2.3 Data Analyst Toolbox.md",
+    "10. PKM/10. Projects/Google Data Analytics/10.2.3 Glossary Terms.md",
+    "10. PKM/10. Projects/Google Data Analytics/10.1.8 Core analytical skills.md",
+    "10. PKM/10. Projects/Google Data Analytics/10.1.7 Analytic Thinking.md",
+    "10. PKM/10. Projects/Google Data Analytics/10.1.6 CASE-Mega-Pik.md",
+    "10. PKM/10. Projects/Google Data Analytics/10.1.3 Case of Practice of google analytic process.md",
+    "10. PKM/10. Projects/Google Data Analytics/00. RoadMap.md",
     "10. PKM/10. Projects/Google Data Analytics/10.4.1 Data Fairness.md",
+    "10. PKM/40. Archived/Know Github/00. Introduction to Github.md",
     "10. PKM/10. Projects/Google Data Analytics/400. TEMP.md",
     "10. PKM/40. Archived/Know Github/10.1 Repository.md",
     "00. System FILE/Template/Github_template.md",
     "10. PKM/40. Archived/Know Github/10.5 Merge pull request.md",
     "10. PKM/10. Projects/Know Github/Github.md",
-    "10. PKM/40. Archived/Know Github/10.4 Pull Request.md",
-    "10. PKM/40. Archived/Know Github/10.3 Commit.md",
-    "10. PKM/40. Archived/Know Github/10.2 Branch.md",
     "00. System FILE/95. attachment/Pasted image 20250220131817.png",
     "00. System File/95. attachment/Pasted image 20250220131817.png",
     "00. System FILE/95. attachment/Pasted image 20250220131656.png",
@@ -263,23 +278,7 @@
     "00. System FILE/95. attachment/Pasted image 20250220125625.png",
     "00. System FILE/95. attachment",
     "00. System File/95. attachment",
-    "00. System FILE/Template/PKM_Note.md",
-    "00. System FILE/Template/Item_card.md",
     "10. PKM/40. Archived/Know Github",
-    "00. System FILE/Template/Google Data Analytics.md",
-    "10. PKM/10. Projects/Google Data Analytics/70. Act｜Act.md",
-    "00. System FILE/Template/TempNote(For Google Data Analytics).md",
-    "00. System FILE/Inbox.md",
-    "10. PKM/10. Projects/Google Data Analytics/80. Capstone｜Capstone.md",
-    "10. PKM/10. Projects/Google Data Analytics/60. Share｜Share.md",
-    "10. PKM/10. Projects/Google Data Analytics/50. Analyze｜Analyze.md",
-    "10. PKM/10. Projects/Google Data Analytics/40. Process｜Process.md",
-    "10. PKM/10. Projects/Google Data Analytics/20. Ask｜Ask.md",
-    "10. PKM/10. Projects/Google Data Analytics/10.3.4 Glossary Terms.md",
-    "10. PKM/10. Projects/Google Data Analytics/10.2.3 Glossary Terms.md",
-    "10. PKM/10. Projects/Google Data Analytics/10.1.11 Glossary Terms.md",
-    "10. PKM/10. Projects/Google Data Analytics/10.1.10 Data-driven decision-making.md",
-    "10. PKM/10. Projects/Google Data Analytics/10.1.9 CASE-WATER PUMPS DEFECT.md",
     "10. PKM/30. Areas/Obsidian Usage",
     "10. PKM/10. Projects/Stanford Machine Learning",
     "10. PKM/30. Areas/Scattered Knowledge",
