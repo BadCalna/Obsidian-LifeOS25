@@ -1,7 +1,6 @@
 ---
 tags:
   - WaitForArranged
-  - Project
 Date-creation: 2025-02-17 19:52
 Date-modified: 2025-02-17 19:52
 ---

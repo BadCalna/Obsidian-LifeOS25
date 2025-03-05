@@ -1,6 +1,5 @@
 ---
 tags:
-  - Project
   - DataAnalytic
   - Google
 Date-creation: <% tp.file.creation_date() %>
