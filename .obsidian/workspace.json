@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "aca4bf35e21b769f",
+        "id": "ab914f8e8491dfef",
         "type": "tabs",
         "children": [
           {
-            "id": "2122daffd5c780cc",
+            "id": "e0927c83e82a44a8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10. PKM/10. Projects/Google Data Analytics/20. Ask/20.1.2 Common Problem Types and some Cases.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "20.1.2 Common Problem Types and some Cases"
+              "title": "新标签页"
             }
           }
         ]
@@ -238,9 +224,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2122daffd5c780cc",
+  "active": "e0927c83e82a44a8",
   "lastOpenFiles": [
+    "EDA(Exploratory Data Analysis).md",
+    "10. PKM/10. Projects/Google Data Analytics/20. Ask/20.1.3 SMART Question.md",
+    "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.4.1 Data Fairness.md",
+    "10. PKM/10. Projects/Google Data Analytics/80. Capstone｜Capstone.md",
     "10. PKM/10. Projects/Google Data Analytics/20. Ask/20.1.2 Common Problem Types and some Cases.md",
+    "Personal_Scrum.md",
     "10. PKM/10. Projects/Google Data Analytics/20. Ask/20.1.1 Reveiw of Six phases of Data Analysis.md",
     "10. PKM/10. Projects/Google Data Analytics/20. Ask/20. Ask｜Ask.md",
     "00. System FILE/Template/RPA License.md",
@@ -249,23 +240,18 @@
     "00. System FILE/Template/Google Data Analytics.md",
     "00. System FILE/Template/Github_template.md",
     "10. PKM/30. Areas/Scattered Knowledge/MosCow.md",
-    "10. PKM/10. Projects/Google Data Analytics/80. Capstone｜Capstone.md",
     "10. PKM/10. Projects/Google Data Analytics/70. Act｜Act.md",
     "10. PKM/10. Projects/Google Data Analytics/60. Share｜Share.md",
     "10. PKM/10. Projects/Google Data Analytics/50. Analyze｜Analyze.md",
     "10. PKM/40. Archived/Know Github/10.5 Merge pull request.md",
     "10. PKM/10. Projects/Google Data Analytics/40. Process｜Process.md",
     "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.4.2 Glossary Terms.md",
-    "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.4.1 Data Fairness.md",
     "10. PKM/40. Archived/Know Github/10.4 Pull Request.md",
     "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.3.4 Glossary Terms.md",
     "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.3.3 Data Viz.md",
     "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.3.2 SQL.md",
     "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.2.1 Data Life Cycle.md",
     "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.2.2 Phase of Data Analysis.md",
-    "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.3.1 Master spreadsheets basics.md",
-    "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.2.3 Data Analyst Toolbox.md",
-    "10. PKM/40. Archived/Know Github/10.3 Commit.md",
     "10. PKM/10. Projects/Google Data Analytics/20. Ask",
     "10. PKM/10. Projects/Google Data Analytics/10. Foundations",
     "10. PKM/10. Projects/Yingdao RPA",
