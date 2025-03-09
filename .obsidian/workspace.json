@@ -130,12 +130,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00. System FILE/95. attachment/Pasted image 20250220112420.png",
+                "file": "10. PKM/30. Areas/TaskManagement/Follow Thomas Frank to build an Ultimate Tasks system.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Pasted image 20250220112420 的出链列表"
+              "title": "Follow Thomas Frank to build an Ultimate Tasks system 的出链列表"
             }
           },
           {
@@ -159,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00. System FILE/95. attachment/Pasted image 20250220112420.png",
+                "file": "10. PKM/30. Areas/TaskManagement/Follow Thomas Frank to build an Ultimate Tasks system.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Pasted image 20250220112420 的大纲"
+              "title": "Follow Thomas Frank to build an Ultimate Tasks system 的大纲"
             }
           },
           {
@@ -213,11 +213,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 302.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,11 +238,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e0927c83e82a44a8",
+  "active": "c035e6a422a4cffb",
   "lastOpenFiles": [
-    "00. System FILE/95. attachment/Pasted image 20250309162726.png",
-    "10. PKM/30. Areas/TaskManagement/Follow Thomas Frank to build an Ultimate Tasks system.md",
     "00. System FILE/95. attachment/Pasted image 20250309162150.png",
+    "10. PKM/30. Areas/TaskManagement/Follow Thomas Frank to build an Ultimate Tasks system.md",
+    "00. System FILE/95. attachment/Pasted image 20250309162726.png",
     "10. PKM/30. Areas/TaskManagement",
     "10. PKM/30. Areas/TaskManagement/Thomas Frank",
     "EDA(Exploratory Data Analysis).md",
