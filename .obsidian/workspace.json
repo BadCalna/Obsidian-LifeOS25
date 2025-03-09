@@ -11,10 +11,24 @@
             "id": "e0927c83e82a44a8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "10. PKM/30. Areas/TaskManagement/Follow Thomas Frank to build an Ultimate Tasks system.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Follow Thomas Frank to build an Ultimate Tasks system"
             }
           }
         ]
@@ -226,6 +240,11 @@
   },
   "active": "e0927c83e82a44a8",
   "lastOpenFiles": [
+    "00. System FILE/95. attachment/Pasted image 20250309162726.png",
+    "10. PKM/30. Areas/TaskManagement/Follow Thomas Frank to build an Ultimate Tasks system.md",
+    "00. System FILE/95. attachment/Pasted image 20250309162150.png",
+    "10. PKM/30. Areas/TaskManagement",
+    "10. PKM/30. Areas/TaskManagement/Thomas Frank",
     "EDA(Exploratory Data Analysis).md",
     "10. PKM/10. Projects/Google Data Analytics/20. Ask/20.1.3 SMART Question.md",
     "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.4.1 Data Fairness.md",
@@ -250,8 +269,6 @@
     "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.3.4 Glossary Terms.md",
     "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.3.3 Data Viz.md",
     "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.3.2 SQL.md",
-    "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.2.1 Data Life Cycle.md",
-    "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.2.2 Phase of Data Analysis.md",
     "10. PKM/10. Projects/Google Data Analytics/20. Ask",
     "10. PKM/10. Projects/Google Data Analytics/10. Foundations",
     "10. PKM/10. Projects/Yingdao RPA",
@@ -263,15 +280,11 @@
     "00. System FILE/95. attachment/Pasted image 20250220131218.png",
     "00. System FILE/95. attachment/Pasted image 20250220130731.png",
     "00. System File/95. attachment/Pasted image 20250220130731.png",
-    "00. System FILE/95. attachment/Pasted image 20250220125940.png",
-    "00. System FILE/95. attachment/Pasted image 20250220125625.png",
     "00. System FILE/95. attachment",
     "00. System File/95. attachment",
     "10. PKM/40. Archived/Know Github",
     "10. PKM/30. Areas/Obsidian Usage",
     "10. PKM/10. Projects/Stanford Machine Learning",
-    "10. PKM/30. Areas/Scattered Knowledge",
-    "WorkTable",
     "未命名.canvas"
   ]
 }
