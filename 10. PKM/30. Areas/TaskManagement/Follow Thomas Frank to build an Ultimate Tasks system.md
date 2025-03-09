@@ -58,6 +58,17 @@ Date-modified: 2025-03-09 15:52
 ###  The Ultimate Tasks page that can use for everyday work
 ---
   -  TF creates a list view called **Inbox** -- a default place to dump tasks come into ur life
+	  - list view, shown some properties, use the checkbox trick
+	  - TF mentioned that in his system, **Inbox can only be cleared in following three ways**
+		  - ***Finish a task***
+		  - ***Delete a task**
+		  - ***Move it to the right Project*** 
+		  - So he use the filter to hide those task which is done or have related project or is a someday task(**means not for now**)
+  - Now it's the **Today** view, since the properties setting above, now u can just duplicate the view be done just now.
+	  - Just change the filter
+		  - Tips: a date in Notion can be divided into start/end date, so remember set the end date as the filtering properties.  
+		    ==But actually I don't use start/end date, let's see how TF make use of it==
+			  Tips for tips: if u don't set a date range, the start date will be the same to the end date. 
 
 > [!Tips] ## Key takeaways
 - 
