@@ -112,9 +112,13 @@ like above
 > 	Second he edit the property "Date" to the select 'Today'
 > 	And here comes the smart journal template!
 > 	![[Pasted image 20250315143508.png]]
-### Recur Tasks
+### Advanced 1:Recurring Tasks
 ---
-- TF add some properties in a new Group "Recurring Tasks Properties"
+- TF add some properties in a new Group "Recurring Tasks Properties" and add some properties
+- tips: Notion support adding automation on specific view of database, and ***you can edit the page's properties by using syntax like: [Trigger Page. {Property name}]***
+### Advanced 2:Subtasks
+---
+
 ### Task Journal Database
 ---
 > [!tips] You can link to different database in a page 
