@@ -105,6 +105,14 @@ like above
 - Create ourselves a template
 - First a task view with a self-referential filter
   The Project template have will related to the creating project while using this template to create the project page
+> [!Tips] A little Trick
+> First TF build a page based on empty database **Task Journal**, and add a property called "Date"
+> Then he start to edit the template of **Task Journal**.
+> 	First print @ at the title and @Today
+> 	Second he edit the property "Date" to the select 'Today'
+> 	And here comes the smart journal template!
+> 	![[Pasted image 20250315143508.png]]
+
 ### Task Journal Database
 ---
 > [!tips] You can link to different database in a page 
