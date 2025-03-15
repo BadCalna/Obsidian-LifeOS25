@@ -105,6 +105,9 @@ like above
 - Create ourselves a template
 - First a task view with a self-referential filter
   The Project template have will related to the creating project while using this template to create the project page
+### Task Journal Database
+---
+> [!tips] You can link to different database in a page 
 
 > [!Tips] ## Key takeaways
 - 
