@@ -53,7 +53,7 @@ Date-modified: 2025-03-09 15:52
 - Then for more views
 	- Done view to show those tasks been done
 	- Calendar view(Actually don't see that coming.. I thought it is completely useless for me before I watch and just write down for now)  
-	- hmm.. Turns out to be a traffic leading to other videos about Notion Calendar App and Google Calendar, maybe next time
+	- ==hmm.. Turns out to be a traffic leading to other videos about Notion Calendar App and Google Calendar, maybe next time
 
 ####  The Ultimate Tasks page that can use for everyday work
 ---
@@ -112,7 +112,9 @@ like above
 > 	Second he edit the property "Date" to the select 'Today'
 > 	And here comes the smart journal template!
 > 	![[Pasted image 20250315143508.png]]
-
+### Recur Tasks
+---
+- TF add some properties in a new Group "Recurring Tasks Properties"
 ### Task Journal Database
 ---
 > [!tips] You can link to different database in a page 
