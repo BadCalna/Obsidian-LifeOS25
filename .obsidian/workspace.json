@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Follow Thomas Frank to build an Ultimate Tasks system"
             }
+          },
+          {
+            "id": "83521b6a4a9b9dd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10. PKM/30. Areas/TaskManagement/·.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "·"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. PKM/30. Areas/TaskManagement/Follow Thomas Frank to build an Ultimate Tasks system.md",
+                "file": "10. PKM/30. Areas/TaskManagement/·.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Follow Thomas Frank to build an Ultimate Tasks system 的大纲"
+              "title": "· 的大纲"
             }
           },
           {
@@ -238,10 +263,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "39897f66d8492eef",
+  "active": "83521b6a4a9b9dd7",
   "lastOpenFiles": [
-    "00. System FILE/95. attachment/Pasted image 20250315143508.png",
     "10. PKM/30. Areas/TaskManagement/Follow Thomas Frank to build an Ultimate Tasks system.md",
+    "10. PKM/30. Areas/TaskManagement/·.md",
+    "00. System FILE/95. attachment/Pasted image 20250315143508.png",
     "Personal_Scrum.md",
     "10. PKM/30. Areas/TaskManagement/Follow Thomas Frank to build an Ultimate Tasks system-Jay的Mac mini.md",
     "10. PKM/30. Areas/TaskManagement/Follow Thomas Frank to build an Ultimate Tasks system-Jay的Mac mini-3.md",
