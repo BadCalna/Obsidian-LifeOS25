@@ -16,10 +16,10 @@ Date-modified: 2025-03-09 15:52
 ### Task Database
 ---
 - Notion Task Database originally have those attributes
-	- ***Name
-	- ***Assignee
-	- ***Due Date
-	- ***Status(a special select, have a default item)
+	- ***Name***
+	- ***Assignee***
+	- ***Due Date***
+	- ***Status(a special select, have a default item)***
 - **Specially**, TF add an attribute that is ***Priority***
 	- The priority is a special status that can set default value as well.(Medium as default)
 - A New concept, ***Smart List**
