@@ -118,7 +118,15 @@ like above
 - tips: Notion support adding automation on specific view of database, and ***you can edit the page's properties by using syntax like: [Trigger Page. {Property name}]***
 ### Advanced 2:Subtasks
 ---
+- That part just gone, Need to be reviewed some times
 
+### Advanced 3: Formula
+---
+> Check this part on Another Notes, link [[TF's Notion Formula]]
+- **Progress** of Project
+	- filter()
+- **MetaLabel** of Tasks
+	- lets()
 ### Task Journal Database
 ---
 > [!tips] You can link to different database in a page 
