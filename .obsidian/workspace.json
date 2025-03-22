@@ -32,6 +32,36 @@
             }
           }
         ]
+      },
+      {
+        "id": "400818ebad299e49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a042f0885811f826",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10. PKM/30. Areas/TaskManagement/Follow Thomas Frank to build an Ultimate Tasks system.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Follow Thomas Frank to build an Ultimate Tasks system"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -75,7 +105,8 @@
               "title": "搜索"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a988cac77a40a43d",
@@ -235,10 +266,11 @@
       "quickadd:QuickAdd": false,
       "dbfolder:创建一个新数据库表": false,
       "obsidian-kanban:创建新看板": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "smart-composer:Open smart composer": false
     }
   },
-  "active": "39897f66d8492eef",
+  "active": "d900daafd723c73d",
   "lastOpenFiles": [
     "10. PKM/30. Areas/TaskManagement/TF's Notion Formula.md",
     "10. PKM/30. Areas/TaskManagement/Follow Thomas Frank to build an Ultimate Tasks system.md",
