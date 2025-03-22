@@ -1,0 +1,135 @@
+{
+  "id": "7a864d8c-aa45-4385-9751-0a81737d8be5",
+  "title": "请你总结一下当前这篇笔记的内容，提炼一下",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "请你总结一下当前这篇笔记的内容，提炼一下",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n请你总结一下当前这篇笔记的内容，提炼一下\n\n"
+        }
+      ],
+      "id": "0388d1e7-86c0-4717-b43b-6ba1cba8c33d",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "10. PKM/30. Areas/Self Reflection/Feb.2025.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "id": "f7f8b386-4b9a-4b0f-8428-52755262582e",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "请你总结一下当前这篇笔记的内容",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n请你总结一下当前这篇笔记的内容\n\n"
+        }
+      ],
+      "id": "3294c0c0-e8eb-4030-8185-ddfe228adac4",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "10. PKM/30. Areas/TaskManagement/Follow Thomas Frank to build an Ultimate Tasks system.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block filename=\"10. PKM/30. Areas/TaskManagement/Follow Thomas Frank to build an Ultimate Tasks system.md\" language=\"markdown\">\n> [!Tips] ## Key takeaways\n- **核心三数据库架构**：任务库（含优先级/智能列表标记）、项目库（带进度公式）、任务日志库\n- **高效视图体系**：今日/周历/无截止/按项目等6种视图，配合智能过滤规则（如Inbox仅显示未分配/未完成/非待办任务）\n- **布局优化技巧**：关键属性置顶、面板分组（通用属性/辅助属性）、状态转复选框、公式标签（MetaLabel快速识别重复/逾期任务）\n- **高级功能亮点**：自动化设置（通过语法[Trigger Page.{属性}]修改属性）、项目进度公式（filter()+lets()函数组合）\n- **个人实践标注**：==「拖拽属性到面板即用」== ==「用智能列表替代逾期提醒」== ==「周历视图意外实用」==\n</smtcmp_block>\n\n（提炼逻辑：按系统架构→功能模块→操作技巧→个人洞察分层呈现，保留原笔记中的重点符号标记和高亮内容）",
+      "id": "31bf5ae7-1919-4065-8752-b901ed747528",
+      "metadata": {
+        "usage": {
+          "prompt_tokens": 2225,
+          "completion_tokens": 567,
+          "total_tokens": 2792,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 308
+          },
+          "prompt_cache_hit_tokens": 0,
+          "prompt_cache_miss_tokens": 2225
+        },
+        "model": {
+          "providerType": "deepseek",
+          "providerId": "deepseek",
+          "id": "deepseek-reasoner",
+          "model": "deepseek-reasoner"
+        }
+      }
+    }
+  ],
+  "createdAt": 1742613518264,
+  "updatedAt": 1742613809254,
+  "schemaVersion": 1
+}

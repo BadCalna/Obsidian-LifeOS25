@@ -3,7 +3,8 @@
   "providers": [
     {
       "type": "openai",
-      "id": "openai"
+      "id": "openai",
+      "apiKey": "sk-fAt8vf6b1OMJZ28V697cBfF3E7314886A53793203629C1Cd"
     },
     {
       "type": "anthropic",
@@ -31,7 +32,8 @@
     },
     {
       "type": "deepseek",
-      "id": "deepseek"
+      "id": "deepseek",
+      "apiKey": "sk-61c8689b30d74b4ab9708d6cbb3b4678"
     },
     {
       "type": "morph",
@@ -169,10 +171,10 @@
       "dimension": 1024
     }
   ],
-  "chatModelId": "claude-3.7-sonnet",
-  "applyModelId": "gpt-4o-mini",
+  "chatModelId": "deepseek-reasoner",
+  "applyModelId": "deepseek-reasoner",
   "embeddingModelId": "openai/text-embedding-3-small",
-  "systemPrompt": "",
+  "systemPrompt": "<language_setting>必须使用中文进行回复，除非用户要求</language_setting>",
   "ragOptions": {
     "chunkSize": 1000,
     "thresholdTokens": 8192,

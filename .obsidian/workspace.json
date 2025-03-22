@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. PKM/30. Areas/TaskManagement/Follow Thomas Frank to build an Ultimate Tasks system.md",
+                "file": "10. PKM/30. Areas/Self Reflection/Feb.2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,37 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Follow Thomas Frank to build an Ultimate Tasks system"
-            }
-          }
-        ]
-      },
-      {
-        "id": "400818ebad299e49",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a042f0885811f826",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10. PKM/30. Areas/TaskManagement/Follow Thomas Frank to build an Ultimate Tasks system.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Follow Thomas Frank to build an Ultimate Tasks system"
+              "title": "Feb.2025"
             }
           }
         ]
@@ -105,8 +75,7 @@
               "title": "搜索"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a988cac77a40a43d",
@@ -190,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. PKM/30. Areas/TaskManagement/Follow Thomas Frank to build an Ultimate Tasks system.md",
+                "file": "10. PKM/30. Areas/Self Reflection/Feb.2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Follow Thomas Frank to build an Ultimate Tasks system 的大纲"
+              "title": "Feb.2025 的大纲"
             }
           },
           {
@@ -242,13 +211,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "8b3f8cd90f5ea675",
+            "type": "leaf",
+            "state": {
+              "type": "smtcmp-chat-view",
+              "state": {},
+              "icon": "wand-sparkles",
+              "title": "Smart composer chat"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 615.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -270,10 +249,12 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "d900daafd723c73d",
+  "active": "8b3f8cd90f5ea675",
   "lastOpenFiles": [
-    "10. PKM/30. Areas/TaskManagement/TF's Notion Formula.md",
+    "10. PKM/10. Projects/Yingdao RPA/10.1.3 Basis Component of Application - Operation.md",
+    "10. PKM/10. Projects/Yingdao RPA/10.1.2 Basis Component of Application - Element.md",
     "10. PKM/30. Areas/TaskManagement/Follow Thomas Frank to build an Ultimate Tasks system.md",
+    "10. PKM/30. Areas/TaskManagement/TF's Notion Formula.md",
     "00. System FILE/95. attachment/Pasted image 20250315143508.png",
     "10. PKM/30. Areas/TaskManagement/·.md",
     "Personal_Scrum.md",
@@ -298,8 +279,6 @@
     "10. PKM/30. Areas/Self Reflection/Feb.2025-Jay的Mac mini-9.md",
     "10. PKM/30. Areas/Self Reflection/Feb.2025-Jay的Mac mini-8.md",
     "10. PKM/30. Areas/Self Reflection/Feb.2025-Jay的Mac mini-7.md",
-    "10. PKM/30. Areas/Self Reflection/Feb.2025-Jay的Mac mini-6.md",
-    "10. PKM/30. Areas/Self Reflection/Feb.2025-Jay的Mac mini-5.md",
     "10. PKM/30. Areas/Self Reflection",
     "10. PKM/30. Areas/SelfReflection",
     "10. PKM/20. Resources/未命名",

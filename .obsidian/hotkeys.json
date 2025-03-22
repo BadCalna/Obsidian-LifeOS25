@@ -58,5 +58,13 @@
       ],
       "key": "L"
     }
+  ],
+  "smart-composer:open-new-chat": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "K"
+    }
   ]
 }
