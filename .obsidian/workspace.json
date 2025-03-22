@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.4.1 Data Fairness.md",
+                "file": "00. System FILE/Template/Github_template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "10.4.1 Data Fairness"
+              "title": "Github_template"
             }
           }
         ]
@@ -159,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.4.1 Data Fairness.md",
+                "file": "00. System FILE/Template/Github_template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "10.4.1 Data Fairness 的大纲"
+              "title": "Github_template 的大纲"
             }
           },
           {
@@ -227,8 +227,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 615.5,
-    "collapsed": true
+    "width": 615.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,6 +252,18 @@
   },
   "active": "39897f66d8492eef",
   "lastOpenFiles": [
+    "00. System FILE/Template/Github_template 1.md",
+    "00. System FILE/Template/Github_template.md",
+    "00. System FILE/Template/Self Reflection Template V1.0.md",
+    "00. System FILE/Template/Self Reflection Template V1.0-Jay的Mac mini.md",
+    "00. System FILE/Template/RPA License.md",
+    "00. System FILE/Template/PKM_Note.md",
+    "00. System FILE/Template/Item_card.md",
+    "00. System FILE/Template/Google Data Analytics.md",
+    "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10. Foundations｜ Foundations.md",
+    "10. PKM/30. Areas/Productivity",
+    "10. PKM/30. Areas/未命名.md",
+    "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.4.1 Data Fairness.md",
     "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.4.2 Glossary Terms.md",
     "10. PKM/30. Areas/Self Reflection/Feb.2025.md",
     "10. PKM/30. Areas/TaskManagement/Follow Thomas Frank to build an Ultimate Tasks system.md",
@@ -269,18 +280,7 @@
     "10. PKM/30. Areas/TaskManagement/Follow Thomas Frank to build an Ultimate Tasks system-Jay的Mac mini-3.md",
     "10. PKM/30. Areas/TaskManagement/Follow Thomas Frank to build an Ultimate Tasks system-Jay的Mac mini-2.md",
     "10. PKM/30. Areas/TaskManagement/Follow Thomas Frank to build an Ultimate Tasks system 2.md",
-    "10. PKM/30. Areas/Self Reflection/Feb.2025-Jaysfriend.md",
-    "10. PKM/30. Areas/Self Reflection/Feb.2025-Jay的Mac mini.md",
-    "10. PKM/30. Areas/Self Reflection/Mar.2025-Jay的Mac mini.md",
     "10. PKM/30. Areas/Self Reflection/Mar 2025.nssyncsc",
-    "10. PKM/30. Areas/Self Reflection/Feb.2025-Jay的Mac mini-17.md",
-    "10. PKM/30. Areas/Self Reflection/Feb.2025-Jay的Mac mini-16.md",
-    "10. PKM/30. Areas/Self Reflection/Feb.2025 2.md",
-    "10. PKM/30. Areas/Self Reflection/Feb.2025-Jay的Mac mini-15.md",
-    "10. PKM/30. Areas/Self Reflection/Feb.2025-Jay的Mac mini-14.md",
-    "10. PKM/30. Areas/Self Reflection/Feb.2025-Jay的Mac mini-13.md",
-    "10. PKM/30. Areas/Self Reflection/Feb.2025-Jay的Mac mini-12.md",
-    "10. PKM/30. Areas/Self Reflection/Feb.2025-Jay的Mac mini-11.md",
     "10. PKM/30. Areas/Self Reflection",
     "10. PKM/30. Areas/SelfReflection",
     "10. PKM/20. Resources/未命名",
@@ -298,7 +298,6 @@
     "00. System File/95. attachment/Pasted image 20250220131218.png",
     "00. System FILE/95. attachment/Pasted image 20250220131218.png",
     "00. System FILE/95. attachment/Pasted image 20250220130731.png",
-    "00. System FILE/95. attachment",
     "未命名.canvas"
   ]
 }

@@ -4,7 +4,8 @@
     {
       "type": "openai",
       "id": "openai",
-      "apiKey": "sk-fAt8vf6b1OMJZ28V697cBfF3E7314886A53793203629C1Cd"
+      "apiKey": "sk-fAt8vf6b1OMJZ28V697cBfF3E7314886A53793203629C1Cd",
+      "baseUrl": "sk-fAt8vf6b1OMJZ28V697cBfF3E7314886A53793203629C1Cd"
     },
     {
       "type": "anthropic",

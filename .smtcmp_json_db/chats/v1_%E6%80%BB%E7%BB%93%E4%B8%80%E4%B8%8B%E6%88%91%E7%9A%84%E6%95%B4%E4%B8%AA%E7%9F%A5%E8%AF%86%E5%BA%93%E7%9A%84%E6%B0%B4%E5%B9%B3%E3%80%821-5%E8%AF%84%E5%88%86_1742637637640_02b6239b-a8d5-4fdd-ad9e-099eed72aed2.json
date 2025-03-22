@@ -1,0 +1,135 @@
+{
+  "id": "02b6239b-a8d5-4fdd-ad9e-099eed72aed2",
+  "title": "总结一下我的整个知识库的水平。1-5评分",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "总结一下我的整个知识库的水平。1-5评分",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n总结一下我的整个知识库的水平。1-5评分\n\n"
+        }
+      ],
+      "id": "377b1796-dcda-4e80-a9d8-2ffa03d595fc",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.4.1 Data Fairness.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "id": "a1b9d588-50c9-4859-976d-dcb50e11339f",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "请参考这个文件帮我创建一个obsidian内的md格式的读书笔记模板。",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n请参考这个文件帮我创建一个obsidian内的md格式的读书笔记模板。\n\n"
+        }
+      ],
+      "id": "f473f715-c9ef-4cdd-8276-d2d0a649a503",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "00. System FILE/Template/Github_template 1.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block filename=\"00. System FILE/Template/读书笔记模板.md\" language=\"markdown\">\n---\ntags:\n  - 读书笔记\n  - 书籍\ndate-created: <% tp.file.creation_date() %>\ndate-modified: <% tp.file.last_modified_date() %>\nstatus: 在读/已读\nrating: \n---\n\n# 《书名》\n\n**作者**:: \n**出版社**:: \n**出版日期**:: \n**阅读日期**:: <% tp.date.now(\"YYYY-MM-DD\") %>\n\n## 书籍简介\n<!-- 用1-2句话概括全书核心内容 -->\n\n## 核心论点\n<!-- 列出作者的核心观点/理论框架 -->\n\n## 重点摘录\n<!-- 使用「原文」「批注」格式记录金句 -->\n> [!quote]- 摘录1\n> **原文**  \n> ...\n> \n> **批注**  \n> ...\n\n## 读书心得\n> [!tip]- 启发与应用\n> <!-- 记录读书带来的新认知和实践计划 -->\n\n## 相关资源\n<!-- 链接相关的书籍/论文/视频资源 -->\n```\n\n更新说明：\n1. 保留原有模板的时间戳语法\n2. 新增书籍元数据字段\n3. 采用「原文-批注」格式的摘录区块\n4. 包含启发应用提示框\n5. 添加读书状态和评分字段\n6. 使用quote/tip admonition类型突出内容",
+      "id": "cea94797-035d-49eb-9753-79f711acb413",
+      "metadata": {
+        "usage": {
+          "prompt_tokens": 564,
+          "completion_tokens": 628,
+          "total_tokens": 1192,
+          "prompt_tokens_details": {
+            "cached_tokens": 448
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 328
+          },
+          "prompt_cache_hit_tokens": 448,
+          "prompt_cache_miss_tokens": 116
+        },
+        "model": {
+          "providerType": "deepseek",
+          "providerId": "deepseek",
+          "id": "deepseek-reasoner",
+          "model": "deepseek-reasoner"
+        }
+      }
+    }
+  ],
+  "createdAt": 1742636449112,
+  "updatedAt": 1742637637640,
+  "schemaVersion": 1
+}
