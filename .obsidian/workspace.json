@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. PKM/30. Areas/Self Reflection/Feb.2025.md",
+                "file": "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.4.1 Data Fairness.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Feb.2025"
+              "title": "10.4.1 Data Fairness"
             }
           }
         ]
@@ -159,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. PKM/30. Areas/Self Reflection/Feb.2025.md",
+                "file": "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.4.1 Data Fairness.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Feb.2025 的大纲"
+              "title": "10.4.1 Data Fairness 的大纲"
             }
           },
           {
@@ -227,7 +227,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 615.5
+    "width": 615.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -246,15 +247,21 @@
       "dbfolder:创建一个新数据库表": false,
       "obsidian-kanban:创建新看板": false,
       "obsidian-git:Open Git source control": false,
-      "smart-composer:Open smart composer": false
+      "smart-composer:Open smart composer": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "8b3f8cd90f5ea675",
+  "active": "39897f66d8492eef",
   "lastOpenFiles": [
+    "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.4.2 Glossary Terms.md",
+    "10. PKM/30. Areas/Self Reflection/Feb.2025.md",
+    "10. PKM/30. Areas/TaskManagement/Follow Thomas Frank to build an Ultimate Tasks system.md",
+    "10. PKM/20. Resources/Notion Database.md",
+    "10. PKM/20. Resources/未命名.md",
+    "10. PKM/30. Areas/TaskManagement/TF's Notion Formula.md",
+    "10. PKM/30. Areas/Scattered Knowledge/MosCow.md",
     "10. PKM/10. Projects/Yingdao RPA/10.1.3 Basis Component of Application - Operation.md",
     "10. PKM/10. Projects/Yingdao RPA/10.1.2 Basis Component of Application - Element.md",
-    "10. PKM/30. Areas/TaskManagement/Follow Thomas Frank to build an Ultimate Tasks system.md",
-    "10. PKM/30. Areas/TaskManagement/TF's Notion Formula.md",
     "00. System FILE/95. attachment/Pasted image 20250315143508.png",
     "10. PKM/30. Areas/TaskManagement/·.md",
     "Personal_Scrum.md",
@@ -262,7 +269,6 @@
     "10. PKM/30. Areas/TaskManagement/Follow Thomas Frank to build an Ultimate Tasks system-Jay的Mac mini-3.md",
     "10. PKM/30. Areas/TaskManagement/Follow Thomas Frank to build an Ultimate Tasks system-Jay的Mac mini-2.md",
     "10. PKM/30. Areas/TaskManagement/Follow Thomas Frank to build an Ultimate Tasks system 2.md",
-    "10. PKM/30. Areas/Self Reflection/Feb.2025.md",
     "10. PKM/30. Areas/Self Reflection/Feb.2025-Jaysfriend.md",
     "10. PKM/30. Areas/Self Reflection/Feb.2025-Jay的Mac mini.md",
     "10. PKM/30. Areas/Self Reflection/Mar.2025-Jay的Mac mini.md",
@@ -275,10 +281,6 @@
     "10. PKM/30. Areas/Self Reflection/Feb.2025-Jay的Mac mini-13.md",
     "10. PKM/30. Areas/Self Reflection/Feb.2025-Jay的Mac mini-12.md",
     "10. PKM/30. Areas/Self Reflection/Feb.2025-Jay的Mac mini-11.md",
-    "10. PKM/30. Areas/Self Reflection/Feb.2025-Jay的Mac mini-10.md",
-    "10. PKM/30. Areas/Self Reflection/Feb.2025-Jay的Mac mini-9.md",
-    "10. PKM/30. Areas/Self Reflection/Feb.2025-Jay的Mac mini-8.md",
-    "10. PKM/30. Areas/Self Reflection/Feb.2025-Jay的Mac mini-7.md",
     "10. PKM/30. Areas/Self Reflection",
     "10. PKM/30. Areas/SelfReflection",
     "10. PKM/20. Resources/未命名",
