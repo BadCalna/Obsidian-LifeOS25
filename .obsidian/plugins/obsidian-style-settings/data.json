@@ -98,5 +98,15 @@
   "blue-topaz-theme@@left-ribbon-style": "bt-bubble-ribbon",
   "blue-topaz-theme@@search-bar-style-option": "default-search-bar",
   "blue-topaz-theme@@bt-status-on": false,
-  "blue-topaz-theme@@callout-style-settings": "shade-callout-style"
+  "blue-topaz-theme@@callout-style-settings": "shade-callout-style",
+  "blue-topaz-theme@@file-bg-shape-option": "file-bg-rounded-rectangle",
+  "blue-topaz-theme@@dark-background-file": false,
+  "blue-topaz-theme@@folder-note-dot": true,
+  "blue-topaz-theme@@folder-icons": true,
+  "blue-topaz-theme@@folder-note-underline": false,
+  "blue-topaz-theme@@bt-toggle-colorful-folder": true,
+  "blue-topaz-theme@@folder-style-change-options-colorful": "folder-style-change-options-colorful-default",
+  "blue-topaz-theme@@folder-style-change-options-colorful-subfolder": "folder-colorful-six",
+  "blue-topaz-theme@@blockquote-style-change-options": "blockquote-style-default",
+  "blue-topaz-theme@@prompt-options": "fancy-prompt-1"
 }
