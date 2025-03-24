@@ -246,8 +246,7 @@
       "dbfolder:创建一个新数据库表": false,
       "obsidian-kanban:创建新看板": false,
       "obsidian-git:Open Git source control": false,
-      "smart-composer:Open smart composer": false,
-      "copilot:Open Copilot Chat": false
+      "smart-composer:Open smart composer": false
     }
   },
   "active": "39897f66d8492eef",
