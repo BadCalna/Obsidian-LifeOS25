@@ -1,7 +1,6 @@
 ---
 tags:
   - Obsidian_Usage
-  - Areas
 Date-creation: 2025-02-18 21:37
 Date-modified: 2025-02-18 21:37
 ---
