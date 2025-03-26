@@ -37,6 +37,7 @@
     "Esitimated_time(h)": "number",
     "Actual_time(h)": "number",
     "Actual_time(min)": "number",
-    "Esitimated_time(min)": "number"
+    "Esitimated_time(min)": "number",
+    "week": "number"
   }
 }
