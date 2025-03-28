@@ -28,10 +28,9 @@
   ],
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
-  "enabled_templates_hotkeys": [
-    "00. System File/90. Templater/Cornell Notes.md"
-  ],
+  "enabled_templates_hotkeys": [],
   "startup_templates": [
     ""
-  ]
+  ],
+  "intellisense_render": 1
 }
