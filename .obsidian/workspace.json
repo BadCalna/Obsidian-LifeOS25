@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. System FILE/Template/TPL - Test.md",
+                "file": "10. PKM/30. Areas/Productivity/TaskManagement/GTD(Getting Things Done).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "TPL - Test"
+              "title": "GTD(Getting Things Done)"
             }
           }
         ]
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00. System FILE/Template/TPL - Test.md",
+                "file": "10. PKM/30. Areas/Productivity/TaskManagement/GTD(Getting Things Done).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "TPL - Test 的反向链接列表"
+              "title": "GTD(Getting Things Done) 的反向链接列表"
             }
           },
           {
@@ -253,10 +253,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "00. System FILE/Template/TPL - Week Overview.md",
+    "10. PKM/30. Areas/Productivity/TaskManagement/GTD(Getting Things Done).md",
+    "00. System FILE/Template/TPL - Test.md",
     "10. PKM/10. Projects/Stanford Machine Learning/未命名.md",
     "10. PKM/10. Projects/Stanford Machine Learning/Untitled.md",
-    "00. System FILE/Template/TPL - Test.md",
-    "00. System FILE/Template/TPL - Week Overview.md",
     "00. System FILE/Excalidraw/RPA_accounting_center.excalidraw.md",
     "10. PKM/30. Areas/Obsidian Usage/Callout Syntax.md",
     "10. PKM/30. Areas/Obsidian Usage/未命名.md",
@@ -281,7 +282,6 @@
     "10. PKM/30. Areas/Productivity",
     "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.4.1 Data Fairness.md",
     "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.4.2 Glossary Terms.md",
-    "10. PKM/30. Areas/Self Reflection/Feb.2025.md",
     "00. System FILE/95. attachment/Pasted image 20250315143508.png",
     "10. PKM/30. Areas/Self Reflection/Mar 2025.nssyncsc",
     "10. PKM/30. Areas/Self Reflection",
