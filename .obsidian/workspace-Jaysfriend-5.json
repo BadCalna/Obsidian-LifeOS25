@@ -81,7 +81,8 @@
               "title": "搜索"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a988cac77a40a43d",
@@ -238,7 +239,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "smart-composer:Open smart composer": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -256,7 +256,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "23f34688a295cf49",
+  "active": "d900daafd723c73d",
   "lastOpenFiles": [
     "10. PKM/10. Projects/Stanford Machine Learning/未命名.md",
     "10. PKM/10. Projects/Stanford Machine Learning/Untitled.md",
