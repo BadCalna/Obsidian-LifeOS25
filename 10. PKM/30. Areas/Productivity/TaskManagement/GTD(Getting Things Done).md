@@ -2,7 +2,7 @@
 tags:
   - GTD
   - TaskManagement
-Date-creation: <% tp.file.creation_date() %>
+Date-creation: 2025-04-07
 ---
 ## Concept & Core Principal
 ---

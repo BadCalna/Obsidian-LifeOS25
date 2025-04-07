@@ -4,37 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "5ca3f68cb3a37536",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "9c6382f1dcf3d96e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.9"
+                "file": "10. PKM/30. Areas/Productivity/TaskManagement/GTD(Getting Things Done).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
-            }
-          }
-        ]
-      },
-      {
-        "id": "377197cf58231b85",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2f895bf2460bd0c0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "icon": "lucide-file",
+              "title": "GTD(Getting Things Done)"
             }
           }
         ]
@@ -256,7 +250,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "23f34688a295cf49",
+  "active": "9c6382f1dcf3d96e",
   "lastOpenFiles": [
     "10. PKM/10. Projects/Stanford Machine Learning/未命名.md",
     "10. PKM/10. Projects/Stanford Machine Learning/Untitled.md",
