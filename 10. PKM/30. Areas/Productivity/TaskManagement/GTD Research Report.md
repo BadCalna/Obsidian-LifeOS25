@@ -31,3 +31,41 @@ Date-creation: 2025-04-07
 ## WorkFlow
 ---
 - GTD工作流图如下
+```mermaid
+graph TD
+    A[收集 Capture] -->|记录所有任务、想法| B[处理 Clarify]
+    B -->|任务是否需要行动？| C{需要行动吗？}
+
+    C -->|不需要| D[删除或归档 Delete/Archive]
+    C -->|需要| E{两分钟内能完成吗？}
+
+    E -->|能| F[立即完成 Do it now]
+    E -->|不能| G{委派或稍后执行？}
+
+    G -->|委派给他人| H[放入等待清单 Waiting For]
+    G -->|稍后执行| I[放入任务清单 Tasks]
+
+    I --> J[明确下一步行动 Next Action]
+    J --> K[放入情境清单 Context Lists]
+
+    H --> L[定期回顾 Review]
+    K --> L
+    D --> L
+    F --> L
+
+    L -->|选择合适情境的任务| M[执行 Engage/Do]
+
+    M -->|任务完成| N[任务结束 Done]
+    M -->|产生新任务| A
+
+    style A fill:#aed9e0,stroke:#333,stroke-width:2px
+    style B fill:#ffef96,stroke:#333,stroke-width:2px
+    style C fill:#c8c8a9,stroke:#333,stroke-width:2px
+    style D fill:#f2c6c2,stroke:#333,stroke-width:2px
+    style F fill:#d0f0c0,stroke:#333,stroke-width:2px
+    style H fill:#ffe599,stroke:#333,stroke-width:2px
+    style I fill:#cfe2f3,stroke:#333,stroke-width:2px
+    style J fill:#d9ead3,stroke:#333,stroke-width:2px
+    style K fill:#d9d2e9,stroke:#333,stroke-width:2px
+    style L fill:#f9
+```
