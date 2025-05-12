@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ad3c72645ccf3450",
+        "id": "dce91d4ff09e16b7",
         "type": "tabs",
         "children": [
           {
-            "id": "f8d81b59454df29d",
+            "id": "9fc0fe1986b2e19e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10. PKM/10. Projects/Google Data Analytics/20. Ask/20.2.1 Data and Decision.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "20.2.1 Data and Decision"
+              "title": "新标签页"
             }
           }
         ]
@@ -250,10 +236,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f8d81b59454df29d",
+  "active": "9fc0fe1986b2e19e",
   "lastOpenFiles": [
-    "10. PKM/10. Projects/Google Data Analytics/40. Process｜Process.md",
     "10. PKM/10. Projects/Google Data Analytics/20. Ask/20.2.1 Data and Decision.md",
+    "10. PKM/10. Projects/Google Data Analytics/40. Process｜Process.md",
     "10. PKM/10. Projects/Google Data Analytics/80. Capstone｜Capstone.md",
     "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.3.1 Master spreadsheets basics.md",
     "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.3.2 SQL.md",
