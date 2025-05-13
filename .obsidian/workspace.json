@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "dce91d4ff09e16b7",
+        "id": "52b62e98bd81a0c0",
         "type": "tabs",
         "children": [
           {
-            "id": "9fc0fe1986b2e19e",
+            "id": "847250ca9d02a194",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "10. PKM/10. Projects/Google Data Analytics/20. Ask/20.2.2 Qualitative and Quantitative data.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "20.2.2 Qualitative and Quantitative data"
             }
           }
         ]
@@ -236,8 +250,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9fc0fe1986b2e19e",
+  "active": "847250ca9d02a194",
   "lastOpenFiles": [
+    "10. PKM/10. Projects/Google Data Analytics/20. Ask/20.2.2 Qualitative and Quantitative data.md",
     "10. PKM/10. Projects/Google Data Analytics/20. Ask/20.2.1 Data and Decision.md",
     "10. PKM/10. Projects/Google Data Analytics/40. Process｜Process.md",
     "10. PKM/10. Projects/Google Data Analytics/80. Capstone｜Capstone.md",
@@ -268,7 +283,6 @@
     "00. System FILE/Template/TPL - Test.md",
     "00. System FILE/Template/TPL - Week Overview.md",
     "00. System FILE/Excalidraw/RPA_accounting_center.excalidraw.md",
-    "10. PKM/30. Areas/Obsidian Usage/Callout Syntax.md",
     "10. PKM/30. Areas/LateX",
     "10. PKM/10. Projects/Reading Feel Good Productivity",
     "10. PKM/30. Areas/Productivity",
