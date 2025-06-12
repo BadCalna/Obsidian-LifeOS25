@@ -20,11 +20,11 @@
         ]
       },
       {
-        "id": "61ae265b9182b3c3",
+        "id": "ff9b13ac2c996623",
         "type": "tabs",
         "children": [
           {
-            "id": "9b76fbb6261b2109",
+            "id": "7d25bca6a7b77379",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -253,7 +253,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9b76fbb6261b2109",
+  "active": "d900daafd723c73d",
   "lastOpenFiles": [
     "10. PKM/10. Projects/Google Data Analytics/20. Ask/20.2.2 Qualitative and Quantitative data.md",
     "10. PKM/10. Projects/Google Data Analytics/20. Ask/20.2.1 Data and Decision.md",
