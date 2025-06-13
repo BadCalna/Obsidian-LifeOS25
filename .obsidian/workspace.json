@@ -18,6 +18,36 @@
             }
           }
         ]
+      },
+      {
+        "id": "2be7b062e432218e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "678c01ced435521d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10. PKM/30. Areas/Python/Python基础.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Python基础"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,8 +91,7 @@
               "title": "搜索"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a988cac77a40a43d",
@@ -237,8 +266,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "678c01ced435521d",
   "lastOpenFiles": [
+    "10. PKM/30. Areas/Python/Python基础.md",
+    "10. PKM/30. Areas/Python",
     "10. PKM/10. Projects/Google Data Analytics/20. Ask/20.2.2 Qualitative and Quantitative data.md",
     "10. PKM/10. Projects/Google Data Analytics/20. Ask/20.2.1 Data and Decision.md",
     "10. PKM/10. Projects/Google Data Analytics/40. Process｜Process.md",
@@ -269,13 +300,11 @@
     "10. PKM/10. Projects/Stanford Machine Learning/Untitled.md",
     "00. System FILE/Template/TPL - Test.md",
     "00. System FILE/Template/TPL - Week Overview.md",
-    "00. System FILE/Excalidraw/RPA_accounting_center.excalidraw.md",
     "10. PKM/30. Areas/LateX",
     "10. PKM/10. Projects/Reading Feel Good Productivity",
     "10. PKM/30. Areas/Productivity",
     "00. System FILE/95. attachment/Pasted image 20250315143508.png",
     "10. PKM/30. Areas/Self Reflection/Mar 2025.nssyncsc",
-    "10. PKM/30. Areas/Self Reflection",
     "00. System FILE/95. attachment/Pasted image 20250309162150.png",
     "00. System FILE/95. attachment/Pasted image 20250309162726.png",
     "00. System FILE/95. attachment/Pasted image 20250220131817.png",
