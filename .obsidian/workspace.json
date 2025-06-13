@@ -18,22 +18,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "ff9b13ac2c996623",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7d25bca6a7b77379",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -253,7 +237,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d900daafd723c73d",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "10. PKM/10. Projects/Google Data Analytics/20. Ask/20.2.2 Qualitative and Quantitative data.md",
     "10. PKM/10. Projects/Google Data Analytics/20. Ask/20.2.1 Data and Decision.md",
