@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. PKM/30. Areas/Python/Python基础.md",
+                "file": "10. PKM/30. Areas/Python/Python-web/Python Web框架简介.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Python基础"
+              "title": "Python Web框架简介"
             }
           }
         ]
@@ -43,7 +43,7 @@
       {
         "id": "a9ab4a599e85cf6b",
         "type": "tabs",
-        "dimension": 60.07194244604316,
+        "dimension": 67.69087523277467,
         "children": [
           {
             "id": "23f34688a295cf49",
@@ -80,7 +80,7 @@
       {
         "id": "a988cac77a40a43d",
         "type": "tabs",
-        "dimension": 39.92805755395683,
+        "dimension": 32.30912476722533,
         "children": [
           {
             "id": "3a0fc96ae786a8ac",
@@ -252,8 +252,10 @@
   },
   "active": "23f34688a295cf49",
   "lastOpenFiles": [
-    "10. PKM/10. Projects/CTRM Maintain",
+    "10. PKM/30. Areas/Python/Python-web",
     "10. PKM/30. Areas/Python/Python基础.md",
+    "10. PKM/30. Areas/Python/Python-web/Python Web框架简介.md",
+    "10. PKM/10. Projects/CTRM Maintain",
     "10. PKM/30. Areas/Python",
     "10. PKM/10. Projects/Google Data Analytics/20. Ask/20.2.2 Qualitative and Quantitative data.md",
     "10. PKM/10. Projects/Google Data Analytics/20. Ask/20.2.1 Data and Decision.md",
@@ -283,12 +285,10 @@
     "10. PKM/10. Projects/Google Data Analytics/00. RoadMap.md",
     "10. PKM/10. Projects/Stanford Machine Learning/未命名.md",
     "10. PKM/10. Projects/Stanford Machine Learning/Untitled.md",
-    "00. System FILE/Template/TPL - Test.md",
     "10. PKM/30. Areas/LateX",
     "10. PKM/10. Projects/Reading Feel Good Productivity",
     "10. PKM/30. Areas/Productivity",
     "00. System FILE/95. attachment/Pasted image 20250315143508.png",
-    "10. PKM/30. Areas/Self Reflection/Mar 2025.nssyncsc",
     "00. System FILE/95. attachment/Pasted image 20250309162150.png",
     "00. System FILE/95. attachment/Pasted image 20250309162726.png",
     "00. System FILE/95. attachment/Pasted image 20250220131817.png",
