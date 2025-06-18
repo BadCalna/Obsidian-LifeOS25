@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. PKM/30. Areas/Python/Python-web/Python Web框架简介.md",
+                "file": "10. PKM/30. Areas/Python/Python-web/HTML Basics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Python Web框架简介"
+              "title": "HTML Basics"
             }
           }
         ]
@@ -250,11 +250,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "23f34688a295cf49",
+  "active": "678c01ced435521d",
   "lastOpenFiles": [
+    "10. PKM/30. Areas/Python/Python-web/Python Web框架简介.md",
+    "10. PKM/30. Areas/Python/Python-web/HTML Basics.md",
     "10. PKM/30. Areas/Python/Python-web",
     "10. PKM/30. Areas/Python/Python基础.md",
-    "10. PKM/30. Areas/Python/Python-web/Python Web框架简介.md",
     "10. PKM/10. Projects/CTRM Maintain",
     "10. PKM/30. Areas/Python",
     "10. PKM/10. Projects/Google Data Analytics/20. Ask/20.2.2 Qualitative and Quantitative data.md",
@@ -287,7 +288,6 @@
     "10. PKM/10. Projects/Stanford Machine Learning/Untitled.md",
     "10. PKM/30. Areas/LateX",
     "10. PKM/10. Projects/Reading Feel Good Productivity",
-    "10. PKM/30. Areas/Productivity",
     "00. System FILE/95. attachment/Pasted image 20250315143508.png",
     "00. System FILE/95. attachment/Pasted image 20250309162150.png",
     "00. System FILE/95. attachment/Pasted image 20250309162726.png",

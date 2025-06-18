@@ -14,4 +14,40 @@
 - **Django：** 它是一个“全栈框架”。这意味着它包含了Web开发所需的大部分组件，从数据库ORM（对象关系映射）到管理后台、模板系统等等，都一应俱全。Django遵循“约定优于配置”的原则，能让你在短时间内快速开发出功能完善的大型应用。如果你的项目规模较大，或者需要快速搭建一个拥有完整功能的网站，Django会是更合适的选择。
 > 可以把Flask想象成一套乐高积木，你可以用它搭建任何你想要的东西，但需要自己动手去组合。而Django则更像是一个精装修的公寓，所有基本设施都已为你准备好，你只需要搬进去就可以了。
 
-### mk
+### 基本概念
+---
+### **为什么叫做“视图函数”？**
+你问得非常细致，这个问题很关键！在 Web 开发中，尤其是使用像 Flask 这样的 MVC（Model-View-Controller）或者 MVT（Model-View-Template）模式的框架时，“视图函数”这个名字就很有意义了。
+- **“视图 (View)”** 这个词在 Web 开发中通常指的是用户能看到和交互的界面，也就是**网页的呈现层**。它负责展示数据给用户。
+- 而 **“视图函数 (View Function)”** 在 Flask 中，它的主要职责就是：
+    1. **处理来自特定 URL 的请求。**
+    2. **准备数据（可能从数据库获取）。**
+    3. **最终返回一个响应给浏览器**，这个响应通常是 HTML 页面（即用户看到的“视图”）、JSON 数据或简单的文本。
+所以，尽管在你的“Hello World”例子中，视图函数只是简单地返回了一个字符串，但它的本质工作是**生成并返回用户界面的内容**。你可以把它想象成一个“幕后导演”，当用户访问某个地址时，它就“导演”出一幕“景色”（也就是网页内容）给用户看。
+随着我们学习的深入，你会看到视图函数会变得更复杂，它们会从数据库获取数据，然后使用模板来生成漂亮的 HTML 页面，将数据填充进去，最终呈现给用户。这些 HTML 页面就是用户看到的“视图”。
+```python
+"""  
+编程题 1：  
+  
+请修改你刚才的 app.py 文件，让它实现以下功能：  
+当你访问 http://127.0.0.1:5000/greet 这个URL时，页面上显示 "Hello, PyMaster!"。  
+而访问 http://127.0.0.1:5000/ 时，仍然显示 "Hello, World! This is my first Flask app!"。  
+提示：你需要添加一个新的路由和视图函数。  
+"""  
+from flask import Flask  
+  
+# create an Flask app instance  
+app = Flask(__name__)  
+  
+# define an route and accordingly view function  
+@app.route('/') # This is a decorator(装饰器）  
+# 它将 hello_world 函数与根URL (/) 关联起来。当用户访问网站的根路径时，hello_world 函数就会被执行。  
+def hello_world(): #这是视图函数，它返回一个字符串。这个字符串就是浏览器会显示的内容。  
+    return 'Hello, World! This is my first Flask app!'  
+@app.route('/greet')  
+def greet():  
+    return 'Hello, PyMaster!'  
+  
+if __name__ == '__main__':  
+    app.run(debug=True)
+```
