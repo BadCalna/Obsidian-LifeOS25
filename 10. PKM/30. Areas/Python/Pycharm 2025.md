@@ -6,3 +6,7 @@
 
 ## **JupyterNotebook**
 ---
+- control + enter:  运行
+- 在数据视图中打开，可以将结果以dataFrame的模式打开
+- shift + esc: 关闭工具窗口
+- option + shift + B: 添加代码块
