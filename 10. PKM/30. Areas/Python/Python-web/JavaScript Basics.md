@@ -11,3 +11,69 @@
 ---
 ### **如何在 HTML 中使用 JavaScript**
 和 CSS 类似，你可以在 HTML 中通过 `<script>` 标签来引入 JavaScript 代码。通常，我们会把 `<script>` 标签放在 `<body>` 的**末尾**（`</body>` 标签之前），这样可以确保 HTML 内容加载完毕后，JavaScript 再开始执行，避免出现找不到元素的错误。
+```JavaSript
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>我的交互式网页</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f8f8;
+            color: #333;
+            margin: 20px;
+        }
+        h1 {
+            color: #0056b3;
+            text-align: center;
+        }
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+        }
+        img {
+            border: 5px solid #ddd;
+            border-radius: 8px;
+            display: block;
+            margin: 20px auto; /* 修正后的上下20px外边距，左右居中 */
+        }
+        button { /* 给按钮添加一点样式 */
+            background-color: #4CAF50; /* 绿色背景 */
+            color: white; /* 白色文字 */
+            padding: 10px 20px; /* 内边距 */
+            border: none; /* 无边框 */
+            border-radius: 5px; /* 圆角 */
+            cursor: pointer; /* 鼠标悬停变手型 */
+            display: block; /* 独占一行 */
+            margin: 20px auto; /* 居中显示 */
+            font-size: 16px;
+        }
+        button:hover { /* 鼠标悬停效果 */
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <h1>我的个人介绍</h1>
+    <p>我喜欢阅读，尤其喜欢科幻小说。</p>
+    <img src="https://via.placeholder.com/200" alt="This is a picture.">
+
+    <button onclick="showAlert()">点击我！</button>
+
+    <script>
+        // 定义一个JavaScript函数
+        function showAlert() {
+            alert('你点击了按钮！这是JavaScript的魔力！');
+        }
+    </script>
+</body>
+</html>
+```
+### **JavaScript 代码解释：事件和函数**
+- `<button onclick="showAlert()">点击我！</button>`:
+    - 这是一个 HTML **按钮**。
+    - `onclick="showAlert()"` 是一个 **HTML 事件属性**。它告诉浏览器：当这个按钮被**点击 (click)** 时，就执行名为 `showAlert()` 的 JavaScript **函数**。
+- `<script>` 标签: 包含了我们的 JavaScript 代码。
+- `function showAlert() { ... }`: 这是一个 JavaScript **函数定义**。函数是一段可重复使用的代码块。
+- `alert('你点击了按钮！这是JavaScript的魔力！');`: `alert()` 是 JavaScript 内置的一个函数，它会在浏览器中弹出一个带有指定文本的**警告框**。
