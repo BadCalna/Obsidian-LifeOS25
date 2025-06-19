@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. PKM/30. Areas/Python/Python-web/CSS Basics.md",
+                "file": "10. PKM/30. Areas/Python/Python-web/JavaScript Basics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CSS Basics"
+              "title": "JavaScript Basics"
             }
           }
         ]
@@ -252,8 +252,9 @@
   },
   "active": "678c01ced435521d",
   "lastOpenFiles": [
-    "10. PKM/30. Areas/Python/Pycharm 2025.md",
     "10. PKM/30. Areas/Python/Python-web/CSS Basics.md",
+    "10. PKM/30. Areas/Python/Python-web/JavaScript Basics.md",
+    "10. PKM/30. Areas/Python/Pycharm 2025.md",
     "10. PKM/30. Areas/Python/Python-web/HTML Basics.md",
     "10. PKM/30. Areas/Python/Python-web/Python Web框架简介.md",
     "10. PKM/30. Areas/Python/Python-web",
@@ -285,7 +286,6 @@
     "10. PKM/30. Areas/Productivity/TaskManagement/GTD Research Report.md",
     "10. PKM/30. Areas/Productivity/TaskManagement/TF's Notion Formula.md",
     "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.1.1 Six Phases of data analysis.md",
-    "10. PKM/10. Projects/Google Data Analytics/00. RoadMap.md",
     "10. PKM/30. Areas/LateX",
     "10. PKM/10. Projects/Reading Feel Good Productivity",
     "00. System FILE/95. attachment/Pasted image 20250315143508.png",
