@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. PKM/30. Areas/Python/Python-web/JavaScript Basics.md",
+                "file": "10. PKM/30. Areas/Python/Pycharm 2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "JavaScript Basics"
+              "title": "Pycharm 2025"
             }
           }
         ]
@@ -252,9 +252,12 @@
   },
   "active": "678c01ced435521d",
   "lastOpenFiles": [
+    "00. System FILE/95. attachment/Pasted image 20250620113440.png",
+    "00. System FILE/95. attachment/Pasted image 20250620113435.png",
     "10. PKM/30. Areas/Python/Pycharm 2025.md",
-    "10. PKM/30. Areas/Python/Python基础.md",
+    "10. PKM/30. Areas/Python/Python-web/后端基础.md",
     "10. PKM/30. Areas/Python/Python-web/JavaScript Basics.md",
+    "10. PKM/30. Areas/Python/Python基础.md",
     "10. PKM/30. Areas/Python/Python-web/CSS Basics.md",
     "10. PKM/30. Areas/Python/Python-web/HTML Basics.md",
     "10. PKM/30. Areas/Python/Python-web/Python Web框架简介.md",
@@ -284,8 +287,6 @@
     "回家.md",
     "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.4.1 Data Fairness.md",
     "10. PKM/30. Areas/Productivity/TaskManagement/GTD Research Report.md",
-    "10. PKM/30. Areas/Productivity/TaskManagement/TF's Notion Formula.md",
-    "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.1.1 Six Phases of data analysis.md",
     "10. PKM/30. Areas/LateX",
     "10. PKM/10. Projects/Reading Feel Good Productivity",
     "00. System FILE/95. attachment/Pasted image 20250315143508.png",
@@ -297,7 +298,6 @@
     "00. System File/95. attachment/Pasted image 20250220131656.png",
     "00. System File/95. attachment/Pasted image 20250220131218.png",
     "00. System FILE/95. attachment/Pasted image 20250220131218.png",
-    "00. System FILE/95. attachment/Pasted image 20250220130731.png",
     "未命名.canvas"
   ]
 }

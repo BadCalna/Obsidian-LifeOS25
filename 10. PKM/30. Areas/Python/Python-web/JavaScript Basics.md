@@ -77,3 +77,75 @@
 - `<script>` 标签: 包含了我们的 JavaScript 代码。
 - `function showAlert() { ... }`: 这是一个 JavaScript **函数定义**。函数是一段可重复使用的代码块。
 - `alert('你点击了按钮！这是JavaScript的魔力！');`: `alert()` 是 JavaScript 内置的一个函数，它会在浏览器中弹出一个带有指定文本的**警告框**。
+```js
+<!DOCTYPE html>  
+<html lang="en">  
+<head>  
+    <meta charset="UTF-8">  
+    <title>My To-do List</title>  
+  <style>  
+    body{  
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", ui-system, sans-serif;  
+      background-color: #f8f8f8;  
+      color: #333;  
+      margin: 20px;  
+      padding: 20px;  
+    }  
+    h1{  
+      text-align: center;  
+      color: #0056b3;  
+      margin-bottom: auto;  
+      margin-top: auto;  
+    }  
+    input{  
+      width: 100%;  
+      padding: 10px;  
+      margin-bottom: 10px;  
+      border: 1px solid #ccc;  
+    }  
+    button{  
+      color: cornflowerblue;  
+      background-color: white  
+    }  
+    button:hover{  
+      background-color: cornflowerblue;  
+      color: white;  
+    }  
+    li{  
+      list-style: circle;  
+      padding: 10px;  
+      margin-bottom: 10px;  
+      background-color: white;  
+      border: 1px solid #ccc;  
+      border-radius: 5px;  
+    }  
+  </style>  
+</head>  
+<body>  
+  <h1>My To-do List</h1>  
+  <input type = 'text' id = 'input' placeholder = 'Add a task'>  
+  <button id = 'add' onclick="addTask()">Add</button>  
+  <button id = 'clear' onclick="clearTask()">Clear</button>  
+<!--  <li id="branding"></li>-->  
+  <ul id = 'list'></ul>  
+<script>  
+  function addTask(){  
+    const input = document.getElementById('input')  
+    const list = document.getElementById('list')  
+    const li = document.createElement('li')  
+      if(input.value === ''){  
+        alert('Cannot add an empty task!')  
+        return  
+      }  
+    li.innerText = input.value  
+    list.appendChild(li) // 添加到列表  
+    input.value = '' // 清空输入框  
+  }  
+  function clearTask(){  
+    const list = document.getElementById('list')  
+    list.innerHTML = ''  
+  }  
+</script>  
+</body>  
+</html>
+```

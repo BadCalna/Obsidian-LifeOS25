@@ -12,3 +12,11 @@
 - option + shift + B: 添加代码块
 - shift + cmd + -: 在当前行拆分单元
 - control + option + shift + enter: 运行全部
+
+## **编辑器基础知识**
+---
+### 上下文操作
+---
+- shift + cmd + A: 查找操作
+	- 也可以双击shift，切换到操作页签![[Pasted image 20250620113440.png]]
+	- 
