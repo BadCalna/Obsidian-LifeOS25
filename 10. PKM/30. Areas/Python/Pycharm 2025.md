@@ -52,4 +52,23 @@
 ## **代码补全**
 ---
 #### 基本补全
-- 
+
+^6d6da7
+
+- control + fn(没开fnlock时，即直接按F系列键可以触发功能时) + space：基本补全，可以选择补全内容
+#### 标签页补全
+- control + fn + space：选择到希望替换的内容（变量名、方法等），按tab 替换
+#### 后缀名补全：在当前方法或变量后输入‘.’即可触发后缀补全
+- 示例
+```python
+movies_dict.get('year')
+# 补全为if x is not none
+movies_dict.get('year').ifnn
+选定
+```
+#### 类型匹配补全
+- 对于未知类型，pycharm无法直接提供[[Pycharm 2025#^6d6da7|基本补全]]
+- 可以尝试通过以下快捷键，pycharm将尝试基于上下文补全
+	- control + shift + space
+#### F-string自动补全
+- 直接在字符串内键入【{ +变量名】后使用基本补全，即可转换当前字符串为f-string
