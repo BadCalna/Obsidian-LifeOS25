@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "模板引擎（Templating Engine）"
             }
-          },
-          {
-            "id": "a3146283af72d42c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10. PKM/30. Areas/Python/Python-web/Jinjia2基础.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Jinjia2基础"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -275,7 +250,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3146283af72d42c",
+  "active": "678c01ced435521d",
   "lastOpenFiles": [
     "10. PKM/30. Areas/Python/Python-web/Jinjia2基础.md",
     "10. PKM/30. Areas/Python/Python-web/模板引擎（Templating Engine）.md",
