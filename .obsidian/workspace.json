@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. PKM/30. Areas/Python/Pycharm 2025.md",
+                "file": "10. PKM/30. Areas/Python/Python-web/补充知识.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pycharm 2025"
+              "title": "补充知识"
             }
           }
         ]
@@ -252,8 +252,9 @@
   },
   "active": "678c01ced435521d",
   "lastOpenFiles": [
-    "10. PKM/30. Areas/Python/Python-web/后端基础.md",
     "10. PKM/30. Areas/Python/Pycharm 2025.md",
+    "10. PKM/30. Areas/Python/Python-web/补充知识.md",
+    "10. PKM/30. Areas/Python/Python-web/后端基础.md",
     "00. System FILE/95. attachment/Pasted image 20250620113440.png",
     "00. System FILE/95. attachment/Pasted image 20250620113435.png",
     "10. PKM/30. Areas/Python/Python-web/JavaScript Basics.md",
