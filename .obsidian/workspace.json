@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2be7b062e432218e",
+        "id": "a02dfccea5a08ece",
         "type": "tabs",
         "children": [
           {
-            "id": "678c01ced435521d",
+            "id": "c80cdcd1ed9a05a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. PKM/30. Areas/Python/Python-web/模板引擎（Templating Engine）.md",
+                "file": "10. PKM/30. Areas/Python/Python-web/Jinjia2基础.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "模板引擎（Templating Engine）"
+              "title": "Jinjia2基础"
+            }
+          },
+          {
+            "id": "281714497c035af3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10. PKM/30. Areas/Python/Python-web/前后端关联——表单数据处理.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "前后端关联——表单数据处理"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -250,9 +275,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "678c01ced435521d",
+  "active": "281714497c035af3",
   "lastOpenFiles": [
     "10. PKM/30. Areas/Python/Python-web/Jinjia2基础.md",
+    "10. PKM/30. Areas/Python/Python-web/前后端关联——表单数据处理.md",
     "10. PKM/30. Areas/Python/Python-web/模板引擎（Templating Engine）.md",
     "10. PKM/30. Areas/Python/Python-web/补充知识.md",
     "10. PKM/30. Areas/Python/Pycharm 2025.md",
@@ -287,7 +313,6 @@
     "EDA(Exploratory Data Analysis).md",
     "Personal_Scrum.md",
     "10. PKM/30. Areas/Native Speaker",
-    "回家.md",
     "10. PKM/30. Areas/LateX",
     "10. PKM/10. Projects/Reading Feel Good Productivity",
     "00. System FILE/95. attachment/Pasted image 20250315143508.png",
