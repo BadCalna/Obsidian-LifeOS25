@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. PKM/30. Areas/Algorithm&DataStructure/未命名.md",
+                "file": "10. PKM/30. Areas/Algorithm&DataStructure/递归函数.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "递归函数"
             }
           }
         ],
@@ -278,7 +278,7 @@
   "active": "281714497c035af3",
   "lastOpenFiles": [
     "10. PKM/30. Areas/Python/Python-web/前后端关联——表单数据处理.md",
-    "10. PKM/30. Areas/Algorithm&DataStructure/未命名.md",
+    "10. PKM/30. Areas/Algorithm&DataStructure/递归函数.md",
     "10. PKM/30. Areas/Algorithm&DataStructure",
     "10. PKM/30. Areas/Python/Python-web/Jinjia2基础.md",
     "10. PKM/30. Areas/Python/Python-web/模板引擎（Templating Engine）.md",
