@@ -203,4 +203,4 @@ int add(int a, int b) { // int add 是返回类型和函数名，int a, int b �
 int add(int a, int b); // 或者更简洁地：int add(int, int);
 // 这是一个函数声明
 ```
-- **注意：** 如果函数定义在 `main` 函数**之前**，那么通常可以省略函数声明。但为了良好的编程习惯和组织大型项目，通常还是会进行声明。
+- 
