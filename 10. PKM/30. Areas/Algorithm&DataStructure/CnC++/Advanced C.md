@@ -46,4 +46,72 @@ int main() {
 ---
 - 结构体就是一个**自定义数据类型**
 	- Python里面那些便捷的类型（string, bool……）估计底层是通过结构体实现的
-- 
+- 在 C 语言中，我们有像 `int`、`float`、`char` 这样的基本数据类型。但很多时候，我们需要把不同类型的数据组合在一起，来描述一个更复杂的实体。比如，你想描述一个“学生”，它可能包含姓名（字符串）、年龄（整数）、学号（整数）和分数（浮点数）。
+- 这时候，**结构体 (struct)** 就派上用场了！结构体允许你把不同类型的数据项组合成一个单一的复合数据类型。你可以把它想象成一个“自定义的蓝图”或“模板”，你可以用这个模板来创建很多拥有相同属性的“对象”。
+### 定义结构体
+使用 `struct` 关键字来定义结构体。
+```c
+struct Student {
+    char name[50]; // 姓名 (用字符数组表示字符串)
+    int age;       // 年龄
+    int student_id; // 学号
+    float score;   // 分数
+}; // 别忘了分号！
+```
+### 声明和使用结构体变量
+- 声明示例
+```c
+struct Student student1; // 声明一个名为 student1 的 Student 类型变量
+
+// 访问结构体成员使用点运算符 '.'
+strcpy(student1.name, "张三"); // 为姓名赋值 (注意字符串赋值需要用 strcpy 函数)
+student1.age = 20;
+student1.student_id = 1001;
+student1.score = 92.5;
+
+printf("学生姓名: %s, 年龄: %d, 学号: %d, 分数: %.1f\n",
+       student1.name, student1.age, student1.student_id, student1.score);
+```
+>这里 `strcpy` 是一个字符串拷贝函数，你需要 `#include <string.h>` 来使用它。因为 C 语言的字符串是字符数组，不能直接用 🟰 赋值。
+### 结构体指针
+- 就像普通变量可以有指针一样，结构体变量也可以有指针。当使用结构体指针访问其成员时，需要使用**箭头运算符 `->`**。
+- 示例
+```c
+struct Student student2; // 声明一个 Student 变量
+struct Student *ptr_student; // 声明一个指向 Student 结构体的指针
+
+ptr_student = &student2; // 将 student2 的地址赋给指针
+
+// 通过指针访问结构体成员，使用 -> 运算符
+strcpy(ptr_student->name, "李四"); // 等价于 (*ptr_student).name
+ptr_student->age = 22;             // 等价于 (*ptr_student).age
+ptr_student->student_id = 1002;
+ptr_student->score = 88.0;
+
+printf("通过指针访问的学生姓名: %s, 年龄: %d\n",
+       ptr_student->name, ptr_student->age);
+```
+### 联合体
+- **联合体 (union)** 也是一种自定义数据类型，它和结构体很相似，但有一个关键区别：**联合体的所有成员共享同一块内存空间**。这意味着，在任何时候，联合体中只有一个成员可以存储有效值。
+```c
+union Data {
+    int i;
+    float f;
+    char str[20];
+};
+
+union Data data1;
+
+data1.i = 10;
+printf("data1.i: %d\n", data1.i); // 输出：10
+
+data1.f = 22.5;
+printf("data1.f: %.1f\n", data1.f); // 输出：22.5
+// 此时 data1.i 的值可能已经损坏，因为它和 f 共享内存
+
+strcpy(data1.str, "Hello Union");
+printf("data1.str: %s\n", data1.str); // 输出：Hello Union
+// 此时 data1.i 和 data1.f 的值也可能已经损坏
+```
+> 联合体通常用于节省内存，或者当你确定在某个时刻只需要使用某个数据类型的场景。因为它们共享内存，所以在使用时要特别小心，避免数据混淆。
+
