@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c80cdcd1ed9a05a9",
+            "id": "281714497c035af3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. PKM/30. Areas/Python/Python-web/Jinjia2基础.md",
+                "file": "10. PKM/30. Areas/Python/Pycharm 2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,11 +28,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Jinjia2基础"
+              "title": "Pycharm 2025"
             }
           },
           {
-            "id": "281714497c035af3",
+            "id": "68acf2622bc91d0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -275,10 +275,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "281714497c035af3",
+  "active": "68acf2622bc91d0b",
   "lastOpenFiles": [
-    "10. PKM/30. Areas/Algorithm&DataStructure/CnC++/Basics C.md",
+    "10. PKM/30. Areas/Python/Pycharm 2025.md",
     "10. PKM/30. Areas/Algorithm&DataStructure/CnC++/Advanced C.md",
+    "10. PKM/30. Areas/Algorithm&DataStructure/CnC++/Basics C.md",
     "10. PKM/30. Areas/Algorithm&DataStructure/递归函数.md",
     "10. PKM/30. Areas/Algorithm&DataStructure/CnC++",
     "10. PKM/30. Areas/Python/Python-web/前后端关联——表单数据处理.md",
@@ -286,7 +287,6 @@
     "10. PKM/30. Areas/Python/Python-web/Jinjia2基础.md",
     "10. PKM/30. Areas/Python/Python-web/模板引擎（Templating Engine）.md",
     "10. PKM/30. Areas/Python/Python-web/补充知识.md",
-    "10. PKM/30. Areas/Python/Pycharm 2025.md",
     "10. PKM/30. Areas/Python/Python-web/后端基础.md",
     "00. System FILE/95. attachment/Pasted image 20250620113440.png",
     "00. System FILE/95. attachment/Pasted image 20250620113435.png",
