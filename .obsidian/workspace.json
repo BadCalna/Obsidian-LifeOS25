@@ -11,24 +11,26 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10. PKM/30. Areas/Python/Webscrapping/网络基础知识.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "网络基础知识"
+              "title": "新标签页"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ce74346a8b1d520a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bde55ad82b9361df",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -250,11 +252,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "bde55ad82b9361df",
   "lastOpenFiles": [
+    "10. PKM/30. Areas/Python/Webscrapping/网络基础知识.md",
     "10. PKM/30. Areas/Python/Webscrapping/未命名.nssyncsc",
     "10. PKM/30. Areas/Python/Pycharm 2025.md",
-    "10. PKM/30. Areas/Python/Webscrapping/网络基础知识.md",
     "10. PKM/30. Areas/Python/Webscrapping",
     "10. PKM/30. Areas/Algorithm&DataStructure/CnC++/Advanced C.md",
     "10. PKM/30. Areas/Algorithm&DataStructure/CnC++/Basics C.md",
@@ -289,7 +291,6 @@
     "10. PKM/30. Areas/PaperReading/2501.18998v2.pdf",
     "10. PKM/30. Areas/PaperReading",
     "10. PKM/30. Areas/Paper",
-    "10. PKM/30. Areas/未命名文件夹",
     "00. System FILE/95. attachment/Pasted image 20250315143508.png",
     "00. System FILE/95. attachment/Pasted image 20250309162150.png",
     "00. System FILE/95. attachment/Pasted image 20250309162726.png",
