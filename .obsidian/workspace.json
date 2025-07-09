@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. PKM/30. Areas/Python/Pycharm 2025.md",
+                "file": "10. PKM/30. Areas/Python/Webscrapping/网络基础知识.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pycharm 2025"
+              "title": "网络基础知识"
             }
           }
         ]
@@ -250,10 +250,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "23f34688a295cf49",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "10. PKM/30. Areas/Python/Webscrapping",
+    "10. PKM/30. Areas/Python/Webscrapping/未命名.nssyncsc",
     "10. PKM/30. Areas/Python/Pycharm 2025.md",
+    "10. PKM/30. Areas/Python/Webscrapping/网络基础知识.md",
+    "10. PKM/30. Areas/Python/Webscrapping",
     "10. PKM/30. Areas/Algorithm&DataStructure/CnC++/Advanced C.md",
     "10. PKM/30. Areas/Algorithm&DataStructure/CnC++/Basics C.md",
     "10. PKM/30. Areas/Algorithm&DataStructure/递归函数.md",
@@ -284,12 +286,10 @@
     "10. PKM/10. Projects/Google Data Analytics/20. Ask/20.1.2 Common Problem Types and some Cases.md",
     "10. PKM/10. Projects/Google Data Analytics/20. Ask/20.1.5 Glossary Terms.md",
     "10. PKM/10. Projects/Google Data Analytics/20. Ask/20.1.4 Core Role in Data Analysis.md",
-    "10. PKM/10. Projects/Google Data Analytics/20. Ask/20.1.3 SMART Question.md",
     "10. PKM/30. Areas/PaperReading/2501.18998v2.pdf",
     "10. PKM/30. Areas/PaperReading",
     "10. PKM/30. Areas/Paper",
     "10. PKM/30. Areas/未命名文件夹",
-    "10. PKM/30. Areas/Native Speaker",
     "00. System FILE/95. attachment/Pasted image 20250315143508.png",
     "00. System FILE/95. attachment/Pasted image 20250309162150.png",
     "00. System FILE/95. attachment/Pasted image 20250309162726.png",
