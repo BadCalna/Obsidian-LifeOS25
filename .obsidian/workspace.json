@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. PKM/30. Areas/Python/Webscrapping/BeautifulSoup —— 网页解析.md",
+                "file": "10. PKM/30. Areas/Python/Python基础.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "BeautifulSoup —— 网页解析"
+              "title": "Python基础"
+            }
+          },
+          {
+            "id": "265500d4a30ef386",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10. PKM/30. Areas/Python/Python Tips.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Python Tips"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -250,10 +275,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bde55ad82b9361df",
+  "active": "265500d4a30ef386",
   "lastOpenFiles": [
-    "10. PKM/30. Areas/Python/Webscrapping/requests.md",
+    "10. PKM/30. Areas/Python/Python基础.md",
+    "10. PKM/30. Areas/Python/Python Tips.md",
     "10. PKM/30. Areas/Python/Webscrapping/BeautifulSoup —— 网页解析.md",
+    "10. PKM/30. Areas/Python/Webscrapping/requests.md",
     "10. PKM/30. Areas/Python/Webscrapping/网络基础知识.md",
     "10. PKM/30. Areas/Python/Pycharm 2025.md",
     "10. PKM/30. Areas/Python/Webscrapping/未命名.nssyncsc",
@@ -271,7 +298,6 @@
     "00. System FILE/95. attachment/Pasted image 20250620113440.png",
     "00. System FILE/95. attachment/Pasted image 20250620113435.png",
     "10. PKM/30. Areas/Python/Python-web/JavaScript Basics.md",
-    "10. PKM/30. Areas/Python/Python基础.md",
     "10. PKM/30. Areas/Python/Python-web/CSS Basics.md",
     "10. PKM/30. Areas/Python/Python-web/HTML Basics.md",
     "10. PKM/30. Areas/Python/Python-web/Python Web框架简介.md",
@@ -286,7 +312,6 @@
     "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.3.2 SQL.md",
     "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.3.3 Data Viz.md",
     "10. PKM/10. Projects/Google Data Analytics/20. Ask/20.1.2 Common Problem Types and some Cases.md",
-    "10. PKM/10. Projects/Google Data Analytics/20. Ask/20.1.5 Glossary Terms.md",
     "10. PKM/30. Areas/PaperReading/2501.18998v2.pdf",
     "10. PKM/30. Areas/PaperReading",
     "10. PKM/30. Areas/Paper",
