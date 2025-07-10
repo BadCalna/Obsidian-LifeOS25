@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. PKM/30. Areas/Python/Python Tips.md",
+                "file": "10. PKM/30. Areas/Python/Webscrapping/Outline.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Python Tips"
+              "title": "Outline"
             }
           }
         ],
@@ -277,11 +277,12 @@
   },
   "active": "265500d4a30ef386",
   "lastOpenFiles": [
-    "10. PKM/30. Areas/Python/Python基础.md",
-    "10. PKM/30. Areas/Python/Python Tips.md",
     "10. PKM/30. Areas/Python/Webscrapping/BeautifulSoup —— 网页解析.md",
-    "10. PKM/30. Areas/Python/Webscrapping/requests.md",
+    "10. PKM/30. Areas/Python/Webscrapping/Outline.md",
     "10. PKM/30. Areas/Python/Webscrapping/网络基础知识.md",
+    "10. PKM/30. Areas/Python/Webscrapping/requests.md",
+    "10. PKM/30. Areas/Python/Python Tips.md",
+    "10. PKM/30. Areas/Python/Python基础.md",
     "10. PKM/30. Areas/Python/Pycharm 2025.md",
     "10. PKM/30. Areas/Python/Webscrapping/未命名.nssyncsc",
     "10. PKM/30. Areas/Python/Webscrapping",
@@ -311,7 +312,6 @@
     "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.3.1 Master spreadsheets basics.md",
     "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.3.2 SQL.md",
     "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.3.3 Data Viz.md",
-    "10. PKM/10. Projects/Google Data Analytics/20. Ask/20.1.2 Common Problem Types and some Cases.md",
     "10. PKM/30. Areas/PaperReading/2501.18998v2.pdf",
     "10. PKM/30. Areas/PaperReading",
     "10. PKM/30. Areas/Paper",
