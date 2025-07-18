@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. PKM/30. Areas/Python/Webscrapping/网络基础知识.md",
+                "file": "10. PKM/30. Areas/Python/Python-web/Django.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "网络基础知识"
+              "title": "Django"
             }
           }
         ]
@@ -252,6 +252,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "10. PKM/30. Areas/Python/Webscrapping/网络基础知识.md",
+    "10. PKM/30. Areas/Python/Python-web/Django.md",
     "10. PKM/30. Areas/Python/Webscrapping/requests.md",
     "10. PKM/30. Areas/Python/Webscrapping/Outline.md",
     "10. PKM/30. Areas/Scattered Knowledge/Outliers.md",
@@ -259,7 +261,6 @@
     "10. PKM/30. Areas/Python/Python基础.md",
     "10. PKM/30. Areas/Python/Pycharm 2025.md",
     "10. PKM/30. Areas/Productivity/六个月高效能成长路线图.md",
-    "10. PKM/30. Areas/Python/Webscrapping/网络基础知识.md",
     "10. PKM/30. Areas/Python/Webscrapping/网络基础与 HTTP HTTPS 协议.md",
     "10. PKM/30. Areas/Python/Webscrapping/BeautifulSoup —— 网页解析.md",
     "10. PKM/30. Areas/Python/Python Tips.md",
@@ -286,7 +287,6 @@
     "10. PKM/30. Areas/Python",
     "10. PKM/10. Projects/Google Data Analytics/20. Ask/20.2.2 Qualitative and Quantitative data.md",
     "10. PKM/10. Projects/Google Data Analytics/20. Ask/20.2.1 Data and Decision.md",
-    "10. PKM/10. Projects/Google Data Analytics/40. Process｜Process.md",
     "10. PKM/30. Areas/PaperReading/2501.18998v2.pdf",
     "10. PKM/30. Areas/PaperReading",
     "10. PKM/30. Areas/Paper",
