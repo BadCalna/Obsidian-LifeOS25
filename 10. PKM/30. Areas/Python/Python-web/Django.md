@@ -60,9 +60,79 @@ class Article(models.Model):
 	    - 函数/类接收 `request` 对象作为参数。
 	    - 从模型中查询数据。
 	    - 使用 `render()` 函数将数据和模板组合成 HTTP 响应。
+```python
+# views.py 示例
+from django.shortcuts import render
+from myapp.models import Article
+
+def article_list(request):
+    articles = Article.objects.all().order_by('-pub_date')
+    context = {
+        'articles': articles
+    }
+    return render(request, 'article_list.html', context)
+```
 ### 3. Django 的核心功能和特点
 除了 MTV 核心之外，Django 还内置了大量“电池”，使其成为一个全栈框架：
 - **URL Dispatcher (URL 调度器):**
     - **功能:** 将传入的 URL 请求映射到相应的视图函数。
     - **特点:** 基于正则表达式或路径转换器的高度可配置的 URL 路由系统。
     - **基本用法:** 在 `urls.py` 文件中定义 URL 模式。
+```python
+# urls.py 示例
+from django.urls import path
+from . import views
+
+urlpatterns = [
+    path('articles/', views.article_list, name='article_list'),
+    path('articles/<int:article_id>/', views.article_detail, name='article_detail'),
+]
+```
+### 4. Admin Interface (管理后台)
+---
+- **功能:** 自动生成一个功能强大的管理界面，用于管理数据库中的数据。无需编写任何代码即可对模型数据进行 CRUD (创建、读取、更新、删除) 操作。
+- **特点:** 可高度定制，非常适合非技术人员进行内容管理。
+- **基本用法:**
+    - 在 `admin.py` 文件中注册你的模型。
+    - 运行 `python manage.py createsuperuser` 创建管理员账号.        
+    - 访问 `http://127.0.0.1:8000/admin/` 登录管理。
+```python
+# admin.py 示例
+from django.contrib import admin
+from .models import Article
+
+admin.site.register(Article)
+```
+### 5. 其他功能
+---
+- **Forms (表单):**
+    - **功能:** 处理 HTML 表单、验证用户输入、渲染表单字段。
+    - **特点:** 自动生成 HTML 表单、内置验证规则、易于与模型集成。
+    - **基本用法:**
+        - 在 `forms.py` 中定义表单类。
+        - 在视图中处理表单提交和验证。
+- **Authentication and Authorization System (认证和授权系统):**
+    - **功能:** 处理用户注册、登录、登出、密码管理以及用户权限。
+    - **特点:** 开箱即用，高度可定制，安全性高。
+- **Migrations (数据库迁移):**
+    - **功能:** 跟踪模型（数据表结构）的变化，并生成 SQL 脚本来更新数据库。
+    - **特点:** 自动生成迁移文件，支持数据库版本控制，使得数据库结构的管理变得简单。
+    - **基本用法:**
+        - 修改 `models.py`。
+        - `python manage.py makemigrations` (生成迁移文件)。
+        - `python manage.py migrate` (应用迁移到数据库)。
+- **Static Files Handling (静态文件处理):**
+    - **功能:** 管理和提供 CSS、JavaScript、图片等静态文件。
+    - **特点:** 方便开发和部署。
+- **Security (安全性):**
+    - **特点:** 内置了针对常见 Web 漏洞（如 CSRF、XSS、SQL 注入、点击劫持等）的防护措施，大大降低了开发者的安全风险。
+### 6. Django 的主要特点总结
+---
+- **DRY (Don't Repeat Yourself):** 鼓励代码重用，减少冗余。 
+- **Rapid Development (快速开发):** 大量开箱即用的组件和自动化工具，大大加速开发进程。
+- **Scalability (可伸缩性):** 设计上考虑了可伸缩性，能够处理从小型应用到大型高流量网站的各种规模。
+- **Security (安全性):** 内置了多重安全防护，帮助开发者构建安全的 Web 应用。
+- **Versatility (多功能性):** 适用于各种类型的 Web 应用，从内容管理系统到社交网络和科学计算平台。
+- **ORM:** 让数据库操作像操作 Python 对象一样简单。
+- **管理后台:** 强大的自动化管理界面。
+- **社区和文档:** 拥有庞大活跃的社区和非常完善的官方文档。
