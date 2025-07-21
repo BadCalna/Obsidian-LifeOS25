@@ -136,3 +136,13 @@ admin.site.register(Article)
 - **ORM:** 让数据库操作像操作 Python 对象一样简单。
 - **管理后台:** 强大的自动化管理界面。
 - **社区和文档:** 拥有庞大活跃的社区和非常完善的官方文档。
+
+### Django实战Tips
+---
+- 转化为models.py后
+	- 如果你想对数据库结构做任何修改——比如给 Character 模型增加一个“称号(title)”字段——你的操作将是：
+		- 1.修改代码：打开 world_settings/models.py，在 Character 类里添加一行 title = models.CharField(...)。
+		- 2.生成施工计划：在终端运行 python manage.py makemigrations。Django 会比较你的 models.py 和数据库的当前状态，自动生成一个迁移文件，里面描述了“如何给 characters 表添加一个 title 列”。
+		- 3.执行施工：运行 python manage.py migrate。Django 会读取这个计划，并安全地更新你的 SQLite 数据库。
+- 之后，我们调整数据库等等都使用[[Django Admin]]
+	- 在此之前，需要将models注册到admin.py中
