@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. PKM/30. Areas/Python/Python-web/Django.md",
+                "file": "10. PKM/30. Areas/Python/Python Develop Tips.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Django"
+              "title": "Python Develop Tips"
             }
           }
         ]
@@ -252,18 +252,20 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "10. PKM/30. Areas/Python/Webscrapping/网络基础知识.md",
+    "10. PKM/40. Archived/Know Github/10.4 Pull Request.md",
+    "10. PKM/40. Archived/Know Github/10.5 Merge pull request.md",
     "10. PKM/30. Areas/Python/Python-web/Django.md",
+    "10. PKM/30. Areas/Python/Python基础.md",
+    "10. PKM/30. Areas/Python/Webscrapping/网络基础知识.md",
     "10. PKM/30. Areas/Python/Webscrapping/requests.md",
     "10. PKM/30. Areas/Python/Webscrapping/Outline.md",
     "10. PKM/30. Areas/Scattered Knowledge/Outliers.md",
     "10. PKM/30. Areas/Scattered Knowledge/MosCow.md",
-    "10. PKM/30. Areas/Python/Python基础.md",
     "10. PKM/30. Areas/Python/Pycharm 2025.md",
     "10. PKM/30. Areas/Productivity/六个月高效能成长路线图.md",
     "10. PKM/30. Areas/Python/Webscrapping/网络基础与 HTTP HTTPS 协议.md",
     "10. PKM/30. Areas/Python/Webscrapping/BeautifulSoup —— 网页解析.md",
-    "10. PKM/30. Areas/Python/Python Tips.md",
+    "10. PKM/30. Areas/Python/Python Develop Tips.md",
     "10. PKM/30. Areas/Python/Webscrapping/未命名.nssyncsc",
     "10. PKM/30. Areas/Python/Webscrapping",
     "10. PKM/30. Areas/Algorithm&DataStructure/CnC++/Advanced C.md",
@@ -285,8 +287,6 @@
     "10. PKM/30. Areas/Python/Python-web",
     "10. PKM/10. Projects/CTRM Maintain",
     "10. PKM/30. Areas/Python",
-    "10. PKM/10. Projects/Google Data Analytics/20. Ask/20.2.2 Qualitative and Quantitative data.md",
-    "10. PKM/10. Projects/Google Data Analytics/20. Ask/20.2.1 Data and Decision.md",
     "10. PKM/30. Areas/PaperReading/2501.18998v2.pdf",
     "10. PKM/30. Areas/PaperReading",
     "10. PKM/30. Areas/Paper",
