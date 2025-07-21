@@ -6,4 +6,8 @@ python manage.py createsuperuser
 ```python
 python manage.py runserver
 ```
-- 
+- 保存修改的models并迁移
+```python
+python manage.py makemigrations
+python manage.py migrate
+```
