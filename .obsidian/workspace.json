@@ -8,57 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "147868d144c3e950",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10. PKM/30. Areas/Python/Python-web/Django/Django命令行.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Django命令行"
+              "title": "新标签页"
             }
           }
         ]
       },
       {
-        "id": "f0febb9bfa46947a",
+        "id": "2735f7f5bc788412",
         "type": "tabs",
         "children": [
           {
-            "id": "2c22840eca10cb19",
+            "id": "43220e1290b26142",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10. PKM/30. Areas/Python/Python-web/Django/Django Admin.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Django Admin"
+              "title": "新标签页"
             }
           }
         ]
@@ -280,10 +252,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "147868d144c3e950",
+  "active": "43220e1290b26142",
   "lastOpenFiles": [
-    "10. PKM/30. Areas/Python/Python-web/Django/Django Admin.md",
     "10. PKM/30. Areas/Python/Python-web/Django/Django命令行.md",
+    "10. PKM/30. Areas/Python/Python-web/Django/Django Admin.md",
     "10. PKM/30. Areas/Python/Python-web/Django/Django.md",
     "10. PKM/30. Areas/Python/Python-web/Django",
     "10. PKM/30. Areas/Python/Python-web/前后端关联——表单数据处理.md",
