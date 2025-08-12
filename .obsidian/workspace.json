@@ -20,11 +20,11 @@
         ]
       },
       {
-        "id": "2735f7f5bc788412",
+        "id": "44428d5cb7596a79",
         "type": "tabs",
         "children": [
           {
-            "id": "43220e1290b26142",
+            "id": "7e8a6d5ed5eda0e3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -253,7 +253,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d900daafd723c73d",
+  "active": "7e8a6d5ed5eda0e3",
   "lastOpenFiles": [
     "10. PKM/30. Areas/Python/Python-web/Django/Django命令行.md",
     "10. PKM/30. Areas/Python/Python-web/Django/Django Admin.md",
