@@ -77,7 +77,8 @@
               "title": "搜索"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a988cac77a40a43d",
@@ -252,7 +253,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "43220e1290b26142",
+  "active": "d900daafd723c73d",
   "lastOpenFiles": [
     "10. PKM/30. Areas/Python/Python-web/Django/Django命令行.md",
     "10. PKM/30. Areas/Python/Python-web/Django/Django Admin.md",
