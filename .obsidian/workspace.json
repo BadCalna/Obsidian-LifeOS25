@@ -11,29 +11,29 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.9.10"
             }
-          }
-        ]
-      },
-      {
-        "id": "44428d5cb7596a79",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "7e8a6d5ed5eda0e3",
+            "id": "96a3402efc3a7692",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "bases",
+              "state": {
+                "file": "Project Google Data Analyst.base",
+                "viewName": "表格"
+              },
+              "icon": "lucide-table",
+              "title": "Project Google Data Analyst"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,8 +77,7 @@
               "title": "搜索"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a988cac77a40a43d",
@@ -254,8 +253,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e8a6d5ed5eda0e3",
+  "active": "96a3402efc3a7692",
   "lastOpenFiles": [
+    "未命名.md",
+    "Project Google Data Analyst.base",
+    "Personal_Scrum.md",
     "10. PKM/30. Areas/Python/Python-web/Django/Django命令行.md",
     "10. PKM/30. Areas/Python/Python-web/Django/Django Admin.md",
     "10. PKM/30. Areas/Python/Python-web/Django/Django.md",
@@ -284,16 +286,12 @@
     "10. PKM/30. Areas/Python/Python-web/Jinjia2基础.md",
     "10. PKM/30. Areas/Python/Python-web/模板引擎（Templating Engine）.md",
     "10. PKM/30. Areas/Python/Python-web/补充知识.md",
-    "10. PKM/30. Areas/Python/Python-web/后端基础.md",
     "00. System FILE/95. attachment/Pasted image 20250620113440.png",
     "00. System FILE/95. attachment/Pasted image 20250620113435.png",
-    "10. PKM/30. Areas/Python/Python-web/JavaScript Basics.md",
-    "10. PKM/30. Areas/Python/Python-web/CSS Basics.md",
     "10. PKM/30. Areas/Python/Python-web",
     "10. PKM/10. Projects/CTRM Maintain",
     "10. PKM/30. Areas/Python",
     "10. PKM/30. Areas/PaperReading/2501.18998v2.pdf",
-    "10. PKM/30. Areas/PaperReading",
     "00. System FILE/95. attachment/Pasted image 20250315143508.png",
     "00. System FILE/95. attachment/Pasted image 20250309162150.png",
     "00. System FILE/95. attachment/Pasted image 20250309162726.png",
