@@ -23,17 +23,27 @@
             "id": "96a3402efc3a7692",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Project Google Data Analyst.base",
-                "viewName": "表格"
+                "file": "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.1.2 Data analytic process model.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-table",
-              "title": "Project Google Data Analyst"
+              "icon": "lucide-file",
+              "title": "10.1.2 Data analytic process model"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -253,10 +263,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96a3402efc3a7692",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "未命名.md",
+    "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.1.2 Data analytic process model.md",
     "Project Google Data Analyst.base",
+    "未命名.md",
     "Personal_Scrum.md",
     "10. PKM/30. Areas/Python/Python-web/Django/Django命令行.md",
     "10. PKM/30. Areas/Python/Python-web/Django/Django Admin.md",
