@@ -11,13 +11,24 @@
             "id": "c30a637781dca833",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Project Google Data Analyst.base",
-                "viewName": "表格"
+                "file": "00. System FILE/Template/Card.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-table",
-              "title": "Project Google Data Analyst"
+              "icon": "lucide-file",
+              "title": "Card"
             }
           }
         ]
@@ -240,11 +251,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "23f34688a295cf49",
+  "active": "c30a637781dca833",
   "lastOpenFiles": [
+    "Project Google Data Analyst.base",
+    "00. System FILE/Template/Card.md",
     "20. CardSet",
     "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.1.2 Data analytic process model.md",
-    "Project Google Data Analyst.base",
     "未命名.md",
     "Personal_Scrum.md",
     "10. PKM/30. Areas/Python/Python-web/Django/Django命令行.md",
@@ -273,13 +285,11 @@
     "10. PKM/30. Areas/Algorithm&DataStructure/CnC++",
     "10. PKM/30. Areas/Algorithm&DataStructure",
     "10. PKM/30. Areas/Python/Python-web/Jinjia2基础.md",
-    "10. PKM/30. Areas/Python/Python-web/模板引擎（Templating Engine）.md",
     "00. System FILE/95. attachment/Pasted image 20250620113440.png",
     "00. System FILE/95. attachment/Pasted image 20250620113435.png",
     "10. PKM/30. Areas/Python/Python-web",
     "10. PKM/10. Projects/CTRM Maintain",
     "10. PKM/30. Areas/Python",
-    "10. PKM/30. Areas/PaperReading/2501.18998v2.pdf",
     "00. System FILE/95. attachment/Pasted image 20250315143508.png",
     "00. System FILE/95. attachment/Pasted image 20250309162150.png",
     "00. System FILE/95. attachment/Pasted image 20250309162726.png",
