@@ -1,0 +1,19 @@
+---
+uid: {{date:YYYYMMDDHHmmss}}
+tags:
+  - card/fleeting
+aliases: []
+created: "{{date:YYYY-MM-DD}} {{time:HH:mm}}"
+---
+# {{title}}
+---
+>在这里，用你自己的话，清晰、完整地写下一个“单一”的知识点或想法。
+  这个想法的核心是什么？它解决了什么问题？它有什么重要的前提或背景？把它当成一个独立的、可以被任何人理解的知识模块来书写。
+- 
+---
+## 关联 (Links)
+- [[ ]]
+---
+## 来源 (Source)
+- 
+---
