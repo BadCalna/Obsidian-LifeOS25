@@ -77,7 +77,8 @@
               "title": "搜索"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a988cac77a40a43d",
@@ -253,7 +254,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db6af33375ac3ec3",
+  "active": "d900daafd723c73d",
   "lastOpenFiles": [
     "00. System FILE/Template/Card.md",
     "Project Google Data Analyst.base",
