@@ -8,14 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "463f0d443ebf1727",
+            "id": "4f2a41c3bbd52818",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20. CardSet/认知闭合需求.md",
-                "mode": "preview",
-                "source": true,
+                "file": "20. CardSet/title测试.md",
+                "mode": "source",
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "认知闭合需求"
+              "title": "title测试"
+            }
+          },
+          {
+            "id": "4f44291c047350ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00. System FILE/Template/Card.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Card"
             }
           }
         ]
@@ -251,13 +275,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "23f34688a295cf49",
+  "active": "4f2a41c3bbd52818",
   "lastOpenFiles": [
-    "20. CardSet/认知闭合需求.md",
     "00. System FILE/Template/Card.md",
+    "20. CardSet/title测试.md",
+    "00. System FILE/Template/未命名.md",
+    "20. CardSet/认知闭合需求.md",
     "00. System FILE/Template/Functions/uuidv4.md",
-    "00. System FILE/Template/Functions/uuidv4.js",
-    "00. System FILE/Template/Functions",
+    "00. System FILE/Functions/uuidv4.js",
+    "00. System FILE/Functions",
     "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.1.6 CASE-Mega-Pik.md",
     "Project Google Data Analyst.base",
     "20. CardSet",
@@ -284,7 +310,6 @@
     "10. PKM/30. Areas/Python/Webscrapping/BeautifulSoup —— 网页解析.md",
     "10. PKM/30. Areas/Python/Webscrapping/未命名.nssyncsc",
     "10. PKM/30. Areas/Python/Webscrapping",
-    "10. PKM/30. Areas/Algorithm&DataStructure/CnC++/Advanced C.md",
     "10. PKM/30. Areas/Algorithm&DataStructure/CnC++",
     "10. PKM/30. Areas/Algorithm&DataStructure",
     "00. System FILE/95. attachment/Pasted image 20250620113440.png",
