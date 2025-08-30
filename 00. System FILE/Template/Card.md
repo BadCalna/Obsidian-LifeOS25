@@ -1,7 +1,6 @@
 ---
 uid: <% tp.user.uuidv4() %>
 tags:
-  - card/fleeting
 aliases: []
 ---
 # {{title}}

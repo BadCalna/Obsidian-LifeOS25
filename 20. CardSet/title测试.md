@@ -1,7 +1,6 @@
 ---
 uid: a140e4b0-883d-4432-af44-c6ed6099d2dd
 tags:
-  - card/fleeting
 aliases: []
 ---
 # {{title}}
