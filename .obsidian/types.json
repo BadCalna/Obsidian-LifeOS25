@@ -1,5 +1,6 @@
 {
   "types": {
+    "1": "multitext",
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
@@ -38,6 +39,7 @@
     "Actual_time(h)": "number",
     "Actual_time(min)": "number",
     "Esitimated_time(min)": "number",
-    "week": "number"
+    "week": "number",
+    "type": "multitext"
   }
 }
