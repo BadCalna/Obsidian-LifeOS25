@@ -85,7 +85,7 @@
   "anuppuccin-theme-settings@@anp-layout-select": "none",
   "anuppuccin-theme-settings@@anp-card-layout-actions": false,
   "anuppuccin-theme-settings@@anp-card-layout-filebrowser": true,
-  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-simplicity-topaz",
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-monochrome-topaz",
   "blue-topaz-theme@@rainbow-checklist": true,
   "blue-topaz-theme@@style-options-for-kanban-plugin-static": "style-options-for-kanban-plugin-static-all-color",
   "blue-topaz-theme@@style-options-for-kanban-plugin-dynamic": "style-options-for-kanban-plugin-dynamic-neon-one",
@@ -108,5 +108,6 @@
   "blue-topaz-theme@@folder-style-change-options-colorful": "folder-style-change-options-colorful-default",
   "blue-topaz-theme@@folder-style-change-options-colorful-subfolder": "folder-colorful-six",
   "blue-topaz-theme@@blockquote-style-change-options": "blockquote-style-default",
-  "blue-topaz-theme@@prompt-options": "fancy-prompt-1"
+  "blue-topaz-theme@@prompt-options": "fancy-prompt-1",
+  "custom-diegoeis-obsidianotion@@eis-font-type": "eis-font-iawriter-quattro"
 }

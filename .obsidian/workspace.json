@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. System FILE/Template/My Notes.md",
+                "file": "20. Rhizome/00. 什么是Rihzome以及什么是Rhizome宪章.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "My Notes"
+              "title": "00. 什么是Rihzome以及什么是Rhizome宪章"
             }
           }
         ]
@@ -75,7 +75,8 @@
               "title": "搜索"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a988cac77a40a43d",
@@ -112,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00. System FILE/Template/TPL - Test.md",
+                "file": "20. Rhizome/00. 什么是Rihzome以及什么是Rhizome宪章.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "TPL - Test 的反向链接列表"
+              "title": "00. 什么是Rihzome以及什么是Rhizome宪章 的反向链接列表"
             }
           },
           {
@@ -223,11 +224,12 @@
               "title": "插件不再活动"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 615.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -251,8 +253,11 @@
   },
   "active": "42f5b144acfd4229",
   "lastOpenFiles": [
-    "00. System FILE/Image/thumb-mj-1738807385024896-2cdb845b.png",
     "00. System FILE/Template/My Notes.md",
+    "20. Rhizome/00. 什么是Rihzome以及什么是Rhizome宪章.md",
+    "10. PKM/30. Areas/Obsidian Usage/Callout Syntax.md",
+    "10. PKM/30. Areas/Productivity/TaskManagement/GTD Research Report.md",
+    "00. System FILE/Image/thumb-mj-1738807385024896-2cdb845b.png",
     "00. System FILE/Template/未命名.base",
     "00. System FILE/Template/TPL - Self Reflection V1.0.md",
     "00. System FILE/Template/RPA License.md",
@@ -281,8 +286,6 @@
     "10. PKM/30. Areas/Python/Python-web/Django/Django Admin.md",
     "10. PKM/30. Areas/Python/Python-web/Django/Django.md",
     "10. PKM/30. Areas/Python/Python-web/Django",
-    "10. PKM/30. Areas/Python/Python-web/前后端关联——表单数据处理.md",
-    "10. PKM/30. Areas/Python/Python Develop Tips.md",
     "10. PKM/30. Areas/Python/Webscrapping/未命名.nssyncsc",
     "10. PKM/30. Areas/Python/Webscrapping",
     "10. PKM/30. Areas/Algorithm&DataStructure/CnC++",
@@ -296,7 +299,6 @@
     "00. System File/95. attachment/Pasted image 20250220131817.png",
     "00. System FILE/95. attachment/Pasted image 20250220131656.png",
     "00. System File/95. attachment/Pasted image 20250220131656.png",
-    "00. System File/95. attachment/Pasted image 20250220131218.png",
     "未命名.canvas"
   ]
 }
