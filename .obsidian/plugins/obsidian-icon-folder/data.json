@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🌱",
       "🗂",
       "LiArchive",
       "LiAreaChart",
-      "LiCoins",
-      "LiPlane"
+      "LiCoins"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -48,5 +48,5 @@
   "10. PKM/20. Resources": "LiCoins",
   "10. PKM/30. Areas": "LiAreaChart",
   "10. PKM/40. Archived": "LiArchive",
-  "20. CardSet": "🗂"
+  "20. Rhizome": "🌱"
 }
