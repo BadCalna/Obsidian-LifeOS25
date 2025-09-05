@@ -4,36 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "201365b1f9efe172",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e3e9dd829df3e5af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20. Rhizome/00. 什么是Rhizome.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "00. 什么是Rhizome"
-            }
-          }
-        ]
-      },
-      {
         "id": "af204f5b947f02f3",
         "type": "tabs",
         "children": [
