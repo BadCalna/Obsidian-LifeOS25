@@ -127,7 +127,8 @@
   "minimal-style@@hl1@@light": "#DEDBDB",
   "minimal-style@@sidebar-tabs-names": "tab-names-on",
   "minimal-style@@bg2@@light": "#FFFFFF",
-  "minimal-style@@blockquote-color@@light": "#5E6FFA",
+  "minimal-style@@blockquote-color@@light": "#C2C2C4",
   "minimal-style@@blockquote-border-thickness": 2,
-  "minimal-style@@blockquote-font-style": "italic"
+  "minimal-style@@blockquote-font-style": "italic",
+  "minimal-style@@blockquote-color@@dark": "#BEC4F5"
 }
