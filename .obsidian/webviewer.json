@@ -1,7 +1,7 @@
 {
   "openExternalURLs": true,
   "enableAdblocking": true,
-  "homepage": "https://calendar.google.com/calendar/u/0/r/month",
+  "homepage": "",
   "markdownPath": "00. System File/95. attachment",
-  "searchEngine": "duckduckgo"
+  "searchEngine": "google"
 }
