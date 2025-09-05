@@ -1,5 +1,5 @@
 {
-  "minimal-advanced@@cursor": "default",
+  "minimal-advanced@@cursor": "crosshair",
   "minimal-style@@code-background@@dark": "#FFFFFF",
   "anuppuccin-theme-settings@@anp-alt-rainbow-style": "anp-simple-rainbow-color-toggle",
   "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-frappe",
@@ -109,5 +109,25 @@
   "blue-topaz-theme@@folder-style-change-options-colorful-subfolder": "folder-colorful-six",
   "blue-topaz-theme@@blockquote-style-change-options": "blockquote-style-default",
   "blue-topaz-theme@@prompt-options": "fancy-prompt-1",
-  "custom-diegoeis-obsidianotion@@eis-font-type": "eis-font-iawriter-quattro"
+  "custom-diegoeis-obsidianotion@@eis-font-type": "eis-font-ibm",
+  "custom-diegoeis-obsidianotion@@eis-small-pinned-tabs": true,
+  "minimal-style@@frame-background@@dark": "#1A1919",
+  "minimal-style@@frame-background@@light": "#2C2A2A",
+  "minimal-advanced@@hide-markdown": false,
+  "minimal-advanced@@styled-scrollbars": true,
+  "minimal-style@@bg1@@dark": "#E31A1A",
+  "minimal-style@@ui1@@dark": "#78DFD1",
+  "minimal-style@@base@@dark": "#DFD5D5",
+  "minimal-style@@bg1@@light": "#FFF8F8",
+  "minimal-style@@ui1@@light": "#D6DCD6",
+  "minimal-style@@ui2@@light": "#ED0000",
+  "minimal-style@@base@@light": "#FFFFFF",
+  "minimal-style@@graph-line@@light": "#56E8CF",
+  "minimal-style@@tx1@@light": "#706868",
+  "minimal-style@@hl1@@light": "#DEDBDB",
+  "minimal-style@@sidebar-tabs-names": "tab-names-on",
+  "minimal-style@@bg2@@light": "#FFFFFF",
+  "minimal-style@@blockquote-color@@light": "#5E6FFA",
+  "minimal-style@@blockquote-border-thickness": 2,
+  "minimal-style@@blockquote-font-style": "italic"
 }
