@@ -115,9 +115,6 @@
   "minimal-style@@frame-background@@light": "#2C2A2A",
   "minimal-advanced@@hide-markdown": false,
   "minimal-advanced@@styled-scrollbars": true,
-  "minimal-style@@ui1@@dark": "#82D8CC",
-  "minimal-style@@ui1@@light": "#D6DCD6",
-  "minimal-style@@ui2@@light": "#ED0000",
   "minimal-style@@graph-line@@light": "#56E8CF",
   "minimal-style@@tx1@@light": "#706868",
   "minimal-style@@hl1@@light": "#DEDBDB",
@@ -140,5 +137,14 @@
   "minimal-style@@mobile-left-sidebar-width": 280,
   "minimal-style@@sidebar-tabs-style": "sidebar-tabs-index",
   "minimal-style@@ax2@@light": "#DB4437",
-  "minimal-style@@ax3@@light": "#DB4437"
+  "minimal-style@@ax3@@light": "#DB4437",
+  "minimal-style@@bg1@@light": "#F8F9FA",
+  "minimal-style@@bg2@@light": "#F1F3F4",
+  "buttons-styles@@button-text@@light": "#202124",
+  "buttons-styles@@button-text@@dark": "#E8EAED",
+  "minimal-style@@tx2@@light": "#5F6368",
+  "minimal-style@@tx2@@dark": "#BDC1C6",
+  "minimal-style@@ax1@@dark": "#8AB4F8",
+  "minimal-style@@bg1@@dark": "#202124",
+  "minimal-style@@bg2@@dark": "#292A2D"
 }

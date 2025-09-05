@@ -7,9 +7,7 @@
   "baseFontSize": 16,
   "monospaceFontFamily": "Product Sans Black",
   "nativeMenus": true,
-  "enabledCssSnippets": [
-    "sidebar_color"
-  ],
+  "enabledCssSnippets": [],
   "translucency": false,
   "showRibbon": true
 }
