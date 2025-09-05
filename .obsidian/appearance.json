@@ -2,7 +2,7 @@
   "cssTheme": "Minimal",
   "theme": "moonstone",
   "accentColor": "#ee2a29",
-  "textFontFamily": "Product Sans Medium,LXGW WenKai",
+  "textFontFamily": "Product Sans,LXGW WenKai",
   "interfaceFontFamily": "Product Sans,LXGW WenKai",
   "baseFontSize": 16,
   "monospaceFontFamily": "Product Sans Black",
