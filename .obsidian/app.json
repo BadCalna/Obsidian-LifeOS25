@@ -8,7 +8,7 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "readableLineLength": false,
+  "readableLineLength": true,
   "newFileLocation": "current",
   "attachmentFolderPath": "00. System File/95. attachment",
   "showLineNumber": true

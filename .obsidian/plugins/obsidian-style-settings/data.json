@@ -154,5 +154,8 @@
   "minimal-style@@tag-color@@dark": "#D2E3FC",
   "minimal-style@@active-line-on": false,
   "minimal-style@@vault-profile-display": "vault-profile-default",
-  "minimal-style@@window-title-off": true
+  "minimal-style@@window-title-off": true,
+  "minimal-style@@icon-muted": 0.5,
+  "minimal-style@@tab-stacked-spine-orientation": "tab-stack-top-flipped",
+  "minimal-advanced@@mobile-toolbar-off": true
 }
