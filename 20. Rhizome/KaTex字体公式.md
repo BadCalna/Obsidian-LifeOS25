@@ -1,7 +1,8 @@
 ---
 uid: 9cb904ee-28d5-42af-b97c-6b2da9746d07
 tags:
-  - KaTex
+  - topic/KaTex
+  - Rhizome
 aliases: []
 ---
 # KaTex字体公式
