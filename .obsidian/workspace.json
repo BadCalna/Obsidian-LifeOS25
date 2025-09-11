@@ -30,9 +30,43 @@
               "icon": "lucide-file",
               "title": "定量数据揭露现象，定性数据揭示原因"
             }
+          },
+          {
+            "id": "a393936792caba86",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://bufu9d1xig.feishu.cn/wiki/VTfAwDms8iCeVPkx231cBOewnIx",
+                "title": "⁢‬⁤​⁢⁢​⁡‍‬‬⁢​﻿​‬⁡‍⁡​﻿​⁤​⁣​​‍​‬‍‍‍⁤⁢⁤‬⁡⁡‌​​⁡⁤‍‌‍​Qualitative and quantitative data in business | Coursera - 飞书云文档",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "⁢‬⁤​⁢⁢​⁡‍‬‬⁢​﻿​‬⁡‍⁡​﻿​⁤​⁣​​‍​‬‍‍‍⁤⁢⁤‬⁡⁡‌​​⁡⁤‍‌‍​Qualitative and quantitative data in business | Coursera - 飞书云文档"
+            }
           }
         ],
         "stacked": true
+      },
+      {
+        "id": "563bc8b142019537",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2436f07f876801f5",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://bufu9d1xig.feishu.cn/wiki/VTfAwDms8iCeVPkx231cBOewnIx",
+                "title": "‌﻿﻿‌‍‍⁢⁡​​​⁣​﻿‬‍‌‍‌⁣⁡‌⁡⁡​⁡⁡​​‍⁢‬⁣‬⁢⁣‍⁤‬‌⁢‬‬⁤​⁡‬⁢⁢‌Qualitative and quantitative data in business | Coursera - 飞书云文档",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "‌﻿﻿‌‍‍⁢⁡​​​⁣​﻿‬‍‌‍‌⁣⁡‌⁡⁡​⁡⁡​​‍⁢‬⁣‬⁢⁣‍⁤‬‌⁢‬‬⁤​⁡‬⁢⁢‌Qualitative and quantitative data in business | Coursera - 飞书云文档"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +149,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20. Rhizome/定量数据揭露现象，定性数据揭示原因.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +158,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "定量数据揭露现象，定性数据揭示原因 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -134,12 +167,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20. Rhizome/定量数据揭露现象，定性数据揭示原因.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "定量数据揭露现象，定性数据揭示原因 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -212,12 +244,12 @@
             "state": {
               "type": "smtcmp-chat-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
+              "icon": "wand-sparkles",
+              "title": "Smart composer chat"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -244,10 +276,11 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "16c06c83796074f6",
+  "active": "2436f07f876801f5",
   "lastOpenFiles": [
-    "00. System FILE/Template/My Notes.md",
     "20. Rhizome/定量数据揭露现象，定性数据揭示原因.md",
+    "20. Rhizome/未命名.base",
+    "00. System FILE/Template/My Notes.md",
     "20. Rhizome/什么是定量数据和定性数据？.md",
     "20. Rhizome/00. 什么是Rhizome.md",
     "10. PKM/30. Areas/Self Reflection/Feb.2025.md",
@@ -274,7 +307,6 @@
     "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.2.2 Phase of Data Analysis.md",
     "00. System FILE/Template/未命名.md",
     "20. CardSet/认知闭合需求.md",
-    "00. System FILE/Template/Functions/uuidv4.md",
     "00. System FILE/Functions/uuidv4.js",
     "00. System FILE/Functions",
     "20. Rhizome",
@@ -282,7 +314,6 @@
     "10. PKM/30. Areas/Python/Webscrapping/未命名.nssyncsc",
     "10. PKM/30. Areas/Python/Webscrapping",
     "10. PKM/30. Areas/Algorithm&DataStructure/CnC++",
-    "10. PKM/30. Areas/Algorithm&DataStructure",
     "00. System FILE/95. attachment/Pasted image 20250620113440.png",
     "00. System FILE/95. attachment/Pasted image 20250620113435.png",
     "00. System FILE/95. attachment/Pasted image 20250315143508.png",
