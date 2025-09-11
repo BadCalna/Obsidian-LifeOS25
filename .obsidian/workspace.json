@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "定量",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,8 @@
               "title": "搜索"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a988cac77a40a43d",
@@ -245,8 +246,9 @@
   },
   "active": "16c06c83796074f6",
   "lastOpenFiles": [
-    "20. Rhizome/什么是定量数据和定性数据？.md",
+    "00. System FILE/Template/My Notes.md",
     "20. Rhizome/定量数据揭露现象，定性数据揭示原因.md",
+    "20. Rhizome/什么是定量数据和定性数据？.md",
     "20. Rhizome/00. 什么是Rhizome.md",
     "10. PKM/30. Areas/Self Reflection/Feb.2025.md",
     "20. Rhizome/KaTex字体公式.md",
@@ -255,7 +257,6 @@
     "10. PKM/30. Areas/Productivity/TaskManagement/GTD Research Report.md",
     "10. PKM/30. Areas/Scattered Knowledge/MosCow.md",
     "10. PKM/10. Projects/Google Data Analytics/20. Ask/20.2.1 Data and Decision.md",
-    "00. System FILE/Template/My Notes.md",
     "Project Google Data Analyst.base",
     "10. PKM/30. Areas/Obsidian Usage/Callout Syntax.md",
     "00. System FILE/Image/thumb-mj-1738807385024896-2cdb845b.png",
