@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. PKM/30. Areas/Self Reflection/Feb.2025.md",
+                "file": "20. Rhizome/定量数据揭露现象，定性数据揭示原因.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Feb.2025"
+              "title": "定量数据揭露现象，定性数据揭示原因"
             }
           }
         ],
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#SelfReflection",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,8 +76,7 @@
               "title": "搜索"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a988cac77a40a43d",
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. PKM/30. Areas/Self Reflection/Feb.2025.md",
+                "file": "20. Rhizome/定量数据揭露现象，定性数据揭示原因.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Feb.2025 的反向链接列表"
+              "title": "定量数据揭露现象，定性数据揭示原因 的反向链接列表"
             }
           },
           {
@@ -133,12 +132,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. PKM/30. Areas/Self Reflection/Feb.2025.md",
+                "file": "20. Rhizome/定量数据揭露现象，定性数据揭示原因.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Feb.2025 的出链列表"
+              "title": "定量数据揭露现象，定性数据揭示原因 的出链列表"
             }
           },
           {
@@ -220,7 +219,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,9 +244,11 @@
   },
   "active": "16c06c83796074f6",
   "lastOpenFiles": [
-    "20. Rhizome/KaTex字体公式.md",
     "20. Rhizome/什么是定量数据和定性数据？.md",
+    "20. Rhizome/定量数据揭露现象，定性数据揭示原因.md",
     "20. Rhizome/00. 什么是Rhizome.md",
+    "10. PKM/30. Areas/Self Reflection/Feb.2025.md",
+    "20. Rhizome/KaTex字体公式.md",
     "10. PKM/10. Projects/Google Data Analytics/20. Ask/20.2.2 Qualitative and Quantitative data.md",
     "00. System FILE/Excalidraw/GTD.excalidraw.md",
     "10. PKM/30. Areas/Productivity/TaskManagement/GTD Research Report.md",
@@ -273,9 +275,7 @@
     "00. System FILE/Template/Functions/uuidv4.md",
     "00. System FILE/Functions/uuidv4.js",
     "00. System FILE/Functions",
-    "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.1.6 CASE-Mega-Pik.md",
     "20. Rhizome",
-    "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.1.2 Data analytic process model.md",
     "10. PKM/30. Areas/Python/Python-web/Django",
     "10. PKM/30. Areas/Python/Webscrapping/未命名.nssyncsc",
     "10. PKM/30. Areas/Python/Webscrapping",
