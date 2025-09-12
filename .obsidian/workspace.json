@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7b4e30509aac7c57",
+        "id": "563bc8b142019537",
         "type": "tabs",
         "children": [
           {
-            "id": "16c06c83796074f6",
+            "id": "2436f07f876801f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,41 +29,6 @@
               },
               "icon": "lucide-file",
               "title": "定量数据揭露现象，定性数据揭示原因"
-            }
-          },
-          {
-            "id": "a393936792caba86",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://bufu9d1xig.feishu.cn/wiki/VTfAwDms8iCeVPkx231cBOewnIx",
-                "title": "⁢‬⁤​⁢⁢​⁡‍‬‬⁢​﻿​‬⁡‍⁡​﻿​⁤​⁣​​‍​‬‍‍‍⁤⁢⁤‬⁡⁡‌​​⁡⁤‍‌‍​Qualitative and quantitative data in business | Coursera - 飞书云文档",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "⁢‬⁤​⁢⁢​⁡‍‬‬⁢​﻿​‬⁡‍⁡​﻿​⁤​⁣​​‍​‬‍‍‍⁤⁢⁤‬⁡⁡‌​​⁡⁤‍‌‍​Qualitative and quantitative data in business | Coursera - 飞书云文档"
-            }
-          }
-        ],
-        "stacked": true
-      },
-      {
-        "id": "563bc8b142019537",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2436f07f876801f5",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://bufu9d1xig.feishu.cn/wiki/VTfAwDms8iCeVPkx231cBOewnIx",
-                "title": "‌﻿﻿‌‍‍⁢⁡​​​⁣​﻿‬‍‌‍‌⁣⁡‌⁡⁡​⁡⁡​​‍⁢‬⁣‬⁢⁣‍⁤‬‌⁢‬‬⁤​⁡‬⁢⁢‌Qualitative and quantitative data in business | Coursera - 飞书云文档",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "‌﻿﻿‌‍‍⁢⁡​​​⁣​﻿‬‍‌‍‌⁣⁡‌⁡⁡​⁡⁡​​‍⁢‬⁣‬⁢⁣‍⁤‬‌⁢‬‬⁤​⁡‬⁢⁢‌Qualitative and quantitative data in business | Coursera - 飞书云文档"
             }
           }
         ]
@@ -99,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "定量",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,8 +75,7 @@
               "title": "搜索"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a988cac77a40a43d",
@@ -132,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.50390243530273,
-    "collapsed": true
+    "width": 204.50390243530273
   },
   "right": {
     "id": "b81bc07e47d2e730",
@@ -149,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "20. Rhizome/定量数据揭露现象，定性数据揭示原因.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +122,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "定量数据揭露现象，定性数据揭示原因 的反向链接列表"
             }
           },
           {
@@ -167,11 +131,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "20. Rhizome/定量数据揭露现象，定性数据揭示原因.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "定量数据揭露现象，定性数据揭示原因 的出链列表"
             }
           },
           {
@@ -278,19 +243,19 @@
   },
   "active": "2436f07f876801f5",
   "lastOpenFiles": [
-    "20. Rhizome/定量数据揭露现象，定性数据揭示原因.md",
-    "20. Rhizome/未命名.base",
-    "00. System FILE/Template/My Notes.md",
     "20. Rhizome/什么是定量数据和定性数据？.md",
+    "Project Google Data Analyst.base",
+    "20. Rhizome/KaTex字体公式.md",
+    "20. Rhizome/未命名.base",
+    "20. Rhizome/定量数据揭露现象，定性数据揭示原因.md",
+    "00. System FILE/Template/My Notes.md",
     "20. Rhizome/00. 什么是Rhizome.md",
     "10. PKM/30. Areas/Self Reflection/Feb.2025.md",
-    "20. Rhizome/KaTex字体公式.md",
     "10. PKM/10. Projects/Google Data Analytics/20. Ask/20.2.2 Qualitative and Quantitative data.md",
     "00. System FILE/Excalidraw/GTD.excalidraw.md",
     "10. PKM/30. Areas/Productivity/TaskManagement/GTD Research Report.md",
     "10. PKM/30. Areas/Scattered Knowledge/MosCow.md",
     "10. PKM/10. Projects/Google Data Analytics/20. Ask/20.2.1 Data and Decision.md",
-    "Project Google Data Analyst.base",
     "10. PKM/30. Areas/Obsidian Usage/Callout Syntax.md",
     "00. System FILE/Image/thumb-mj-1738807385024896-2cdb845b.png",
     "00. System FILE/Template/未命名.base",
