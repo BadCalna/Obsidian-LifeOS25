@@ -30,8 +30,43 @@
               "icon": "lucide-file",
               "title": "什么是待办列表？"
             }
+          },
+          {
+            "id": "645ea71581e77dd0",
+            "type": "leaf",
+            "state": {
+              "type": "style-settings",
+              "state": {},
+              "icon": "gear",
+              "title": "Style Settings"
+            }
+          },
+          {
+            "id": "bf5f0c2384a2315c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20. Rhizome/什么是待办列表？.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "什么是待办列表？"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -241,7 +276,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "2436f07f876801f5",
+  "active": "bf5f0c2384a2315c",
   "lastOpenFiles": [
     "20. Rhizome/定量数据揭露现象，定性数据揭示原因.md",
     "20. Rhizome/什么是待办列表？.md",

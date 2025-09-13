@@ -125,7 +125,7 @@
   "minimal-style@@blockquote-color@@dark": "#BEC4F5",
   "minimal-style@@bold-color@@light": "#DB4437",
   "minimal-style@@bold-color@@dark": "#DB4437",
-  "minimal-style@@bold-modifier": 300,
+  "minimal-style@@bold-modifier": 400,
   "minimal-style@@h1-color@@light": "#4285F4",
   "minimal-style@@h1-color@@dark": "#4285F4",
   "minimal-style@@h2-color@@light": "#F4B400",
