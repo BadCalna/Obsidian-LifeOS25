@@ -11,13 +11,52 @@
             "id": "32157fd81e04c58b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "20. Rhizome/为什么待办列表让你倾向做轻松的事，而非重要的事？.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "为什么待办列表让你倾向做轻松的事，而非重要的事？"
+            }
+          },
+          {
+            "id": "e4baa92358b7f290",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20. Rhizome/如何正确使用待办列表？.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "如何正确使用待办列表？"
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -62,8 +101,7 @@
               "title": "搜索"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a988cac77a40a43d",
@@ -84,8 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412.50390243530273,
-    "collapsed": true
+    "width": 412.50390243530273
   },
   "right": {
     "id": "b81bc07e47d2e730",
@@ -101,6 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "20. Rhizome/如何正确使用待办列表？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +148,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "如何正确使用待办列表？ 的反向链接列表"
             }
           },
           {
@@ -119,11 +157,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "20. Rhizome/如何正确使用待办列表？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "如何正确使用待办列表？ 的出链列表"
             }
           },
           {
@@ -228,14 +267,15 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "32157fd81e04c58b",
+  "active": "e4baa92358b7f290",
   "lastOpenFiles": [
+    "20. Rhizome/如何正确使用待办列表？.md",
     "20. Rhizome/为什么待办列表让你倾向做轻松的事，而非重要的事？.md",
+    "20. Rhizome/什么是定量数据和定性数据？.md",
+    "20. Rhizome/定量数据揭露现象，定性数据揭示原因.md",
     "20. Rhizome/大脑为何总让你选择最轻松的路？.md",
     "20. Rhizome/大脑分为三个部分——本能、情绪、理智.md",
     "00. System FILE/Template/My Notes.md",
-    "20. Rhizome/什么是定量数据和定性数据？.md",
-    "20. Rhizome/定量数据揭露现象，定性数据揭示原因.md",
     "Project Google Data Analyst.base",
     "20. Rhizome/KaTex字体公式.md",
     "20. Rhizome/未命名.base",
@@ -259,7 +299,6 @@
     "00. System FILE/Template/TPL - Week Overview.md",
     "20. Rhizome/title测试.md",
     "10. PKM/30. Areas/Productivity/六个月高效能成长路线图.md",
-    "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.2.2 Phase of Data Analysis.md",
     "00. System FILE/Functions/uuidv4.js",
     "00. System FILE/Functions",
     "20. Rhizome",
