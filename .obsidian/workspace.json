@@ -296,7 +296,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -325,9 +325,10 @@
   },
   "active": "4680fb1ce957271b",
   "lastOpenFiles": [
+    "20. Rhizome/未命名.md",
+    "20. Rhizome/什么是数据？.md",
     "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.1.1 Six Phases of data analysis.md",
     "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10. Foundations｜ Foundations.md",
-    "20. Rhizome/什么是数据？.md",
     "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.1.10 Data-driven decision-making.md",
     "20. Rhizome/什么是定量数据和定性数据？.md",
     "20. Rhizome/定量数据揭露现象，定性数据揭示原因.md",
@@ -354,7 +355,6 @@
     "00. System FILE/Template/PKM_Note.md",
     "00. System FILE/Template/Week Overview.md",
     "00. System FILE/Template/Github_template.md",
-    "00. System FILE/Template/Google Data Analytics.md",
     "00. System FILE/Functions/uuidv4.js",
     "00. System FILE/Functions",
     "20. Rhizome",
