@@ -56,36 +56,12 @@
             }
           },
           {
-            "id": "8a90a41b3a80c7ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20. Rhizome/什么是数据？.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "什么是数据？"
-            }
-          },
-          {
             "id": "445819e9434ca600",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10. Foundations｜ Foundations.md",
+                "file": "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.1.1 Six Phases of data analysis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "10. Foundations｜ Foundations"
+              "title": "10.1.1 Six Phases of data analysis"
             }
           }
         ],
@@ -168,7 +144,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "what is data",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,7 +155,8 @@
               "title": "搜索"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a988cac77a40a43d",
@@ -200,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412.50390243530273
+    "width": 412.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "b81bc07e47d2e730",
@@ -347,9 +325,10 @@
   },
   "active": "4680fb1ce957271b",
   "lastOpenFiles": [
+    "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.1.1 Six Phases of data analysis.md",
     "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10. Foundations｜ Foundations.md",
     "20. Rhizome/什么是数据？.md",
-    "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.1.1 Six Phases of data analysis.md",
+    "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.1.10 Data-driven decision-making.md",
     "20. Rhizome/什么是定量数据和定性数据？.md",
     "20. Rhizome/定量数据揭露现象，定性数据揭示原因.md",
     "20. Rhizome/正确使用待办列表的两种可能办法.md",
@@ -376,7 +355,6 @@
     "00. System FILE/Template/Week Overview.md",
     "00. System FILE/Template/Github_template.md",
     "00. System FILE/Template/Google Data Analytics.md",
-    "20. Rhizome/textile测试.md",
     "00. System FILE/Functions/uuidv4.js",
     "00. System FILE/Functions",
     "20. Rhizome",
