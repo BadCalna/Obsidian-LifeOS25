@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20. Rhizome/什么是数据？.md",
+                "file": "20. Rhizome/正确使用待办列表的两种可能办法.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -108,7 +108,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "什么是数据？"
+              "title": "正确使用待办列表的两种可能办法"
             }
           }
         ]
@@ -144,7 +144,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "what is data",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,8 +155,7 @@
               "title": "搜索"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a988cac77a40a43d",
@@ -177,8 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412.50390243530273,
-    "collapsed": true
+    "width": 412.50390243530273
   },
   "right": {
     "id": "b81bc07e47d2e730",
@@ -194,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20. Rhizome/什么是数据？.md",
+                "file": "20. Rhizome/正确使用待办列表的两种可能办法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +202,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "什么是数据？ 的反向链接列表"
+              "title": "正确使用待办列表的两种可能办法 的反向链接列表"
             }
           },
           {
@@ -213,12 +211,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20. Rhizome/什么是数据？.md",
+                "file": "20. Rhizome/正确使用待办列表的两种可能办法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "什么是数据？ 的出链列表"
+              "title": "正确使用待办列表的两种可能办法 的出链列表"
             }
           },
           {
@@ -323,12 +321,13 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "4680fb1ce957271b",
+  "active": "23f34688a295cf49",
   "lastOpenFiles": [
-    "20. Rhizome/未命名.md",
+    "10. PKM/30. Areas/Obsidian Usage/Callout Syntax.md",
     "20. Rhizome/什么是数据？.md",
-    "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.1.1 Six Phases of data analysis.md",
     "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10. Foundations｜ Foundations.md",
+    "20. Rhizome/未命名.md",
+    "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.1.1 Six Phases of data analysis.md",
     "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.1.10 Data-driven decision-making.md",
     "20. Rhizome/什么是定量数据和定性数据？.md",
     "20. Rhizome/定量数据揭露现象，定性数据揭示原因.md",
@@ -347,7 +346,6 @@
     "10. PKM/30. Areas/Productivity/TaskManagement/GTD Research Report.md",
     "10. PKM/30. Areas/Scattered Knowledge/MosCow.md",
     "10. PKM/10. Projects/Google Data Analytics/20. Ask/20.2.1 Data and Decision.md",
-    "10. PKM/30. Areas/Obsidian Usage/Callout Syntax.md",
     "00. System FILE/Image/thumb-mj-1738807385024896-2cdb845b.png",
     "00. System FILE/Template/未命名.base",
     "00. System FILE/Template/TPL - Self Reflection V1.0.md",
