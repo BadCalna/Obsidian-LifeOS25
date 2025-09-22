@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20. Rhizome/正确使用待办列表的两种可能办法.md",
+                "file": "20. Rhizome/人的三个大脑.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "正确使用待办列表的两种可能办法"
+              "title": "人的三个大脑"
+            }
+          },
+          {
+            "id": "65bcd08767a696b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20. Rhizome/人的三个大脑.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "人的三个大脑"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412.50390243530273
+    "width": 412.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "b81bc07e47d2e730",
@@ -241,20 +267,20 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "23f34688a295cf49",
+  "active": "65bcd08767a696b1",
   "lastOpenFiles": [
-    "20. Rhizome/为什么待办列表让你倾向做轻松的事，而非重要的事？.md",
+    "20. Rhizome/大脑为何总让你选择最轻松的路？.md",
+    "20. Rhizome/人的三个大脑.md",
     "20. Rhizome/正确使用待办列表的两种可能办法.md",
+    "20. Rhizome/未命名.md",
+    "20. Rhizome/为什么待办列表让你倾向做轻松的事，而非重要的事？.md",
     "20. Rhizome/什么是定量数据和定性数据？.md",
     "20. Rhizome/什么是数据？.md",
     "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.1.1 Six Phases of data analysis.md",
     "10. PKM/30. Areas/Obsidian Usage/Callout Syntax.md",
     "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10. Foundations｜ Foundations.md",
-    "20. Rhizome/未命名.md",
     "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.1.10 Data-driven decision-making.md",
     "20. Rhizome/定量数据揭露现象，定性数据揭示原因.md",
-    "20. Rhizome/大脑为何总让你选择最轻松的路？.md",
-    "20. Rhizome/大脑分为三个部分——本能、情绪、理智.md",
     "00. System FILE/Template/My Notes.md",
     "Project Google Data Analyst.base",
     "20. Rhizome/KaTex字体公式.md",
