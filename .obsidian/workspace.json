@@ -63,6 +63,36 @@
             }
           }
         ]
+      },
+      {
+        "id": "fd6b681d90872456",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3081d23bf13eb12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20. Rhizome/正确使用待办列表的两种可能办法.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "正确使用待办列表的两种可能办法"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -273,7 +303,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "e5540e13f3fa7300",
+  "active": "e3081d23bf13eb12",
   "lastOpenFiles": [
     "20. Rhizome/为什么待办列表让你倾向做轻松的事，而非重要的事？.md",
     "20. Rhizome/正确使用待办列表的两种可能办法.md",
