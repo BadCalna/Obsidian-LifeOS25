@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20. Rhizome/我的生产力系统 - README.md",
+                "file": "20. Rhizome/如何在Python里接入AI的API进行对话？.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "我的生产力系统 - README"
+              "title": "如何在Python里接入AI的API进行对话？"
             }
           }
         ],
@@ -193,7 +193,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412.50390243530273
+    "width": 412.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "b81bc07e47d2e730",
@@ -330,9 +331,9 @@
   },
   "active": "90eceb5535f44093",
   "lastOpenFiles": [
-    "20. Rhizome/00. 什么是Rhizome.md",
     "20. Rhizome/我的生产力系统 - README.md",
-    "20. Rhizome/如何在Python里接入Deepseek或其他AI进行对话？.md",
+    "20. Rhizome/00. 什么是Rhizome.md",
+    "20. Rhizome/如何在Python里接入AI的API进行对话？.md",
     "20. Rhizome/定量数据揭露现象，定性数据揭示原因.md",
     "10. PKM/10. Projects/Google Data Analytics/10. Foundations/如何在Python里接入Deepseek或其他AI进行对话.md",
     "如何在Python里接入Deepseek或其他AI进行对话.md",
