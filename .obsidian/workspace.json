@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20. Rhizome/如何在Python里接入AI的API进行对话？.md",
+                "file": "20. Rhizome/Function-calling：让ai按要求做事.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "如何在Python里接入AI的API进行对话？"
+              "title": "Function-calling：让ai按要求做事"
             }
           }
         ],
@@ -193,8 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412.50390243530273,
-    "collapsed": true
+    "width": 412.50390243530273
   },
   "right": {
     "id": "b81bc07e47d2e730",
@@ -331,9 +330,11 @@
   },
   "active": "90eceb5535f44093",
   "lastOpenFiles": [
-    "20. Rhizome/我的生产力系统 - README.md",
     "20. Rhizome/00. 什么是Rhizome.md",
-    "20. Rhizome/如何在Python里接入AI的API进行对话？.md",
+    "20. Rhizome/Function-calling：让ai按要求做事.md",
+    "20. Rhizome/在Python里接入AI的API进行对话——就像小时候放学后去朋友家玩儿.md",
+    "20. Rhizome/什么是定量数据和定性数据？.md",
+    "20. Rhizome/我的生产力系统 - README.md",
     "20. Rhizome/定量数据揭露现象，定性数据揭示原因.md",
     "10. PKM/10. Projects/Google Data Analytics/10. Foundations/如何在Python里接入Deepseek或其他AI进行对话.md",
     "如何在Python里接入Deepseek或其他AI进行对话.md",
@@ -353,11 +354,9 @@
     "00. System FILE/Template/TPL - Self Reflection V1.0.md",
     "00. System FILE/Template/Week Overview.md",
     "00. System FILE/Template/TPL - Week Overview.md",
-    "20. Rhizome/什么是定量数据和定性数据？.md",
     "20. Rhizome/什么是数据？.md",
     "10. PKM/30. Areas/Obsidian Usage/Callout Syntax.md",
     "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10. Foundations｜ Foundations.md",
-    "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.1.10 Data-driven decision-making.md",
     "20. Rhizome/未命名.base",
     "00. System FILE/Image/thumb-mj-1738807385024896-2cdb845b.png",
     "00. System FILE/Template/未命名.base",
