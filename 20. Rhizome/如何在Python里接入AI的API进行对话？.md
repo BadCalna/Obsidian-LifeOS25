@@ -35,6 +35,10 @@ source: https://api-docs.deepseek.com/zh-cn/api/deepseek-api
 	- 第五步，将模型输出写入文件
 - 但是实际上，deepseek官方api并不支持文件上传，需要自己有一个文件服务器能够提供api可访问的链接才能实现文件读取
 	- 所以需要另辟蹊径——将csv文件内容作为提示词的一部分传入
+- 单以完成一次代码调用API来看，整体上做了这几个事情
+	- 创建API key
+	- 参照chat代码示例发起对话
+		- 
 ---
 ## 🧠思考与分析 (Thought & Analysis)
 > Tips：“它让我怎么想？”比“它说了什么？”更重要，尝试用自己的话讲述
