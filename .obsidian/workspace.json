@@ -126,9 +126,39 @@
               "icon": "lucide-file",
               "title": "Function-calling：让ai按要求做事"
             }
+          },
+          {
+            "id": "363d680fb7b62519",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.9.14"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
+      },
+      {
+        "id": "e9c7cda91667d87b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9178c8106d50b63c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.9.14"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -311,7 +341,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "bases:创建新数据库": false,
-      "smart-composer:Open smart composer": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -328,7 +357,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "90eceb5535f44093",
+  "active": "9178c8106d50b63c",
   "lastOpenFiles": [
     "20. Rhizome/00. 什么是Rhizome.md",
     "20. Rhizome/Function-calling：让ai按要求做事.md",
