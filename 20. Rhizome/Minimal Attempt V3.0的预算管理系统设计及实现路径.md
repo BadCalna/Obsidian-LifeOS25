@@ -1,6 +1,8 @@
 ---
 type:
   - 研究
+  - 启发
+  - 思考
 uid: b01c6a6b-b9cb-4020-9e1d-571ffd2c262e
 tags:
   - topic/生产力
@@ -55,14 +57,17 @@ source:
 		- Remarks: 备注
 - 预算设置
 	- 基础数据库Budget![[Pasted image 20251108164700.png]]
-		- Name
-		- Period
-		- Category
-		- Parent Category
-		- Limit
-		- Spent
-		- Remain
-		- Transactions
+		- Name: 预算名称
+		- Period: 预算周期
+		- Category: 分类，引用Category数据库
+		- Parent Category: 汇总，根据Category找到父节点
+		- Limit: 预算金额
+		- Spent: 已执行金额
+		- Remain: 可用余额
+		- Transactions: 关联消费项记录
+- 有了这三个数据库作为基础，要怎么低摩擦力地记账、对账、执行预算呢？
+	- 通过自动化脚本自动处理微信和支付宝流水记录，自动合并已记录的现金流变动，增量更新未记账的现金流变动
+	- 结合Notion API自动执行写入Transactions数据库
 
 ---
 ## 🎬下一步行动 (Optional)
