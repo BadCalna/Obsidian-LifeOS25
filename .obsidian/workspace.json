@@ -78,9 +78,39 @@
               "icon": "lucide-file",
               "title": "Minimal Attempt V3.0的预算管理系统设计及实现路径"
             }
+          },
+          {
+            "id": "56b929c8af342f86",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.10.3"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
+      },
+      {
+        "id": "f59a71d257065f6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2253fa9e7c0d16b3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.10.3"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -280,7 +310,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "09c3a459817d762f",
+  "active": "2253fa9e7c0d16b3",
   "lastOpenFiles": [
     "00. System FILE/95. attachment/Pasted image 20251108164700.png",
     "20. Rhizome/Minimal Attempt V3.0的预算管理系统设计及实现路径.md",
