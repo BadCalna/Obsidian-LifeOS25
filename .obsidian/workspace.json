@@ -80,37 +80,31 @@
             }
           },
           {
-            "id": "56b929c8af342f86",
+            "id": "7789ccf29273d6c7",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.3"
+                "file": "20. Rhizome/Notion API中的页面(Page)到底是什么玩意？.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.10.3"
+              "icon": "lucide-file",
+              "title": "Notion API中的页面(Page)到底是什么玩意？"
             }
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "f59a71d257065f6e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2253fa9e7c0d16b3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.10.3"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -310,10 +304,12 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "2253fa9e7c0d16b3",
+  "active": "7789ccf29273d6c7",
   "lastOpenFiles": [
-    "00. System FILE/95. attachment/Pasted image 20251108164700.png",
+    "00. System FILE/95. attachment/Pasted image 20251116151156.png",
     "20. Rhizome/Minimal Attempt V3.0的预算管理系统设计及实现路径.md",
+    "20. Rhizome/Notion API中的页面(Page)到底是什么玩意？.md",
+    "00. System FILE/95. attachment/Pasted image 20251108164700.png",
     "00. System FILE/95. attachment/Pasted image 20251108163534.png",
     "00. System FILE/95. attachment/Pasted image 20251108162635.png",
     "20. Rhizome/什么是系统型和事件型支出.md",
@@ -340,7 +336,6 @@
     "00. System FILE/Template/RPA License.md",
     "00. System FILE/Template/TPL - Self Reflection V1.0.md",
     "00. System FILE/Template/Week Overview.md",
-    "00. System FILE/Template/TPL - Week Overview.md",
     "20. Rhizome/未命名.base",
     "00. System FILE/Image/thumb-mj-1738807385024896-2cdb845b.png",
     "00. System FILE/Template/未命名.base",
