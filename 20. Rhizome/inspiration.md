@@ -6,6 +6,7 @@ tags:
   - learning/费曼练习
   - topic/生产力
   - topic/心理学
+  - Rhizome
 aliases: []
 source: https://www.notion.so/6600-CORE-6552d23e479f4d8890727b7b43859227?v=28cc7f134876806fbc06000ce714ba54&source=copy_link
 ---

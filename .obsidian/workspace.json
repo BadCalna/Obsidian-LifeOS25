@@ -150,9 +150,129 @@
               "icon": "lucide-file",
               "title": "什么是CORE工作流？"
             }
+          },
+          {
+            "id": "720862f737357ed9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20. Rhizome/inspiration.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "inspiration"
+            }
+          },
+          {
+            "id": "621f01e826b99267",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20. Rhizome/什么是CORE工作流？.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "什么是CORE工作流？"
+            }
+          },
+          {
+            "id": "c6c3aa23159ac83b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20. Rhizome/什么是CORE工作流？.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "什么是CORE工作流？"
+            }
+          },
+          {
+            "id": "df3c963c8360fa49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20. Rhizome/inspiration.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "inspiration"
+            }
+          },
+          {
+            "id": "1145b6a52e1bbd2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20. Rhizome/什么是CORE工作流？.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "什么是CORE工作流？"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -351,27 +471,27 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "5e305206f32612c8",
+  "active": "1145b6a52e1bbd2d",
   "lastOpenFiles": [
-    "20. Rhizome/什么是系统型和事件型支出.md",
+    "20. Rhizome/00. 什么是Rhizome.md",
     "20. Rhizome/inspiration.md",
-    "20. Rhizome/什么是CORE工作流？.md",
-    "00. System FILE/95. attachment/Pasted image 20251118160416.png",
-    "00. System FILE/95. attachment/Pasted image 20251118155716.png",
-    "20. Rhizome/为什么待办列表让你倾向做轻松的事，而非重要的事？.md",
-    "00. System FILE/95. attachment/Pasted image 20251118154701.png",
     "20. Rhizome/正确使用待办列表的两种可能办法.md",
     "20. Rhizome/在Python里接入AI的API进行对话——就像小时候放学后去朋友家玩儿.md",
+    "20. Rhizome/什么是系统型和事件型支出.md",
+    "20. Rhizome/什么是CORE工作流？.md",
+    "20. Rhizome/为什么待办列表让你倾向做轻松的事，而非重要的事？.md",
+    "20. Rhizome/Function-calling：让ai按要求做事.md",
     "20. Rhizome/我的生产力系统 - README.md",
-    "20. Rhizome/00. 什么是Rhizome.md",
     "20. Rhizome/什么是数据？.md",
+    "00. System FILE/95. attachment/Pasted image 20251118160416.png",
+    "00. System FILE/95. attachment/Pasted image 20251118155716.png",
+    "00. System FILE/95. attachment/Pasted image 20251118154701.png",
     "20. Rhizome/Notion API中的页面(Page)到底是什么玩意？.md",
     "00. System FILE/95. attachment/Pasted image 20251116151156.png",
     "20. Rhizome/Minimal Attempt V3.0的预算管理系统设计及实现路径.md",
     "00. System FILE/95. attachment/Pasted image 20251108164700.png",
     "00. System FILE/95. attachment/Pasted image 20251108163534.png",
     "00. System FILE/95. attachment/Pasted image 20251108162635.png",
-    "20. Rhizome/Function-calling：让ai按要求做事.md",
     "20. Rhizome/什么是定量数据和定性数据？.md",
     "20. Rhizome/定量数据揭露现象，定性数据揭示原因.md",
     "10. PKM/10. Projects/Google Data Analytics/10. Foundations/如何在Python里接入Deepseek或其他AI进行对话.md",

@@ -7,6 +7,7 @@ tags:
   - learning/费曼练习
   - topic/AI
   - topic/生产力
+  - Rhizome
 aliases: []
 source:
 ---

@@ -7,6 +7,7 @@ tags:
   - learning/Python
   - topic/AI
   - topic/数据分析
+  - Rhizome
 aliases: []
 source: https://api-docs.deepseek.com/zh-cn/api/deepseek-api
 ---
