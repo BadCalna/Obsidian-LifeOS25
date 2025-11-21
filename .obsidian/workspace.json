@@ -273,6 +273,36 @@
           }
         ],
         "currentTab": 10
+      },
+      {
+        "id": "5b62e2873831bd7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3271855e1e047d31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20. Rhizome/什么是CORE工作流？.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "什么是CORE工作流？"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -472,7 +502,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "1145b6a52e1bbd2d",
+  "active": "3271855e1e047d31",
   "lastOpenFiles": [
     "20. Rhizome/00. 什么是Rhizome.md",
     "20. Rhizome/inspiration.md",
