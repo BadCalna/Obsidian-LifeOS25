@@ -27,7 +27,8 @@ source: https://www.notion.so/6600-CORE-6552d23e479f4d8890727b7b43859227?v=28cc7
 	- Review **Frequently**
 	- Engage **Effectively**
 - Jeff用了两个例子来讲解这个工作流的应用方法(How does it works?)
-- 🎬场景一：[Tasks]午饭时，VP经过要求准备一份*关于日本三季度营收情况*的**PPT**，要在QBR(Quarterly Business Review)上使用，截止日期是周四；而你没带电脑，同时，一下午都是会议
+- 🎬场景一：[Tasks] 一句话概述：Jeff在非工作时间收到了任务，于是他快速Capture下来后，直到处理该事项前他都不再考虑这个事项
+	- 【完整版-日常折叠】午饭时，VP经过要求准备一份*关于日本三季度营收情况*的**PPT**，要在QBR(Quarterly Business Review)上使用，截止日期是周四；而你没带电脑，同时，一下午都是会议
 	- Step1 Capture: 使用Google Tasks的桌面组件进行快速捕捉 —— 清楚描述内容：*周四前准备几页关于日本分部三季度营收情况的PPT给VP*
 		- **Pro Tip**：Jeff设置了一个**当天**的截止日期，这样Tasks就会提醒他
 		- 完成捕捉后，大脑🧠就可以完全忘记这个事情了
@@ -37,16 +38,17 @@ source: https://www.notion.so/6600-CORE-6552d23e479f4d8890727b7b43859227?v=28cc7
 		- 在我这，就是要创建一个对应的任务在我的Tasks数据库中
 		- ⚠️注意：直到此时，才可以在Tasks中把这个事项勾选完成
 	- Step4 Engage: 实际投入时间完成这个事项
-- 🎬场景二：[Ideas]通勤时，正在听的podcast给了你一个启发——用AI进行模拟谈判，并使用Chirs Voss的谈判技巧申请加薪
-	- Step1 Capture: 使用Google Keep记录下这个要点
-	- Step2 Organize: 使用Keep的Tags进行分类
-	- Step3 **Review**: 定期清理"Information Inbox"，在这个场景下——Google Keep；Jeff专门拿出一段时间计划处理这个事务，并且在和领导的面谈记录中增加这个点以免忘记。
-		- 完成后，再把那个Google Keep归档
-	- Step4 Engage: 实际投入执行
-> 		**Pro Tips**:
-> 			1.  Jeff使用的是Tag对Keep中的信息进行分类，有这几种标签：thoughts - 源于自身的信息；notes - 外源信息，例如会议、视频等等；
-> 			2. Jeff每天设置3个30分钟用于Review，并严格保护这段时间（早上，午饭后，下班前）
-> 			3. 在日历上框出这段时间的同时，在详细信息里添加有Inbox的快捷url
+- 🎬场景二：[Ideas] 一句话概述：Jeff通勤时从博客中获得启发，于是Capture下来，并安排时间处理这个启发相关事项
+	- 【完整版-日常折叠】通勤时，正在听的podcast给了你一个启发——用AI进行模拟谈判，并使用Chirs Voss的谈判技巧申请加薪
+		- Step1 Capture: 使用Google Keep记录下这个要点
+		- Step2 Organize: 使用Keep的Tags进行分类
+		- Step3 **Review**: 定期清理"Information Inbox"，在这个场景下——Google Keep；Jeff专门拿出一段时间计划处理这个事务，并且在和领导的面谈记录中增加这个点以免忘记。
+			- 完成后，再把那个Google Keep归档
+		- Step4 Engage: 实际投入执行
+> **Pro Tips**:
+> 	1.  Jeff使用的是Tag对Keep中的信息进行分类，有这几种标签：thoughts - 源于自身的信息；notes - 外源信息，例如会议、视频等等；
+> 	2. Jeff每天设置3个30分钟用于Review，并严格保护这段时间（早上，午饭后，下班前）
+> 	3. 在日历上框出这段时间的同时，在详细信息里添加有Inbox的快捷url
 ---
 ## 🧠思考与分析 (Thought & Analysis)
 > Tips：“它让我怎么想？”比“它说了什么？”更重要，尝试用自己的话讲述
@@ -64,9 +66,12 @@ source: https://www.notion.so/6600-CORE-6552d23e479f4d8890727b7b43859227?v=28cc7
 		- Jeff: 应用工作流带来的**短期不适应感**必然会远远小于在重要的长期目标上止步不前的失落感和挫败感
 - 回到CORE本身，在上面我记录的内容中，用了几个副词分别来形容每个步骤
 	- Capture - Quickly: 捕获环节一定是低摩擦的，换句话说，它必须是简单轻松的，太过复杂的捕获会让整个工作流变得很繁重，大脑会在这样的情形下天然选择逃避，难以与天性对抗的我们显然会失败
-	- Organize - Clearly: “清晰”的分类，这点也很重要 —— 以我个人的理解，这个环节也要确保Capture的事务足够清晰。因为不清晰的描述说明了**我不会处理这个事项**，具体可以参考笔记——[[为什么我们需要清晰？]]
-	- Reveiw - Frequently
+	- Organize - Clearly: “清晰”的分类和**安排**，这点也很重要 —— 以我个人的理解，这个环节也要确保Capture的事务足够清晰。因为不清晰的描述说明了**我不会处理这个事项**，具体可以参考笔记——[[为什么我们需要清晰？]]
+	- Reveiw - Frequently: “频繁”（或者说定期）去Review，这是最重要的一点 —— 本质上，启用这样一个工作流的目的就是**将大脑的冗余荷载**托管到一个**可靠的外部系统中**。定期、频繁的Review是保障**可靠性**的充分条件
+		- 在前期运用时，有助于养成习惯，给大脑一个“经常回顾”的印象，有利于增强运用的信心和
+		- 如果回顾不够Frequent，Capture环节就会崩塌，工作流就不起作用
 	- *20251119Gemini提示*
+		- 【日常折叠】
 		- 你对 **Review (Frequently)** 的分析最激动，你用了“最最最重要！！”和双感叹号。 但这里恰恰是你思考最浅的地方。 你只喊了口号（“只做记录而不回顾，那么记录将毫无意义”），但没有像侦探一样去挖掘 **“为什么”**
 			- 原文：Review - Frequently: 最最最重要的环节！！只做记录而不回顾，那么记录将毫无意义！！
 	- Engage - Effectively: 这个环节中，通过前三个环节降低心智带宽，相信能够创造出一个更加高效的执行环节
