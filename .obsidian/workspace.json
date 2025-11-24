@@ -346,7 +346,8 @@
               "title": "搜索"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a988cac77a40a43d",
@@ -367,8 +368,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412.50390243530273,
-    "collapsed": true
+    "width": 412.50390243530273
   },
   "right": {
     "id": "b81bc07e47d2e730",
@@ -502,7 +502,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "3271855e1e047d31",
+  "active": "d900daafd723c73d",
   "lastOpenFiles": [
     "20. Rhizome/00. 什么是Rhizome.md",
     "20. Rhizome/inspiration.md",
