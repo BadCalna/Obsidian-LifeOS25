@@ -30,6 +30,37 @@
               "icon": "lucide-file",
               "title": "什么是CORE工作流？"
             }
+          },
+          {
+            "id": "8bac8855a970b405",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.10.6"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "f8170c8f140fd246",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8255d9166d4ebafd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.10.6"
+            }
           }
         ]
       }
@@ -231,7 +262,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "82d4f21fe957cfd9",
+  "active": "8255d9166d4ebafd",
   "lastOpenFiles": [
     "20. Rhizome/为什么我们需要清晰？.md",
     "20. Rhizome/什么是CORE工作流？.md",
