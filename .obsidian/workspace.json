@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "【课程笔记】Google Data Analyst Certificate - Ask Question to Make Data-Driven Decisions"
             }
+          },
+          {
+            "id": "2de9c20b296d0d32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20. Rhizome/【课程笔记】AI for Everyone.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "【课程笔记】AI for Everyone"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -279,11 +303,12 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "8869f3c2b6824dea",
+  "active": "2de9c20b296d0d32",
   "lastOpenFiles": [
-    "20. Rhizome/地地道道地地道道的英文表述.md",
     "20. Rhizome/【课程笔记】Google Data Analyst Certificate - Ask Question to Make Data-Driven Decisions.md",
     "20. Rhizome/00. 什么是Rhizome.md",
+    "20. Rhizome/【课程笔记】AI for Everyone.md",
+    "20. Rhizome/地地道道地地道道的英文表述.md",
     "20. Rhizome/正确使用待办列表的两种可能办法.md",
     "20. Rhizome/inspiration.md",
     "20. Rhizome/为什么我们需要清晰？.md",
@@ -313,7 +338,6 @@
     "00. System FILE/Template/TPL-Rhizome Note.md",
     "00. System FILE/Template/Github_template.md",
     "00. System FILE/Template/PKM_Note.md",
-    "00. System FILE/Template/Google Data Analytics.md",
     "Project Google Data Analyst.base",
     "20. Rhizome/未命名.base",
     "00. System FILE/Image/thumb-mj-1738807385024896-2cdb845b.png",
