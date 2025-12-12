@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20. Rhizome/Google Sheet - 多列排序.md",
+                "file": "20. Rhizome/我的生产力系统 - README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Google Sheet - 多列排序"
+              "title": "我的生产力系统 - README"
             }
           }
         ],
@@ -329,8 +329,8 @@
   },
   "active": "b2a1e3e8fbbc9cd8",
   "lastOpenFiles": [
-    "20. Rhizome/【课程笔记】AI for Everyone.md",
     "20. Rhizome/Google Sheet - 多列排序.md",
+    "20. Rhizome/【课程笔记】AI for Everyone.md",
     "00. System FILE/Template/TPL-Rhizome Tool Note.md",
     "00. System FILE/Template/TPL-Rhizome Note.md",
     "20. Rhizome/Notion API中的页面(Page)到底是什么玩意？.md",
