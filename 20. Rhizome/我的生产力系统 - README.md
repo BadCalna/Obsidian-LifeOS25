@@ -16,7 +16,9 @@ source:
 
 ## 📌核心结论 (The Gist)
 > [在这里写下最重要的那句话，让未来的你一秒看懂]
-- 
+- Minimal Attempt的终极目标是通过无摩擦/低摩擦的方法构建一个独属于我的高效生产力系统
+- 系统的必要性在于
+	- `We do not rise to the level of our goals, we fall to the level of our system`
 ---
 ## 🧩背景/情景 (Context)
 > 当时遇到了什么问题？或者想到了什么？
@@ -56,12 +58,20 @@ source:
 ---
 ## 🧠思考与分析 (Thought & Analysis)
 > Tips：“它让我怎么想？”比“它说了什么？”更重要，尝试用自己的话讲述
-- 
-
----
+- **从“感觉在忙”到“看见产出” (Data as Mirror)**
+	- V1/V2 更多关注流程顺不顺，但 V3.0 我开始关注“结果好不好”。
+	- 引入 **Dashboard** 不是为了好看，而是为了**反馈**。之前我可能觉得自己忙了一天，但一看数据没完成几个 Task。Dashboard 是一面镜子，让我直面真实的效率。
+- **“项目”的视觉侵略性 (Visual Prominence)** 
+	- 在 V3.0 中，我特意提升了 Projects 的存在感。受《Make Time》启发，我用看板视图将“In Progress”的项目直接铺开在 Worktable 上。
+	- **Aha Moment:** 我发现当项目以卡片形式“占据”屏幕时，我会有强烈的动力去消除它们（Move to Done）。这种“视觉侵略性”是推动执行的关键。
+- **当下的博弈：空间 vs. 聚焦 (The Trade-off)** 
+	- **痛点 (Friction):** 目前的 Project 看板太占地方了，挤压了 Worktable 的操作空间，导致视线混乱。 
+	- **反思:** 虽然这让项目更有存在感，但也增加了界面的“认知噪音”。
+	- **下一步迭代思路:** 必须保留 Projects 的“高存在感”（不能藏进二级页面），但需要优化展示形式（也许是更紧凑的列表，或者仅显示 Top 3 焦点项目），在“聚焦”和“清爽”之间找到平衡。
 ## 🎬下一步行动 (Optional)
 ---
-
+- [ ] 优化 Worktable 布局：尝试将 Projects 看板改为更紧凑的视图，或者仅展示 Filter 为 "Core Focus" 的项目。
+- [ ] 观察 Dashboard 数据：如果连续一周任务完成数低，复盘是任务拆解不够细，还是真的效率低。
 ## 🔗关联笔记 (Connections)
 ---
 - 
