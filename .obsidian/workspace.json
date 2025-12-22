@@ -131,28 +131,14 @@
             "id": "981a660d951503c0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20. Rhizome/【课程笔记】Google Data Analyst Certificate - Ask Question to Make Data-Driven Decisions.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "【课程笔记】Google Data Analyst Certificate - Ask Question to Make Data-Driven Decisions"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -217,7 +203,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412.50390243530273
+    "width": 412.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "b81bc07e47d2e730",
@@ -351,11 +338,11 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "981a660d951503c0",
+  "active": "8869f3c2b6824dea",
   "lastOpenFiles": [
-    "00. System FILE/95. attachment/Pasted image 20251215182630.png",
-    "20. Rhizome/【课程笔记】Google Data Analyst Certificate - Ask Question to Make Data-Driven Decisions.md",
     "20. Rhizome/地地道道地地道道的英文表述.md",
+    "20. Rhizome/【课程笔记】Google Data Analyst Certificate - Ask Question to Make Data-Driven Decisions.md",
+    "00. System FILE/95. attachment/Pasted image 20251215182630.png",
     "20. Rhizome/Minimal Attempt V3.0的预算管理系统设计及实现路径.md",
     "20. Rhizome/inspiration.md",
     "20. Rhizome/KaTex字体公式.md",

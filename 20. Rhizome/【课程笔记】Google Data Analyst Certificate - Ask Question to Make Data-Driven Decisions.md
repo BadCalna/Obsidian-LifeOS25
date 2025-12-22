@@ -89,6 +89,12 @@ source: https://www.coursera.org/learn/ask-questions-make-decisions/
 	- 投资回报率（ROI,Returnoninvestment）：利用投资与利润等指标来评估投资成功与否的公式。
 	- 收入（Revenue）：通过销售商品或服务产生的总收入。
 	- 小数据（Smalldata）：规模较小、具体的数据点，通常涉及较短时间周期，适合用于日常决策。
+- # Basic spreadsheet tasks
+	- 开源数据渠道：
+		- World Bank
+		- World Health Organization
+		- Google Public Data Explorer
+		- U.S. Census Bureau
 
 ---
 ## 🧠思考与分析 (Thought & Analysis)
