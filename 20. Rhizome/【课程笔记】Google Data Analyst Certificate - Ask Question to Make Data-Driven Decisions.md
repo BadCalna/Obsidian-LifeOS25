@@ -95,7 +95,12 @@ source: https://www.coursera.org/learn/ask-questions-make-decisions/
 		- World Health Organization
 		- Google Public Data Explorer
 		- U.S. Census Bureau
-
+- # Quick Reference: Formulas in Spreadsheet
+	- 绝对引用：$
+		- 加在行前 —— 绝对行
+		- 加在列前 —— 绝对列
+		- 行列都加 —— 固定单元格
+		- 快捷操作：F4
 ---
 ## 🧠思考与分析 (Thought & Analysis)
 > Tips：“它让我怎么想？”比“它说了什么？”更重要，尝试用自己的话讲述
