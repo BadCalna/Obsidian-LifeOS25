@@ -118,6 +118,9 @@ source: https://www.coursera.org/learn/ask-questions-make-decisions/
 		- 换一种易于阅读的字体。
 		- 将边框颜色设置为白色，这样你就可以在一张空白的纸上工作了。
 		- 创建一个只包含原始数据的工作表，再创建一个只包含所需数据的工作表。
+	- Resources
+		- [**当你的公式不起作用时：Google 表格中的公式解析错误**](https://www.benlcollins.com/spreadsheets/formula-parse-error/ "当你的公式不起作用时：Google 表格中的公式解析错误")
+		- [**微软公式和函数**](https://support.microsoft.com/en-us/office/formulas-and-functions-294d9486-b332-48ed-b489-abe7d0f9eda9?ui=en-US&rs=en-US&ad=US#id0eaabaaa=errors "微软公式和函数")
 ---
 ## 🧠思考与分析 (Thought & Analysis)
 > Tips：“它让我怎么想？”比“它说了什么？”更重要，尝试用自己的话讲述
