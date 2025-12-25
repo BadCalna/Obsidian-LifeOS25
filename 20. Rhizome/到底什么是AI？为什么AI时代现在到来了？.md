@@ -6,7 +6,7 @@ tags:
   - learning/费曼练习
   - topic/AI
 aliases: []
-source:
+source: "[[【课程笔记】AI for Everyone]]"
 ---
 # 到底什么是AI？为什么AI时代现在到来了？
 
