@@ -4,6 +4,48 @@
     "type": "split",
     "children": [
       {
+        "id": "677d01db5a70db57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "147b332393b78755",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20. Rhizome/到底什么是AI？为什么AI时代现在到来了？.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "到底什么是AI？为什么AI时代现在到来了？"
+            }
+          },
+          {
+            "id": "45eeb52f3c369ebb",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "00. System FILE/95. attachment/W1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "W1"
+            }
+          }
+        ]
+      },
+      {
         "id": "12004680ff089d84",
         "type": "tabs",
         "children": [
@@ -55,8 +97,7 @@
               "title": "【课程笔记】Google Data Analyst Certificate - Ask Question to Make Data-Driven Decisions"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -256,11 +297,13 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "9018f3d8660ad7f0",
+  "active": "147b332393b78755",
   "lastOpenFiles": [
+    "20. Rhizome/【课程笔记】AI for Everyone.md",
+    "20. Rhizome/到底什么是AI？为什么AI时代现在到来了？.md",
+    "00. System FILE/95. attachment/Pasted image 20251225143006.png",
     "00. System FILE/95. attachment/W1.pdf",
     "20. Rhizome/【课程笔记】Google Data Analyst Certificate - Ask Question to Make Data-Driven Decisions.md",
-    "20. Rhizome/【课程笔记】AI for Everyone.md",
     "20. Rhizome/00. 什么是Rhizome.md",
     "20. Rhizome/地地道道地地道道的英文表述.md",
     "00. System FILE/95. attachment/Pasted image 20251215182630.png",
@@ -291,7 +334,6 @@
     "00. System FILE/95. attachment/Pasted image 20251108162635.png",
     "20. Rhizome/什么是定量数据和定性数据？.md",
     "20. Rhizome/定量数据揭露现象，定性数据揭示原因.md",
-    "10. PKM/10. Projects/Google Data Analytics/10. Foundations/如何在Python里接入Deepseek或其他AI进行对话.md",
     "Project Google Data Analyst.base",
     "20. Rhizome/未命名.base",
     "00. System FILE/Image/thumb-mj-1738807385024896-2cdb845b.png",
@@ -302,7 +344,6 @@
     "10. PKM/30. Areas/Python/Python-web/Django",
     "10. PKM/30. Areas/Python/Webscrapping/未命名.nssyncsc",
     "10. PKM/30. Areas/Python/Webscrapping",
-    "00. System FILE/95. attachment/Pasted image 20250620113440.png",
     "未命名.canvas"
   ]
 }

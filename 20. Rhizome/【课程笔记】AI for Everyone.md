@@ -17,7 +17,7 @@ source:
 ## 🧩课程内容(Content)
 > 课程内容记录
 - # What is AI
-	- ## AI分类
+	- ## AI分类 ^6d9a12
 		- ANI(Artificial Narrow Intelligence)：一些笨笨的ai（自动驾驶、搜索助手或者一些简易智能）
 		- Gen AI(Generative AI)：以GPT为代表
 		- AGI(Artificial General Intelligence)：能做人类能做的所有事
@@ -57,7 +57,10 @@ source:
 			2. “简单概念”
 			3. 大量可用数据
 	- ## 深度学习非技术性解释
-		- case：衬衫👕价格与销量的预测
+		- case1：衬衫👕价格与销量的预测
+		- case2：人脸识别
+		- 神经网络的每个神经元能做的就是相对简单的一部分判断，例如case1中，第一个神经元可能只评估价格/货物成本/原材料对衬衫需求的预测，第二个只处理营销/材料等等![[Pasted image 20251225143006.png]]
+		- 每个神经元具体怎么学习我们不需要管，只需要大量数据即可
 
 ---
 ## 🧠思考与分析 (Thought & Analysis)
