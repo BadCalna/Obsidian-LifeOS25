@@ -25,7 +25,7 @@ source:
 	- ## What is Data ^60b426
 		- 数据不总是产生价值，不要假定其有如何如何的价值而据此进行投资决策
 		- 数据一般是messy的，可能有异常值、缺失值等等，往往不能直接产生价值
-	- ## AI Terminology
+	- ## AI Terminology ^d4a87d
 		- Data Science v.s. Machine Learning
 			- DS
 				- 呈现形式：slides、presentations

@@ -4,60 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "677d01db5a70db57",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "147b332393b78755",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20. Rhizome/什么是数据？.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "什么是数据？"
-            }
-          },
-          {
-            "id": "cbc4e5881a960877",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "00. System FILE/Excalidraw/AI_workflow_conceptual_drawing.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "AI_workflow_conceptual_drawing.excalidraw"
-            }
-          },
-          {
-            "id": "45eeb52f3c369ebb",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "00. System FILE/95. attachment/W1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "W1"
-            }
-          }
-        ]
-      },
-      {
         "id": "12004680ff089d84",
         "type": "tabs",
         "children": [
@@ -67,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20. Rhizome/【课程笔记】AI for Everyone.md",
+                "file": "20. Rhizome/到底什么是AI？为什么AI时代现在到来了？.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -82,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "【课程笔记】AI for Everyone"
+              "title": "到底什么是AI？为什么AI时代现在到来了？"
+            }
+          },
+          {
+            "id": "26bb935c6210f8a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20. Rhizome/什么是机器学习？.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "什么是机器学习？"
             }
           },
           {
@@ -109,7 +79,8 @@
               "title": "【课程笔记】Google Data Analyst Certificate - Ask Question to Make Data-Driven Decisions"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -309,11 +280,13 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "6a8523d1752f6549",
+  "active": "26bb935c6210f8a0",
   "lastOpenFiles": [
-    "20. Rhizome/什么是数据？.md",
     "20. Rhizome/到底什么是AI？为什么AI时代现在到来了？.md",
+    "20. Rhizome/什么是机器学习？.md",
     "20. Rhizome/【课程笔记】AI for Everyone.md",
+    "20. Rhizome/如何在Google Sheet进行多列排序？.md",
+    "20. Rhizome/什么是数据？.md",
     "00. System FILE/Excalidraw/AI_workflow_conceptual_drawing.excalidraw.md",
     "00. System FILE/95. attachment/W1.pdf",
     "20. Rhizome/inspiration.md",
@@ -325,7 +298,6 @@
     "20. Rhizome/Minimal Attempt V3.0的预算管理系统设计及实现路径.md",
     "20. Rhizome/KaTex字体公式.md",
     "20. Rhizome/我的生产力系统 - README.md",
-    "20. Rhizome/Google Sheet - 多列排序.md",
     "00. System FILE/Template/TPL-Rhizome Tool Note.md",
     "00. System FILE/Template/TPL-Rhizome Note.md",
     "20. Rhizome/Notion API中的页面(Page)到底是什么玩意？.md",

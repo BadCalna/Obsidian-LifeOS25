@@ -8,7 +8,7 @@ tags:
 aliases: []
 source: https://keep.google.com/#NOTE/1xXF6Qm06WJHmYFcB2CNcpQSmHhx4W2plRqTHnNeva9Qspo2NYusHGtWWW3WM0cpjKimS
 ---
-# Google Sheet - 多列排序
+# 如何在Google Sheet进行多列排序？
 
 ## 📌核心结论 (The Gist)
 >[一句话：这个工具到底解决什么问题？]
