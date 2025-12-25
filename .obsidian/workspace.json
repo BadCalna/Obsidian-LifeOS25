@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "cbc4e5881a960877",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "00. System FILE/Excalidraw/AI_workflow_conceptual_drawing.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "AI_workflow_conceptual_drawing.excalidraw"
+            }
+          },
+          {
             "id": "45eeb52f3c369ebb",
             "type": "leaf",
             "state": {
@@ -299,16 +311,17 @@
   },
   "active": "147b332393b78755",
   "lastOpenFiles": [
-    "20. Rhizome/【课程笔记】AI for Everyone.md",
-    "20. Rhizome/到底什么是AI？为什么AI时代现在到来了？.md",
-    "00. System FILE/95. attachment/Pasted image 20251225143006.png",
+    "00. System FILE/Excalidraw/AI_workflow_conceptual_drawing.excalidraw.md",
     "00. System FILE/95. attachment/W1.pdf",
+    "20. Rhizome/到底什么是AI？为什么AI时代现在到来了？.md",
+    "20. Rhizome/inspiration.md",
+    "20. Rhizome/【课程笔记】AI for Everyone.md",
+    "00. System FILE/95. attachment/Pasted image 20251225143006.png",
     "20. Rhizome/【课程笔记】Google Data Analyst Certificate - Ask Question to Make Data-Driven Decisions.md",
     "20. Rhizome/00. 什么是Rhizome.md",
     "20. Rhizome/地地道道地地道道的英文表述.md",
     "00. System FILE/95. attachment/Pasted image 20251215182630.png",
     "20. Rhizome/Minimal Attempt V3.0的预算管理系统设计及实现路径.md",
-    "20. Rhizome/inspiration.md",
     "20. Rhizome/KaTex字体公式.md",
     "20. Rhizome/我的生产力系统 - README.md",
     "20. Rhizome/Google Sheet - 多列排序.md",
@@ -333,7 +346,6 @@
     "00. System FILE/95. attachment/Pasted image 20251108163534.png",
     "00. System FILE/95. attachment/Pasted image 20251108162635.png",
     "20. Rhizome/什么是定量数据和定性数据？.md",
-    "20. Rhizome/定量数据揭露现象，定性数据揭示原因.md",
     "Project Google Data Analyst.base",
     "20. Rhizome/未命名.base",
     "00. System FILE/Image/thumb-mj-1738807385024896-2cdb845b.png",
