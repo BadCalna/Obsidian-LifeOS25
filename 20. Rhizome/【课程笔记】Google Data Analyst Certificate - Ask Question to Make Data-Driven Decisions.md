@@ -123,6 +123,14 @@ source: https://www.coursera.org/learn/ask-questions-make-decisions/
 		- [**微软公式和函数**](https://support.microsoft.com/en-us/office/formulas-and-functions-294d9486-b332-48ed-b489-abe7d0f9eda9?ui=en-US&rs=en-US&ad=US#id0eaabaaa=errors "微软公式和函数")
 	- 公式(formula): =a1 + b2
 	- 函数(functions): =sum(a1,b2)
+- # hands-on-activity-create-a-custom-data-table
+	- 把Date转成月份
+		- eg. 1/1/25 -> TEXT("1/1/25","mmmm") = "January"
+- # Define a problem before solving them
+	- 首先**确认 问题的范围(Problem Domain)**
+		- 一个包含所有影响问题或被问题影响所有活动的明确的分析域
+		-  **一个特定的分析范围，涵盖所有会影响该问题或受该问题影响的活动**
+	- 
 ---
 ## 🧠思考与分析 (Thought & Analysis)
 > Tips：“它让我怎么想？”比“它说了什么？”更重要，尝试用自己的话讲述
