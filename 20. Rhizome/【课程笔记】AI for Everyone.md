@@ -22,7 +22,7 @@ source:
 		- Gen AI(Generative AI)：以GPT为代表
 		- AGI(Artificial General Intelligence)：能做人类能做的所有事
 		- AI时代到来的原因：数据激增、算力增强 ——> 数据量增大的时候能够表现出更好的性能 ——> Scaling Law，参考[[W1.pdf|讲义]] Why Now?
-	- ## What is Data
+	- ## What is Data ^60b426
 		- 数据不总是产生价值，不要假定其有如何如何的价值而据此进行投资决策
 		- 数据一般是messy的，可能有异常值、缺失值等等，往往不能直接产生价值
 	- ## AI Terminology

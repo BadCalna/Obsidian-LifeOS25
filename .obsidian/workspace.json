@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20. Rhizome/到底什么是AI？为什么AI时代现在到来了？.md",
+                "file": "20. Rhizome/什么是数据？.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "到底什么是AI？为什么AI时代现在到来了？"
+              "title": "什么是数据？"
             }
           },
           {
@@ -309,13 +309,14 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "147b332393b78755",
+  "active": "6a8523d1752f6549",
   "lastOpenFiles": [
+    "20. Rhizome/什么是数据？.md",
+    "20. Rhizome/到底什么是AI？为什么AI时代现在到来了？.md",
+    "20. Rhizome/【课程笔记】AI for Everyone.md",
     "00. System FILE/Excalidraw/AI_workflow_conceptual_drawing.excalidraw.md",
     "00. System FILE/95. attachment/W1.pdf",
-    "20. Rhizome/到底什么是AI？为什么AI时代现在到来了？.md",
     "20. Rhizome/inspiration.md",
-    "20. Rhizome/【课程笔记】AI for Everyone.md",
     "00. System FILE/95. attachment/Pasted image 20251225143006.png",
     "20. Rhizome/【课程笔记】Google Data Analyst Certificate - Ask Question to Make Data-Driven Decisions.md",
     "20. Rhizome/00. 什么是Rhizome.md",
@@ -337,7 +338,6 @@
     "20. Rhizome/在Python里接入AI的API进行对话——就像小时候放学后去朋友家玩儿.md",
     "20. Rhizome/什么是系统型和事件型支出.md",
     "20. Rhizome/Function-calling：让ai按要求做事.md",
-    "20. Rhizome/什么是数据？.md",
     "00. System FILE/95. attachment/Pasted image 20251118160416.png",
     "00. System FILE/95. attachment/Pasted image 20251118155716.png",
     "00. System FILE/95. attachment/Pasted image 20251118154701.png",
