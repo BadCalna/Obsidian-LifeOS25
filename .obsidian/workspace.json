@@ -4,29 +4,66 @@
     "type": "split",
     "children": [
       {
-        "id": "1b05066d4a30fea9",
+        "id": "d4c0f9e1cd218671",
         "type": "tabs",
         "children": [
           {
             "id": "6b0b0fe917cec8cf",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "00. System FILE/95. attachment/W1.pdf"
+                "file": "20. Rhizome/如何在Google Sheet进行多列排序？.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "W1"
+              "icon": "lucide-file",
+              "title": "如何在Google Sheet进行多列排序？"
+            }
+          },
+          {
+            "id": "8b5d0c5f54ea5b76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20. Rhizome/如何快速判断能否实施机器学习.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "如何快速判断能否实施机器学习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "12004680ff089d84",
+        "id": "1b05066d4a30fea9",
         "type": "tabs",
         "children": [
           {
-            "id": "866aa65cbb9c23dc",
+            "id": "427f112a83090b54",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,81 +85,8 @@
               "icon": "lucide-file",
               "title": "【课程笔记】AI for Everyone"
             }
-          },
-          {
-            "id": "9018f3d8660ad7f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20. Rhizome/【课程笔记】Google Data Analyst Certificate - Ask Question to Make Data-Driven Decisions.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "【课程笔记】Google Data Analyst Certificate - Ask Question to Make Data-Driven Decisions"
-            }
-          },
-          {
-            "id": "b500aedf69769ecc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20. Rhizome/AI公司 = AI + 公司？.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "AI公司 = AI + 公司？"
-            }
-          },
-          {
-            "id": "f393d8358eccbb9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20. Rhizome/到底什么是AI？为什么AI时代现在到来了？.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "到底什么是AI？为什么AI时代现在到来了？"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "W1",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,8 +130,7 @@
               "title": "搜索"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a988cac77a40a43d",
@@ -323,15 +286,16 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "b500aedf69769ecc",
+  "active": "8b5d0c5f54ea5b76",
   "lastOpenFiles": [
-    "20. Rhizome/到底什么是AI？为什么AI时代现在到来了？.md",
-    "20. Rhizome/AI公司 = AI + 公司？.md",
+    "20. Rhizome/如何在Google Sheet进行多列排序？.md",
+    "20. Rhizome/如何快速判断能否实施机器学习.md",
     "00. System FILE/95. attachment/W1.pdf",
     "20. Rhizome/【课程笔记】AI for Everyone.md",
+    "20. Rhizome/到底什么是AI？为什么AI时代现在到来了？.md",
+    "20. Rhizome/AI公司 = AI + 公司？.md",
     "20. Rhizome/什么是机器学习？.md",
     "20. Rhizome/【课程笔记】Google Data Analyst Certificate - Ask Question to Make Data-Driven Decisions.md",
-    "20. Rhizome/如何在Google Sheet进行多列排序？.md",
     "20. Rhizome/什么是数据？.md",
     "00. System FILE/Excalidraw/AI_workflow_conceptual_drawing.excalidraw.md",
     "20. Rhizome/inspiration.md",
