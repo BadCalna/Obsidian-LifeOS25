@@ -130,6 +130,7 @@ source: https://www.coursera.org/learn/ask-questions-make-decisions/
 	- 首先**确认 问题的范围(Problem Domain)**
 		- 一个包含所有影响问题或被问题影响所有活动的明确的分析域
 		-  **一个特定的分析范围，涵盖所有会影响该问题或受该问题影响的活动**
+- # Scope of Work and Structural thinking
 ---
 ## 🧠思考与分析 (Thought & Analysis)
 > Tips：“它让我怎么想？”比“它说了什么？”更重要，尝试用自己的话讲述
