@@ -131,6 +131,20 @@ source: https://www.coursera.org/learn/ask-questions-make-decisions/
 		- 一个包含所有影响问题或被问题影响所有活动的明确的分析域
 		-  **一个特定的分析范围，涵盖所有会影响该问题或受该问题影响的活动**
 - # Scope of Work and Structural thinking
+	- Scope of Work  - 工作范围(SoW)
+		- def: an agreed-upon outline of the work you're going to perform on a project 
+		- 一个**经各方一致认可的、你将在项目中开展工作的纲要/大纲**
+	- v.s Statement of Work
+		- 工作说明书是一份文件，它清晰地列出了供应商或承包商将向组织提供的产品和服务。它包括目标、指导方针、交付成果、进度安排和成本。
+		- 工作范围是基于项目的，它设定了项目的预期目标和范围。工作范围可以包含在工作说明书中，以帮助定义项目成果。 
+		- 作为一名初级数据分析师，通常情况下，你会被要求创建工作范围，而不是工作说明书。
+- # Creating a scope of work
+	- case：安排一个员工培训
+	- 方法论：SoW
+		- 交付物
+		- 时间线
+		- 里程碑
+		- 报告
 ---
 ## 🧠思考与分析 (Thought & Analysis)
 > Tips：“它让我怎么想？”比“它说了什么？”更重要，尝试用自己的话讲述
