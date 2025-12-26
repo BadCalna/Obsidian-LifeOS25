@@ -145,6 +145,7 @@ source: https://www.coursera.org/learn/ask-questions-make-decisions/
 		- 时间线
 		- 里程碑
 		- 报告
+			- 当你最终确认了可交付物以及到达里程碑
 ---
 ## 🧠思考与分析 (Thought & Analysis)
 > Tips：“它让我怎么想？”比“它说了什么？”更重要，尝试用自己的话讲述
