@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "如何在Google Sheet进行多列排序？"
             }
-          },
-          {
-            "id": "8b5d0c5f54ea5b76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20. Rhizome/快速判断能否实施机器学习的经验法则.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "快速判断能否实施机器学习的经验法则"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "1b05066d4a30fea9",
@@ -286,10 +261,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "8b5d0c5f54ea5b76",
+  "active": "6b0b0fe917cec8cf",
   "lastOpenFiles": [
-    "20. Rhizome/【课程笔记】AI for Everyone.md",
     "20. Rhizome/快速判断能否实施机器学习的经验法则.md",
+    "20. Rhizome/【课程笔记】AI for Everyone.md",
     "20. Rhizome/如何在Google Sheet进行多列排序？.md",
     "00. System FILE/95. attachment/W1.pdf",
     "20. Rhizome/到底什么是AI？为什么AI时代现在到来了？.md",
