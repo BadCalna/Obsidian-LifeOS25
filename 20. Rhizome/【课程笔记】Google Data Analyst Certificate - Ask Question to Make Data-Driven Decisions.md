@@ -157,6 +157,7 @@ source: https://www.coursera.org/learn/ask-questions-make-decisions/
 		- Deliverables：明确、清晰的说明本项目正开展哪些工作并且需要向利益相关者交付哪些东西 —— 避免使用模糊的表述
 		- Milestones：和Timeline息息相关。里程碑用来划分较大项目的不同阶段，可以由项目经理、利益相关者等一起确认
 		- Timeline：与制定的Milestone紧密关联，主要用来规划项目每个部分需要的时间 —— 需要足够具体，以便同步各方项目推进正常
+		- Report：明确如何与利益相关方汇报进度，沟通频率如何？是每周汇报？每月汇报？还是在里程碑完成后汇报？进度报告将包含哪些信息？
 ---
 ## 🧠思考与分析 (Thought & Analysis)
 > Tips：“它让我怎么想？”比“它说了什么？”更重要，尝试用自己的话讲述
