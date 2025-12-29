@@ -61,6 +61,12 @@ source:
 		- case2：人脸识别
 		- 神经网络的每个神经元能做的就是相对简单的一部分判断，例如case1中，第一个神经元可能只评估价格/货物成本/原材料对衬衫需求的预测，第二个只处理营销/材料等等![[Pasted image 20251225143006.png]]
 		- 每个神经元具体怎么学习我们不需要管，只需要大量数据即可
+- #   Build an AI Project
+	- ## workflow of data science/ machine learning projects
+		- 基本流程都在：
+			- 收集数据
+			- 进行分析/训练模型
+			- 分享建议/发布模型：根据收集到的反馈数据不断产出（迭代出）新的建议或新的模型
 
 ---
 ## 🧠思考与分析 (Thought & Analysis)
