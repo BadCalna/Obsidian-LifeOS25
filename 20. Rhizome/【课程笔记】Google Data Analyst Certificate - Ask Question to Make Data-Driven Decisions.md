@@ -100,7 +100,7 @@ source: https://www.coursera.org/learn/ask-questions-make-decisions/
 		- 加在行前 —— 绝对行
 		- 加在列前 —— 绝对列
 		- 行列都加 —— 固定单元格
-		- 快捷操作：F4
+		- 快捷操作切换饮用：F4
 - # Spreadsheet Error 
 	- **DIV错误**：当公式试图将一个值除以零或空单元格时出现。可以使用IFERROR函数来避免此错误，自动插入“不可用”。
 	- **ERROR错误**：表示公式无法被正确解析，通常是因为缺少分隔符（如逗号）
