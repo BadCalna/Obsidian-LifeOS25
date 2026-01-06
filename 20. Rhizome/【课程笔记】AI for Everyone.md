@@ -75,6 +75,8 @@ source:
 			- 意图识别
 			- 执行任务（类似LLM的tool-calling或function-calling）
 		- 各个部分由不同团队负责是常用做法
+	- ## Case2: self-driving car
+		- ![[Pasted image 20260106180955.png]]
 
 ---
 ## 🧠思考与分析 (Thought & Analysis)
