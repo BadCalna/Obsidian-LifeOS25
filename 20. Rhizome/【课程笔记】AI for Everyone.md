@@ -67,6 +67,14 @@ source:
 			- 收集数据
 			- 进行分析/训练模型
 			- 分享建议/发布模型：根据收集到的反馈数据不断产出（迭代出）新的建议或新的模型
+- # Build AI in your company
+	- ## Case: smart speaker
+		- 任务处理步骤，所谓的AI Pipeline
+			- 唤醒
+			- 语音识别
+			- 意图识别
+			- 执行任务（类似LLM的tool-calling或function-calling）
+		- 各个部分由不同团队负责是常用做法
 
 ---
 ## 🧠思考与分析 (Thought & Analysis)
