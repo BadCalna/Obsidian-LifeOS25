@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.1.8 Core analytical skills.md",
+                "file": "20. Rhizome/我的生产力系统 - README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "10.1.8 Core analytical skills"
+              "title": "我的生产力系统 - README"
             }
           }
         ],
@@ -119,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "core",
+                "query": "fall",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,7 +130,8 @@
               "title": "搜索"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a988cac77a40a43d",
@@ -151,8 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412.50390243530273,
-    "collapsed": true
+    "width": 412.50390243530273
   },
   "right": {
     "id": "b81bc07e47d2e730",
@@ -286,16 +286,16 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "427f112a83090b54",
+  "active": "d900daafd723c73d",
   "lastOpenFiles": [
+    "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.1.8 Core analytical skills.md",
+    "20. Rhizome/【课程笔记】AI for Everyone.md",
     "20. Rhizome/Notion Tasks 数据库结构 V3.5.md",
     "20. Rhizome/Notion Projects 数据库结构 V3.5.md",
     "20. Rhizome/Notion Projects 数据库结构.md",
     "20. Rhizome/Notion Projects 数据库结构.md.tmp.13362.1767708361412",
     "00. System FILE/95. attachment/Pasted image 20260106180955.png",
-    "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.1.8 Core analytical skills.md",
     "20. Rhizome/【课程笔记】Google Data Analyst Certificate - Ask Question to Make Data-Driven Decisions.md",
-    "20. Rhizome/【课程笔记】AI for Everyone.md",
     "20. Rhizome/如何在Google Sheet进行多列排序？.md",
     "20. Rhizome/快速判断能否实施机器学习的经验法则.md",
     "00. System FILE/95. attachment/W1.pdf",
