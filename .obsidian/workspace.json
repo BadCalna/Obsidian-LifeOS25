@@ -59,36 +59,6 @@
         "currentTab": 1
       },
       {
-        "id": "9f3e95fd09b4ff2b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ea2104316f93c3b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20. Rhizome/我的生产力系统 - README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "我的生产力系统 - README"
-            }
-          }
-        ]
-      },
-      {
         "id": "1b05066d4a30fea9",
         "type": "tabs",
         "children": [
@@ -149,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fall",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -160,8 +130,7 @@
               "title": "搜索"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a988cac77a40a43d",
@@ -182,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412.50390243530273
+    "width": 412.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "b81bc07e47d2e730",
@@ -316,10 +286,11 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "ea2104316f93c3b3",
+  "active": "427f112a83090b54",
   "lastOpenFiles": [
-    "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.1.8 Core analytical skills.md",
+    "20. Rhizome/我的生产力系统 - README.md",
     "20. Rhizome/【课程笔记】AI for Everyone.md",
+    "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.1.8 Core analytical skills.md",
     "20. Rhizome/Notion Tasks 数据库结构 V3.5.md",
     "20. Rhizome/Notion Projects 数据库结构 V3.5.md",
     "20. Rhizome/Notion Projects 数据库结构.md",
@@ -341,7 +312,6 @@
     "00. System FILE/95. attachment/Pasted image 20251215182630.png",
     "20. Rhizome/Minimal Attempt V3.0的预算管理系统设计及实现路径.md",
     "20. Rhizome/KaTex字体公式.md",
-    "20. Rhizome/我的生产力系统 - README.md",
     "00. System FILE/Template/TPL-Rhizome Tool Note.md",
     "00. System FILE/Template/TPL-Rhizome Note.md",
     "20. Rhizome/Notion API中的页面(Page)到底是什么玩意？.md",

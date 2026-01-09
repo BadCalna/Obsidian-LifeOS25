@@ -77,7 +77,7 @@ source:
 		- 各个部分由不同团队负责是常用做法
 	- ## Case2: self-driving car
 		- ![[Pasted image 20260106180955.png]]
-
+	- 
 ---
 ## 🧠思考与分析 (Thought & Analysis)
 > Tips：“它让我怎么想？”比“它说了什么？”更重要，尝试用自己的话讲述
