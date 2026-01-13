@@ -100,6 +100,24 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "9a031f9d22b455ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "988c5177e02f6d8a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.11.4"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +161,8 @@
               "title": "搜索"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a988cac77a40a43d",
@@ -164,8 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412.50390243530273,
-    "collapsed": true
+    "width": 412.50390243530273
   },
   "right": {
     "id": "b81bc07e47d2e730",
@@ -299,7 +317,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "22a74c94715b689a",
+  "active": "d900daafd723c73d",
   "lastOpenFiles": [
     "20. Rhizome/我的生产力系统 - README.md",
     "20. Rhizome/【课程笔记】AI for Everyone.md",
