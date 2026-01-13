@@ -85,8 +85,21 @@
               "icon": "lucide-file",
               "title": "【课程笔记】AI for Everyone"
             }
+          },
+          {
+            "id": "22a74c94715b689a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.11.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -269,7 +282,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:创建新数据库": false,
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -286,7 +299,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "427f112a83090b54",
+  "active": "22a74c94715b689a",
   "lastOpenFiles": [
     "20. Rhizome/我的生产力系统 - README.md",
     "20. Rhizome/【课程笔记】AI for Everyone.md",
