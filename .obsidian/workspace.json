@@ -54,70 +54,21 @@
               "icon": "lucide-file",
               "title": "我的生产力系统 - README"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "1b05066d4a30fea9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "427f112a83090b54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20. Rhizome/【课程笔记】AI for Everyone.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "【课程笔记】AI for Everyone"
-            }
           },
           {
-            "id": "22a74c94715b689a",
+            "id": "77973e9a170d5ec3",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "excalidraw",
               "state": {
-                "currentVersion": "1.11.4"
+                "file": "00. System FILE/Excalidraw/Drawing 2026-01-15 16.04.24.excalidraw.md"
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.11.4"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-01-15 16.04.24.excalidraw"
             }
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "9a031f9d22b455ab",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "988c5177e02f6d8a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.11.4"
-            }
-          }
-        ]
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -161,8 +112,7 @@
               "title": "搜索"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a988cac77a40a43d",
@@ -183,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412.50390243530273
+    "width": 412.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "b81bc07e47d2e730",
@@ -317,9 +268,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "d900daafd723c73d",
+  "active": "77973e9a170d5ec3",
   "lastOpenFiles": [
     "20. Rhizome/我的生产力系统 - README.md",
+    "00. System FILE/Excalidraw/Drawing 2026-01-15 16.04.24.excalidraw.md",
     "20. Rhizome/【课程笔记】AI for Everyone.md",
     "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.1.8 Core analytical skills.md",
     "20. Rhizome/Notion Tasks 数据库结构 V3.5.md",
@@ -349,7 +301,6 @@
     "20. Rhizome/正确使用待办列表的两种可能办法.md",
     "20. Rhizome/为什么我们需要清晰？.md",
     "20. Rhizome/什么是CORE工作流？.md",
-    "10. PKM/30. Areas/Self Reflection/Feb.2025.md",
     "00. System FILE/95. attachment/Pasted image 20251118160416.png",
     "00. System FILE/95. attachment/Pasted image 20251118155716.png",
     "00. System FILE/95. attachment/Pasted image 20251118154701.png",
