@@ -66,9 +66,21 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2026-01-15 16.04.24.excalidraw"
             }
+          },
+          {
+            "id": "00347946cadca2d7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.11.5"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -268,7 +280,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "77973e9a170d5ec3",
+  "active": "f82db95bec216020",
   "lastOpenFiles": [
     "20. Rhizome/我的生产力系统 - README.md",
     "00. System FILE/Excalidraw/Drawing 2026-01-15 16.04.24.excalidraw.md",
