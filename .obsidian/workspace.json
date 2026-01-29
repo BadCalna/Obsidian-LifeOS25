@@ -71,16 +71,52 @@
             "id": "00347946cadca2d7",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.5"
+                "file": "20. Rhizome/【课程笔记】AI for Everyone.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.11.5"
+              "icon": "lucide-file",
+              "title": "【课程笔记】AI for Everyone"
+            }
+          },
+          {
+            "id": "cd3d3323cace160b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20. Rhizome/模糊如何阻碍我们走向成功？.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "模糊如何阻碍我们走向成功？"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -280,11 +316,12 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "f82db95bec216020",
+  "active": "cd3d3323cace160b",
   "lastOpenFiles": [
+    "20. Rhizome/【课程笔记】AI for Everyone.md",
+    "20. Rhizome/模糊如何阻碍我们走向成功？.md",
     "20. Rhizome/我的生产力系统 - README.md",
     "00. System FILE/Excalidraw/Drawing 2026-01-15 16.04.24.excalidraw.md",
-    "20. Rhizome/【课程笔记】AI for Everyone.md",
     "10. PKM/10. Projects/Google Data Analytics/10. Foundations/10.1.8 Core analytical skills.md",
     "20. Rhizome/Notion Tasks 数据库结构 V3.5.md",
     "20. Rhizome/Notion Projects 数据库结构 V3.5.md",
@@ -312,7 +349,6 @@
     "20. Rhizome/Notion API中的页面(Page)到底是什么玩意？.md",
     "20. Rhizome/正确使用待办列表的两种可能办法.md",
     "20. Rhizome/为什么我们需要清晰？.md",
-    "20. Rhizome/什么是CORE工作流？.md",
     "00. System FILE/95. attachment/Pasted image 20251118160416.png",
     "00. System FILE/95. attachment/Pasted image 20251118155716.png",
     "00. System FILE/95. attachment/Pasted image 20251118154701.png",
