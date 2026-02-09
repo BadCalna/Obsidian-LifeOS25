@@ -11,7 +11,7 @@ tags:
 aliases: []
 source: https://api-docs.deepseek.com/zh-cn/api/deepseek-api
 ---
-# 在Python里接入AI的API进行对话——就像小时候放学后去朋友家玩儿
+# 在Python里接入AI的API进行对话
 
 ## 📌核心结论 (The Gist)
 > [在这里写下最重要的那句话，让未来的你一秒看懂]
