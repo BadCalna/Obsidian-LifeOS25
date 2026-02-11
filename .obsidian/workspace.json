@@ -66,9 +66,21 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2026-01-15 16.04.24.excalidraw"
             }
+          },
+          {
+            "id": "17d8ce860dc25c1c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.11.7"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -268,7 +280,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "77973e9a170d5ec3",
+  "active": "8cfaa5dffbc2e4ab",
   "lastOpenFiles": [
     "20. Rhizome/【课程笔记】AI for Everyone.md",
     "20. Rhizome/在Python里接入AI的API进行对话.md",
