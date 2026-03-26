@@ -124,7 +124,8 @@
               "title": "搜索"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a988cac77a40a43d",
@@ -145,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412.50390243530273,
-    "collapsed": true
+    "width": 412.50390243530273
   },
   "right": {
     "id": "b81bc07e47d2e730",
@@ -280,7 +280,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "8cfaa5dffbc2e4ab",
+  "active": "17d8ce860dc25c1c",
   "lastOpenFiles": [
     "20. Rhizome/【课程笔记】AI for Everyone.md",
     "20. Rhizome/在Python里接入AI的API进行对话.md",
