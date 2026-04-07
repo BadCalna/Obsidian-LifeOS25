@@ -95,6 +95,37 @@
             "id": "061d3f7ed57f1132",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10. PKM/30. Areas/Python/Python-web/补充知识.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "补充知识"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "964684bc78b577fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8616f1f74994ff2",
+            "type": "leaf",
+            "state": {
               "type": "release-notes",
               "state": {
                 "currentVersion": "1.12.7"
@@ -103,8 +134,7 @@
               "title": "版本说明 1.12.7"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
