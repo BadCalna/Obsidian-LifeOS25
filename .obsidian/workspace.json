@@ -34,19 +34,31 @@
         ]
       },
       {
-        "id": "964684bc78b577fb",
+        "id": "79a780c321a6653b",
         "type": "tabs",
         "children": [
           {
-            "id": "f8616f1f74994ff2",
+            "id": "53339257a80ced4e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.7"
+                "file": "DeepResearch_Ob+ClaudeCode_AI集成方案.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.12.7"
+              "icon": "lucide-file",
+              "title": "DeepResearch_Ob+ClaudeCode_AI集成方案"
             }
           }
         ]
@@ -114,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412.50390243530273,
-    "collapsed": true
+    "width": 412.50390243530273
   },
   "right": {
     "id": "b81bc07e47d2e730",
@@ -249,8 +260,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "6a3b0970c2dc3e11",
+  "active": "53339257a80ced4e",
   "lastOpenFiles": [
+    "AI账号代理_运营日志_2026.csv",
+    "AI账号代理_运营追踪.numbers",
     "DeepResearch_Ob+ClaudeCode_AI集成方案.md",
     "闲鱼获客私教玩法_总结文档.md",
     "10. PKM/30. Areas/Python/Webscrapping/Outline.md",
@@ -279,7 +292,6 @@
     "20. Rhizome/到底什么是AI？为什么AI时代现在到来了？.md",
     "20. Rhizome/AI公司 = AI + 公司？.md",
     "20. Rhizome/什么是数据？.md",
-    "00. System FILE/Excalidraw/AI_workflow_conceptual_drawing.excalidraw.md",
     "00. System FILE/95. attachment/Pasted image 20251225143006.png",
     "00. System FILE/95. attachment/Pasted image 20251215182630.png",
     "00. System FILE/95. attachment/Pasted image 20251118160416.png",
@@ -296,7 +308,6 @@
     "00. System FILE/Functions",
     "20. Rhizome",
     "10. PKM/30. Areas/Python/Python-web/Django",
-    "10. PKM/30. Areas/Python/Webscrapping/未命名.nssyncsc",
     "未命名.canvas"
   ]
 }
