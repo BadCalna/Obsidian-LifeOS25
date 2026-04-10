@@ -1,7 +1,7 @@
 {
   "cssTheme": "Minimal",
   "theme": "moonstone",
-  "accentColor": "#fa0000",
+  "accentColor": "",
   "textFontFamily": "Product Sans,LXGW WenKai",
   "interfaceFontFamily": "Product Sans,LXGW WenKai",
   "baseFontSize": 16,
@@ -9,5 +9,6 @@
   "nativeMenus": true,
   "enabledCssSnippets": [],
   "translucency": false,
-  "showRibbon": true
+  "showRibbon": true,
+  "showViewHeader": false
 }
