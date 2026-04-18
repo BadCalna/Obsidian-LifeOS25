@@ -32,6 +32,36 @@
             }
           }
         ]
+      },
+      {
+        "id": "8278591c8d364708",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e5551d4fae2601e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DeepResearch_Ob+ClaudeCode_AI集成方案.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "DeepResearch_Ob+ClaudeCode_AI集成方案"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412.50390243530273,
-    "collapsed": true
+    "width": 412.50390243530273
   },
   "right": {
     "id": "b81bc07e47d2e730",
@@ -230,7 +259,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "f6ff104db8808628",
+  "active": "23f34688a295cf49",
   "lastOpenFiles": [
     "DeepResearch_Ob+ClaudeCode_AI集成方案.md",
     "闲鱼获客私教玩法_总结文档.md",
