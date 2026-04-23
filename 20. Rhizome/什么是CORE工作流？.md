@@ -84,4 +84,5 @@ source: https://www.notion.so/6600-CORE-6552d23e479f4d8890727b7b43859227?v=28cc7
 ## 🔗关联笔记 (Connections)
 ---
 - [[为什么我们需要清晰？]]
+- Evergreen：[[CORE 工作流的核心不是记录，而是可靠回顾]]
 
