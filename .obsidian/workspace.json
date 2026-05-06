@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. PKM/10. Projects/Yingdao RPA/10.1.3 Basis Component of Application - Operation.md",
+                "file": "10. PKM/15. Evergreen/Rhizome 的目标不是记录，而是增援未来的自己.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "10.1.3 Basis Component of Application - Operation"
+              "title": "Rhizome 的目标不是记录，而是增援未来的自己"
             }
           }
         ]
@@ -208,7 +208,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,14 +231,15 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "23f34688a295cf49",
+  "active": "8e5551d4fae2601e",
   "lastOpenFiles": [
+    "10. PKM/15. Evergreen/CORE 工作流的核心不是记录，而是可靠回顾.md",
     "10. PKM/15. Evergreen/理智脑负责设计，驱动力必须向本能借力.md",
     "10. PKM/15. Evergreen/待办列表天然会把你推向轻松任务.md",
     "10. PKM/15. Evergreen/个人系统要先对抗摩擦，再追求完备.md",
-    "10. PKM/15. Evergreen/CORE 工作流的核心不是记录，而是可靠回顾.md",
-    "10. PKM/15. Evergreen/Rhizome 的目标不是记录，而是增援未来的自己.md",
     "10. PKM/00. Maps/2025 Rhizome 资产地图.md",
+    "10. PKM/10. Projects/Yingdao RPA/10.1.3 Basis Component of Application - Operation.md",
+    "10. PKM/15. Evergreen/Rhizome 的目标不是记录，而是增援未来的自己.md",
     "00. System FILE/Template/TPL-Evergreen Note.md",
     "10. PKM/15. Evergreen",
     "10. PKM/00. Maps",
@@ -254,7 +256,6 @@
     "10. PKM/30. Areas/Python/Webscrapping/Outline.md",
     "10. PKM/30. Areas/Python/Python-web/补充知识.md",
     "10. PKM/10. Projects/Google Data Analytics/50. Analyze｜Analyze.md",
-    "10. PKM/10. Projects/Yingdao RPA/10.1.3 Basis Component of Application - Operation.md",
     "10. PKM/30. Areas/Python/Pycharm 2025.md",
     "10. PKM/30. Areas/Python/Python Develop Tips.md",
     "20. Rhizome/【课程笔记】AI for Everyone.md",
