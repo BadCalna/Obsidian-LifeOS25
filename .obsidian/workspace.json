@@ -18,6 +18,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "cd470e53e7c73465",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a30ec334944c574",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +77,8 @@
               "title": "搜索"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a988cac77a40a43d",
